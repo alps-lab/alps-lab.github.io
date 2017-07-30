@@ -1,0 +1,262 @@
+---
+title: Publications
+layout: page
+permalink: /publications/index.html
+---
+
+<div align="center"><img src="/assets/images/wordle.png" alt="wordle" height="70%" width="70%" align="center"/></div>
+
+
+<!-- ![wordle]({{ site.url }}/assets/images/wordle.png) -->
+
+<!-- ## Selected Publications -->
+
+<hr>
+#### Computational Privacy
+
+* <label class="info_label_style">under review</label>  **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
+*<font color="black">Shouling Ji, Qinchen Gu, Ting Wang, Raheem Beyah</font>*
+
+* <label class="info_label_style">under review</label>  **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
+*<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>*
+
+* <label class="info_label_style">under review</label>  **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>**<br>
+*<font color="black">Shouling Ji, Tianyu Du, Zhen Hong, Ting Wang, Raheem Beyah</font>*
+
+
+* <label class="success_label_style">new!</label> **<font color="purple">Private, yet Practical, Multiparty Deep Learning</font>**<br>
+*<font color="black">Xinyang Zhang, Shouling Ji, Hui Wang, Ting Wang</font>* <br>
+*<font color="blue">The 37th IEEE International Conference on Distributed Computing Systems (ICDCS '17)</font>*
+
+* <label class="success_label_style">new!</label>  **<font color="purple">De-SAG: De-anonymizing Structure-Attribute Graph Data</font>**<br>
+*<font color="black">Shouling Ji, Shukun Yang, Ting Wang, Prateek Mittal, Raheem Beyah</font>* <br>
+*<font color="blue">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>*, 2017
+
+* **<font color="purple">Kaleido: Network Traffic Attribution using Multifaceted Footprinting </font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-sdm-2014.pdf), [bibtex]({{ site.url }}/references.html#Wang:2014:sdm)]<br>
+*<font color="black">Ting Wang, Fei Wang, Douglas Schales, Reiner Sailer</font>* <br>
+*<font color="blue">The 2014 SIAM International Conference on Data Mining (SDM '14)</font>*
+
+* **<font color="purple">Fine-Grained Access Control for Personal Data</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-sacmat-2012.pdf), [bibtex]({{ site.url }}/references.html#Wang:2012:sacmat)]<br>
+*<font color="black">Ting Wang, Mudhakar Srivatsa, Ling Liu</font>* <br>
+*<font color="blue">The 17th ACM Symposium on Access Control Models and Technologies (SACMAT '12)</font>*
+
+* **<font color="purple">Output Privacy in Data Mining</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-tods-2011.pdf), [bibtex]({{ site.url }}/references.html#Wang:2011:tods)]<br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">ACM Transactions on Database Systems (TODS)</font>*, 36(1):1-34, 2011
+
+* **<font color="purple">Privacy-Preserving Indexing for eHealth Information Networks</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/tang-cikm-2011.pdf), [bibtex]({{ site.url }}/references.html#Tang:2011:cikm)]<br>
+*<font color="black">Yuzhe Tang, Ting Wang, Ling Liu, Shicong Meng, Balaji Palanisamy</font>* <br>
+*<font color="blue">The 20th ACM International Conference on Information and Knowledge Management (CIKM '11)</font>*
+
+* **<font color="purple">Modeling Data Flow in Socio-Information Networks: A Risk Estimation Approach</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-sacmat-2011.pdf), [bibtex]({{ site.url }}/references.html#Wang:2011:sacmat)] <br>
+*<font color="black">Ting Wang, Mudhakar Srivatsa, Dakshi Agrawal, Ling Liu</font>* <br>
+*<font color="blue">The 16th ACM Symposium on Access Control Models and Technologies (SACMAT '11)</font>*
+
+* **<font color="purple">Execution Assurance for Massive Computing Tasks</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-ieice-2010.pdf), [bibtex]({{ site.url }}/references.html#Wang:2010:ieice)]<br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">IEICE Transactions on Information and Systems (IEICE)</font>*, E93-D(6):1343-1351, 2010
+
+<!-- * **<font color="purple">Output Privacy in Stream Mining</font>** <br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">Privacy-Aware Knowledge Discovery: Novel Applications and New Technique</font>* (Editors: Francesco Bonchi and Elena Ferrari), Chapman & Hall/CRC Press, 2010 -->
+
+* **<font color="purple">XColor: Protecting General Proximity Privacy</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-icde-2010.pdf), [bibtex]({{ site.url }}/references.html#Wang:2010:icde)]<br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">The 26th IEEE International Conference on Data Engineering (ICDE '10)</font>*
+
+* **<font color="purple">Privacy-Aware Mobile Services over Road Networks</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-pvldb-2009.pdf), [bibtex]({{ site.url }}/references.html#Wang:2009:vldb)] <br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue"> Proceedings of the VLDB Endowment (PVLDB)</font>*, 2(1):1042-1053, 2009
+
+<!-- * **<font color="purple">From Data Privacy to Location Privacy</font>** <br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">Machine Learning in Cyber Trust: Reliability, Security, and Privacy</font>* (Editors: Jeffrey Tsai and Philip Yu), Springer-Verlag, 2009 -->
+
+* **<font color="purple">A General Proximity Privacy Principle</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-icde-2009.pdf), [bibtex]({{ site.url }}/references.html#Wang:2009:icde)]<br>
+*<font color="black">Ting Wang, Shicong Meng, Bhuvan Bamba, Ling Liu, Calton Pu</font>* <br>
+*<font color="blue">The 25th IEEE International Conference on Data Engineering (ICDE '09)</font>*
+
+* **<font color="purple">Butterfly: Protecting Output Privacy in Stream Mining</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-icde-2008.pdf), [bibtex]({{ site.url }}/references.html#Wang:2008:icde)]<br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">The 24th IEEE International Conference on Data Engineering (ICDE '08)</font>*
+
+* **<font color="purple">Supporting Anonymous Location Queries in Mobile Environments with PrivacyGrid</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/bamba-www-2008.pdf), [bibtex]({{ site.url }}/references.html#Bamba:2008:www)]<br>
+*<font color="black">Bhuvan Bamba, Ling Liu, Peter Pesti, Ting Wang</font>* <br>
+*<font color="blue">The 17th International World Wide Web Conference (WWW '08)</font>*
+
+<hr>
+
+
+#### Cyber-Security
+
+* <label class="info_label_style">under review</label>  **<font color="purple">Modular Learning Component Attacks: Today's Reality, Tomorrow's Challenge</font>**<br>
+*<font color="black">Xinyang Zhang, Yujie Ji, Ting Wang</font>*
+
+* <label class="info_label_style">under review</label>  **<font color="purple">Towards Attack-Agnostic Defenses against Adversarial Inputs</font>**<br>
+*<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Ting Wang</font>*
+
+* <label class="success_label_style">new!</label>  **<font color="purple">Backdoor Attacks against Learning Systems</font>** [pdf, [bibtex]({{ site.url }}/references.html#Wang:2016:icdcs)]<br>
+*<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
+*<font color="blue">The 5th IEEE Conference on Communications and Network Security (CNS '17)</font>*
+
+* **<font color="purple">BotMeter: Charting Botnet Landscapes in Large Networks </font>** [pdf, [bibtex]({{ site.url }}/references.html#Wang:2016:icdcs)]<br>
+*<font color="black">Ting Wang, Xin Hu, Jiyong Jang, Shouling Ji, Marc Stoecklin, Teryl Taylor</font>* <br>
+*<font color="blue">The 36th IEEE International Conference on Distributed Computing Systems (ICDCS '16)</font>*
+
+* **<font color="purple">Baywatch: Robust Beaconing Detection to Identify Infected Hosts in Large-Scale Enterprise Networks</font>** [pdf, [bibtex]({{ site.url }}/references.html#Hu:2016:dsn)]<br>
+*<font color="black">Xin Hu, Jiyong Jang, Marc Stoecklin, Ting Wang, Douglas Schales, Dhilung Kirat, Josyula Rao</font>* <br>
+*<font color="blue">The 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN '16)</font>*
+
+* **<font color="purple">Detecting Malicious Exploit Kits using Tree-based Similarity Searches</font>** [pdf, [bibtex]({{ site.url }}/references.html#Taylor:2016:codaspy)]<br>
+*<font color="black">Teryl Taylor, Xin Hu, Ting Wang, Jiyong Jang, Marc Stoecklin, Fabian Monrose, Reiner Sailer</font>* <br>
+*<font color="blue">The 6th ACM Conference on Data and Application Security and Privacy (CODASPY '16)</font>*
+
+* **<font color="purple">Hunting for Invisibility: Characterizing and Detecting Malicious Web Infrastructures through Server Visibility Analysis</font>** [pdf, [bibtex]({{ site.url }}/references.html#Zhang:2016:infocom)]<br>
+*<font color="black">Jialong Zhang, Xin Hu, Jiyong Jang, Ting Wang, Guofei Gu, Marc Stoecklin</font>* <br>
+*<font color="blue">2016 IEEE International Conference on Computer Communications (INFOCOM '16)</font>*
+
+* **<font color="purple">PARS: A Uniform and Open-source Password Analysis and Research System</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/ji-acsac-2015.pdf), [bibtex]({{ site.url }}/references.html#Ji:2015:acsac)]<br>
+*<font color="black">Shouling Ji, Shukun Yang, Ting Wang, Changchang Liu, Wei-han Lee, Raheem Beyah</font>* <br>
+*<font color="blue">The 31st Annual Computer Science Applications Conference (ACSAC '15)</font>*
+
+* **<font color="purple">Rateless and Pollution-Attack-Resilient Network Coding </font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/huang-isit-2015.pdf), [bibtex]({{ site.url }}/references.html#Huang:2015:isit)]<br>
+*<font color="black">Wentao Huang, Ting Wang, Xin Hu, Jiyong Jang, Theodoros Salonidis</font>* <br>
+*<font color="blue">The 2015 IEEE International Symposium on Information Theory (ISIT '15)</font>*
+
+
+* **<font color="purple">FCCE: Highly Scalable Distributed Feature Collection and Correlation Engine for Low Latency Big Data Analytics</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/shales-icde-2015.pdf), [bibtex]({{ site.url }}/references.html#Schales:2015:icde)]<br>
+*<font color="black">Douglas Schales, Xin Hu, Jiyong Jang, Reiner Sailer, Marc Stoecklin, Ting Wang</font>* <br>
+*<font color="blue">The 31st IEEE International Conference on Data Engineering (ICDE '15)</font>*
+
+* **<font color="purple">MUSE: Asset Risk Scoring in Enterprise Network with Mutually Reinforced Reputation Propagation</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/hu-eurasip-2014.pdf), [bibtex]({{ site.url }}/references.html#Hu:2014:eurasip)]<br>
+*<font color="black">Xin Hu, Ting Wang, Marc Stoecklin, Douglas Schales, Jiyong Jang, Reiner Sailer</font>* <br>
+*<font color="blue">EURASIP Journal on Information Security (EURASIP)</font>*, 2014:17, 2014
+
+* **<font color="purple">Rebuilding the Tower of Babel: Towards Cross-System Malware Information Sharing </font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-cikm-2014.pdf), [bibtex]({{ site.url }}/references.html#Wang:2014:cikm)]<br>
+*<font color="black">Ting Wang, Shicong Meng, Wei Gao, Xin Hu</font>* <br>
+*<font color="blue">The 23rd ACM International Conference on Information and Knowledge Management (CIKM '14)</font>*
+
+* **<font color="purple">Reconciling Malware Label Discrepancy via Consensus Learning </font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-iiweb-2015.pdf), [bibtex]({{ site.url }}/references.html#Wang:2014:icdew)] <br>
+*<font color="black">Ting Wang, Xin Hu, Shicong Meng, Reiner Sailer</font>* <br>
+*<font color="blue">The 10th International Workshop on Information Integration on the Web (IIWeb '14)</font>*
+
+* **<font color="purple">Lightweight Authentication of Freshness in Outsourced Key-Value Store</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/tang-acsac-2014.pdf), [bibtex]({{ site.url }}/references.html#Tang:2014:acsac)]<br>
+*<font color="black">Yuzhe Tang, Ting Wang, Ling Liu, Xin Hu, Jiyong Jang</font>* <br>
+*<font color="blue">The 30th Annual Computer Security Applications Conference (ACSAC '14)</font>*
+
+<!-- * **<font color="purple">Asset Risk Scoring in Enterprise Network with Mutually Reinforced Reputation Propagation </font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/hu-iwcc-2014.PDF), [bibtex]({{ site.url }}/references.html#Wang:2012:sacmat)] <br>
+*<font color="black">Xin Hu, Ting Wang, Marc Stoecklin, Douglas Schales, Jiyong Jang, Reiner Sailer</font>* <br>
+*<font color="blue">International Workshop on Cyber Crime (IWCC '14)</font>* -->
+
+<!-- * **<font color="purple">Stream Computing for Large-Scale, Multi-Channel Cyber Threat Analytics </font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/schales-iri-2014.pdf), bibtex] <br>
+*<font color="black">Douglas Schales, Mihai Christodorescu, Xin Hu, Jiyong Jang, Josyula Rao, Reiner Sailer, Marc Stoecklin, Wietse Venema, Ting Wang</font>* <br>
+*<font color="blue">The 15th IEEE International Conference on Information Reuse and Integration (IRI '14)</font>* -->
+
+
+
+<hr>
+
+#### Data Science
+
+* **<font color="purple">Preparedness or Serendipity? Explaining Creativity in Scientific Enterprise</font>**<br>
+*<font color="black">Xinyang Zhang, Dashun Wang, Ting Wang</font>* <br>
+*<font color="blue">The 25th ACM International Conference on Information and Knowledge Management (CIKM '16)</font>*
+
+* **<font color="purple">Indexing Earth Mover's Distance over Network Metrics</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-tkde-2015.pdf), [bibtex]({{ site.url }}/references.html#Wang:2015:tkde)]<br>
+*<font color="black">Ting Wang, Shicong Meng, Jiang Bian</font>* <br>
+*<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*, 27(6):1588-1601, 2015
+
+
+* **<font color="purple">Quantifying Herding Effects in Crowd Wisdom </font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-kdd-2014.pdf), [bibtex]({{ site.url }}/references.html#Wang:2014:kdd)]<br>
+*<font color="black">Ting Wang, Dashun Wang, Fei Wang</font>* <br>
+*<font color="blue">The 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '14)</font>*<br>
+🏅<font color="red">Invited to Big Data Journal</font>
+    
+
+* **<font color="purple">Why Amazon's Ratings Might Mislead You? The Story of Herding Effects</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-bigdata-2015.pdf), [bibtex]({{ site.url }}/references.html#Wang:2014:bigdata)]<br>
+*<font color="black">Ting Wang, Dashun Wang</font>* <br>
+*<font color="blue">Big Data Journal (Big Data)</font>*, 2(4):196-204, 2014
+
+
+* **<font color="purple">Microscopic Social Influence </font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-sdm-2012.pdf), [bibtex]({{ site.url }}/references.html#Wang:2012:sdm)]<br>
+*<font color="black">Ting Wang, Mudhakar Srivatsa, Dakshi Agrawal, Ling Liu</font>* <br>
+*<font color="blue">The 2012 SIAM International Conference on Data Mining (SDM '12)</font>*
+
+
+* **<font color="purple">Spatio-Temporal Patterns in Network Events</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-conext-2010.pdf), [bibtex]({{ site.url }}/references.html#Wang:2010:conext)]<br>
+*<font color="black">Ting Wang, Mudhakar Srivatsa, Dakshi Agrawal, Ling Liu</font>* <br>
+*<font color="blue">The 6th ACM International Conference on Emerging Networking Experiments and Technologies (CoNEXT '10)</font>* <br>
+🏅<font color="red">Best paper award finalist</font>
+
+
+* **<font color="purple">Learning, Indexing, and Detecting Network Faults</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-kdd-2009.pdf), [bibtex]({{ site.url }}/references.html#Wang:2009:kdd)]<br>
+*<font color="black">Ting Wang, Mudhakar Srivatsa, Dakshi Agrawal, Ling Liu</font>* <br>
+*<font color="blue">The 15th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '09)</font>* <br>
+🏅<font color="red">Integrated as key technology in IBM big data products</font>
+
+
+* **<font color="purple">A Temporal Data-Mining Approach for Discovering End-to-End Transaction Flows</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-icws-2008.pdf), [bibtex]({{ site.url }}/references.html#Wang:2008:icws)]<br>
+*<font color="black">Ting Wang, Chang-shing Perng, Tao Tao, Chungqiang Tang, Edward So, Chun Zhang, Rong Chang, Ling Liu</font>* <br>
+*<font color="blue">The 2008 IEEE International Conference on Web Services (ICWS '08)</font>* <br>
+🏅<font color="red">Invited to IEEE Transactions on Services Computing</font>
+
+
+
+<hr>
+
+#### Potpourri
+
+
+<!-- An early [<font color="blue">version</font>](https://dl.dropboxusercontent.com/u/25645770/publications/tang-icde-2014.pdf) appears as system demo in ICDE '14 (bibtex) -->
+
+
+* **<font color="purple">On Exploiting Dynamic Execution Patterns for Workload Offloading in Mobile Cloud Applications</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/gao-icnp-2014.pdf), [bibtex]({{ site.url }}/references.html#Gao:2014:icnp)]<br>
+*<font color="black">Wei Gao, Yong Li, Haoyang Lu, Ting Wang, Cong Liu</font>* <br>
+*<font color="blue">The 22nd IEEE International Conference on Network Protocols (ICNP '14)</font>*
+
+
+<!-- * <font color="blue">CloudLEGO: Scalable Cross-VM-Type Application Performance Prediction</font> </br>
+Shicong Meng, Arun Iyengar, Ling Liu, Ting Wang, Jian Tan, Ignacio Silva-Lepe, and Isabelle Rouvellou </br>
+*The 4th ACM Symposium on Cloud Computing* (SoCC '13) (bibtex) -->
+
+* **<font color="purple">State Monitoring in Cloud Datacenters</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/meng-tkde-2011.pdf), [bibtex]({{ site.url }}/references.html#Meng:2011:tkde)] <br>
+*<font color="black">Shicong Meng, Ling Liu, Ting Wang</font>* <br>
+*<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*, 23(9):1328-1344, 2011
+
+* **<font color="purple">Monitoring Continuous State Violation in Datacenters: Exploring the Time Dimension</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/meng-icde-2010.pdf), [bibtex]({{ site.url }}/references.html#Meng:2010:icde)]<br>
+*<font color="black">Shicong Meng, Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">The 26th IEEE International Conference on Data Engineering (ICDE '10)</font>*
+
+
+* **<font color="purple">SeMap: A Generic Mapping Construction System</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-edbt-2008.pdf), [bibtex]({{ site.url }}/references.html#Wang:2008:edbt)]<br>
+*<font color="black">Ting Wang, Rachel Pottinger</font>* <br>
+*<font color="blue">The 11th International Conference on Extending Database Technology (EDBT '08)</font>*
+
+
+* **<font color="purple">Efficient and Density-Aware Routing for Wireless Sensor Networks</font>** [[pdf](https://dl.dropboxusercontent.com/u/25645770/publications/wang-icccn-2006.pdf), [bibtex]({{ site.url }}/references.html#Wang:2006:icccn)]<br>
+*<font color="black">Ting Wang, Shuang Hao, Ping Wang, Gang Peng</font>* <br>
+*<font color="blue">The 15th International Conference on Computer Communication and Networks (ICCCN '06)</font>*
+
+
+<!-- * [<font color="blue">Poster: Sensor Networks Routing via Bayesian Exploration</font>](https://dl.dropboxusercontent.com/u/25645770/publications/hao-wln-2006.pdf)</br>
+Shuang Hao and Ting Wang</br>
+*The 31st IEEE Conference on Local Computer Networks* (LCN '06) (bibtex) -->
+
+<!-- * **<font color="purple">Adaptive Routing for Sensor Networks using Reinforcement Learning</font>** <br>
+*<font color="black">Ping Wang, Ting Wang</font>* <br>
+*<font color="blue">The 6th IEEE International Conference on Computer and Information Technology (CIT '06)</font>*
+
+
+* **<font color="purple">TWStream: Finding Correlated Streams under Time Warping</font>** [pdf, bibtex]<br>
+*<font color="black">Ting Wang</font>* <br>
+*<font color="blue">The 8th Asia Pacific Web Conference (APWeb '06)</font>*
+
+<!-- * **<font color="purple">Generalized Projected Clustering in High-Dimensional Streams</font>** <br>
+*<font color="black">Ting Wang</font>* <br>
+*<font color="blue">The 8th Asia PacificWeb Conference (APWeb '06)</font>* -->
+
+<hr>
+
+<!-- <div class="footnotes"> -->
+&#42; The materials above are copyrighted by the corresponding publishers (e.g. ACM, IEEE, Springer Verlag). You should download them only if you accept and obey the terms and restrictions defined by the respective publishers, including only use the materials for personal or educational purpose.
+<!-- </div> -->
