@@ -3,7 +3,7 @@ name: 'Ting WANG'
 bio: 'Assistant Professor of Computer Science <br> @Lehigh University'
 
 # twitter summary info
-description: Personal Website of Ting Wang
+description: Homepage of Ting Wang
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://x-machine.github.io
+url: http://alps-lab.github.io
 
 permalink: /:title/
 
