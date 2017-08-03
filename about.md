@@ -24,7 +24,7 @@ I am Assistant Professor of Computer Science at Lehigh University. I am broadly 
 ### News
 
 <ul>
-	<li>08/17 <label class="fund_label_style">fund</label> Awarded a sole-PI grant by NSF to support our research on adversarial deep learning </li>
+	<!-- <li>08/17 <label class="fund_label_style">fund</label> Awarded a sole-PI grant by NSF to support our research on adversarial deep learning </li> -->
 	<li>07/17 <label class="paper_label_style">paper</label> One paper accepted by <em>CNS'17</em> </li>
 	<li>06/17 <label class="paper_label_style">paper</label> One paper accepted by <em>IEEE TDSC</em> </li>
 	<li>04/17 <label class="paper_label_style">paper</label> Two papers accepted by <em>ICDCS'17</em> </li>
