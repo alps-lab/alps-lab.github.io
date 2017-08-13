@@ -14,7 +14,7 @@ layout: page
 I am Assistant Professor of Computer Science at Lehigh University. I am broadly interested in
  machine learning, computational privacy, and cyber-security. My current research focuses on:
  * understanding privacy and security breaches of machine learning-powered systems
- * building rigorous, yet practical, solutions to mitigate such vulnerabilities
+ * building rigorous, yet practical, solutions to mitigate such threats
 
  I direct the [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
 
@@ -24,7 +24,7 @@ I am Assistant Professor of Computer Science at Lehigh University. I am broadly 
 ### News
 
 <ul>
-	<!-- <li>08/17 <label class="fund_label_style">fund</label> Awarded a sole-PI grant by NSF to support our research on adversarial deep learning </li> -->
+	<li>08/17 <label class="fund_label_style">fund</label> Awarded a sole-PI grant by NSF to support our research on adversarial deep learning </li>
 	<li>07/17 <label class="paper_label_style">paper</label> One paper accepted by <em>CNS'17</em> </li>
 	<li>06/17 <label class="paper_label_style">paper</label> One paper accepted by <em>IEEE TDSC</em> </li>
 	<li>04/17 <label class="paper_label_style">paper</label> Two papers accepted by <em>ICDCS'17</em> </li>
