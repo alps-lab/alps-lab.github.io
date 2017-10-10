@@ -35,7 +35,7 @@ I am fortunate to work with a group of wonderful Ph.D. students:
 Other great student collaborators include:
 
 * [Sam Nguyen](), M.Sc. student
-* [Nan Lin](), M.Sc. student
+* [Georgi Georgiev](), M.Sc. student
 
 <hr>
 

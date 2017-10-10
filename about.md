@@ -13,8 +13,8 @@ layout: page
 
 I am Assistant Professor of Computer Science at Lehigh University. I am broadly interested in
  machine learning, computational privacy, and cyber-security. My current research focuses on:
- * understanding privacy and security breaches of machine learning-powered systems
- * building rigorous, yet practical, solutions to mitigate such threats
+ * understanding privacy and security vulnerabilities of machine learning-powered systems
+ * building rigorous, yet practical, solutions to mitigate such risks
 
  I direct the [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
 
@@ -24,19 +24,20 @@ I am Assistant Professor of Computer Science at Lehigh University. I am broadly 
 ### News
 
 <ul>
-	<li>08/17 <label class="fund_label_style">fund</label> Awarded a sole-PI grant by NSF to support our research on adversarial deep learning </li>
-	<li>07/17 <label class="paper_label_style">paper</label> One paper accepted by <em>CNS'17</em> </li>
-	<li>06/17 <label class="paper_label_style">paper</label> One paper accepted by <em>IEEE TDSC</em> </li>
-	<li>04/17 <label class="paper_label_style">paper</label> Two papers accepted by <em>ICDCS'17</em> </li>
-	<li>05/16 <label class="paper_label_style">paper</label> One paper accepted by <em>CIKM'16</em> </li>
-	<li>05/16 <label class="talk_label_style">talk</label> Invited to give a presentation at the
+	<li>10/17 <label class="paper_label_style">paper</label> Our <font color="blue"><em>adversarial model</em></font> paper receives the <font color="red">best paper award</font> at <a href="http://cns2017.ieee-cns.org">IEEE CNS'17</a>. Congratulations, Yujie and Xinyang! </li>
+	<li>08/17 <label class="fund_label_style">fund</label> We are awarded a sole-PI grant by NSF to support our research on adversarial deep learning. Find details <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1718787">here</a>. </li>
+	<li>07/17 <label class="paper_label_style">paper</label> Our <font color="blue"><em>adversarial model</em></font> paper is accepted by <a href="http://cns2017.ieee-cns.org">IEEE CNS'17</a>.  </li>
+	<li>06/17 <label class="paper_label_style">paper</label> Our <font color="blue"><em>graph privacy</em></font> paper is accepted by <a href="https://mc.manuscriptcentral.com/tdsc-cs">IEEE TDSC</a>. </li>
+	<li>04/17 <label class="paper_label_style">paper</label> Our <font color="blue"><em>private deep learning</em></font> paper is accepted by <a href="http://icdcs2017.gatech.edu">IEEE ICDCS'17</a>. </li>
+	<li>05/16 <label class="paper_label_style">paper</label> Our <font color="blue"><em>computational creativity</em></font> paper is accepted by <a href="http://cikm2016.cs.iupui.edu">ACM CIKM'16</a>. </li>
+	<li>05/16 <label class="talk_label_style">talk</label> Ting is invited to give a presentation at the
 		<a href="http://cra.org/ccc/events/computing-innovation-societal-needs-the-impact-of-computing-research/">CCC Symposium on Computing Research</a> </li>
-	<li>03/16 <label class="paper_label_style">paper</label> One paper accepted by <em>ICDCS'16</em> </li>
-	<li>03/16 <label class="fund_label_style">fund</label> Awarded a sole-PI grant by NSF to support our research on deep learning-powered mobile service</li>
-	<li>02/16 <label class="paper_label_style">paper</label> One paper accepted by <em>DSN'16</em> </li>
-	<li>11/15 <label class="paper_label_style">paper</label> One paper accepted by <em>INFOCOM'16</em> </li>
-	<li>11/15 <label class="paper_label_style">paper</label> One paper accepted by <em>CODASPY'16</em></li>
-	<li>08/15 <label class="job_label_style">job</label> Started as Assistant Professor at Lehigh! </li>
+	<li>03/16 <label class="paper_label_style">paper</label> Our <font color="blue"><em>botnet population estimation</em></font> paper is accepted by <a href="http://www-higashi.ist.osaka-u.ac.jp/icdcs2016/">IEEE ICDCS'16</a>. </li>
+	<li>03/16 <label class="fund_label_style">fund</label> We are awarded a sole-PI grant by NSF to support our research on deep learning-powered mobile services. Find details <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1566526">here</a>. </li>
+	<li>02/16 <label class="paper_label_style">paper</label> Our <font color="blue"><em>beaconing detection</em></font> paper is accepted by <a href="https://dsn-2016.sciencesconf.org">IEEE DSN'16</a>. </li>
+	<li>11/15 <label class="paper_label_style">paper</label> Our <font color="blue"><em>malicious web infrastructure detection</em></font> paper accepted by <a href="http://infocom2016.ieee-infocom.org">IEEE INFOCOM'16</a>. </li>
+	<li>11/15 <label class="paper_label_style">paper</label> One <font color="blue"><em>exploit kit detection</em></font> paper accepted by <a href="https://sites.google.com/site/codaspy20162/">ACM CODASPY'16</a>.</li>
+	<li>08/15 <label class="job_label_style">job</label> Ting has started as Assistant Professor at Lehigh! </li>
 </ul>
 <hr>
 
@@ -44,6 +45,7 @@ I am Assistant Professor of Computer Science at Lehigh University. I am broadly 
 
 <ul style="list-style-type:none">
 	<li>📩 ting@cse.lehigh.edu </li>
+  <li>📩 inbox.ting@gmail.com </li>
 	<li>📞1 (610) 758 4601 </li>
 	<li>📪19 Memorial Drive West, Bethlehem, PA 18015</li>
 </ul>
