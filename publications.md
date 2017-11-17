@@ -101,7 +101,7 @@ permalink: /publications/index.html
 
 * <label class="success_label_style">new!</label>  **<font color="purple">Backdoor Attacks against Learning Systems</font>** [[pdf]({{ site.url }}/paper/ji-cns-2017.pdf), [bibtex]({{ site.url }}/references.html#Ji:2017:cns)]<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
-*<font color="blue">The 5th IEEE Conference on Communications and Network Security (CNS '17)</font>*
+*<font color="blue">The 5th IEEE Conference on Communications and Network Security (CNS '17)</font>* <br>
 🏅<font color="red">Best Paper Award</font>
 
 * **<font color="purple">BotMeter: Charting Botnet Landscapes in Large Networks </font>** [[pdf]({{ site.url }}/paper/wang-icdcs-2016.pdf), [bibtex]({{ site.url }}/references.html#Wang:2016:icdcs)]<br>
@@ -112,7 +112,7 @@ permalink: /publications/index.html
 *<font color="black">Xin Hu, Jiyong Jang, Marc Stoecklin, Ting Wang, Douglas Schales, Dhilung Kirat, Josyula Rao</font>* <br>
 *<font color="blue">The 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN '16)</font>*
 
-* **<font color="purple">Detecting Malicious Exploit Kits using Tree-based Similarity Searches</font>** [[pdf]({{ site.url }}/paper/tylor-codaspy-2016.pdf), [bibtex]({{ site.url }}/references.html#Taylor:2016:codaspy)]<br>
+* **<font color="purple">Detecting Malicious Exploit Kits using Tree-based Similarity Searches</font>** [[pdf]({{ site.url }}/paper/taylor-codaspy-2016.pdf), [bibtex]({{ site.url }}/references.html#Taylor:2016:codaspy)]<br>
 *<font color="black">Teryl Taylor, Xin Hu, Ting Wang, Jiyong Jang, Marc Stoecklin, Fabian Monrose, Reiner Sailer</font>* <br>
 *<font color="blue">The 6th ACM Conference on Data and Application Security and Privacy (CODASPY '16)</font>*
 
