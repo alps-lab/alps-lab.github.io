@@ -24,8 +24,9 @@ I am Assistant Professor of Computer Science at Lehigh University. I am broadly 
 ### News
 
 <ul>
+ <li>11/17 <label class="paper_label_style">paper</label> Our <font color="blue"><em>graph anonymity</em></font> paper is accepted by <a href="http://infocom2018.ieee-infocom.org">INFOCOM '18</a>. </li>
 	<li>10/17 <label class="paper_label_style">paper</label> Our <font color="blue"><em>adversarial model</em></font> paper receives the <font color="red">best paper award</font> at <a href="http://cns2017.ieee-cns.org">IEEE CNS'17</a>. Congratulations, Yujie and Xinyang! </li>
-	<li>08/17 <label class="fund_label_style">fund</label> We are awarded a sole-PI grant by NSF to support our research on adversarial deep learning. Find details <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1718787">here</a>. </li>
+	<li>08/17 <label class="fund_label_style">fund</label> We are awarded a grant by NSF to support our research on adversarial deep learning. Find details <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1718787">here</a>. </li>
 	<li>07/17 <label class="paper_label_style">paper</label> Our <font color="blue"><em>adversarial model</em></font> paper is accepted by <a href="http://cns2017.ieee-cns.org">IEEE CNS'17</a>.  </li>
 	<li>06/17 <label class="paper_label_style">paper</label> Our <font color="blue"><em>graph privacy</em></font> paper is accepted by <a href="https://mc.manuscriptcentral.com/tdsc-cs">IEEE TDSC</a>. </li>
 	<li>04/17 <label class="paper_label_style">paper</label> Our <font color="blue"><em>private deep learning</em></font> paper is accepted by <a href="http://icdcs2017.gatech.edu">IEEE ICDCS'17</a>. </li>
@@ -33,7 +34,7 @@ I am Assistant Professor of Computer Science at Lehigh University. I am broadly 
 	<li>05/16 <label class="talk_label_style">talk</label> Ting is invited to give a presentation at the
 		<a href="http://cra.org/ccc/events/computing-innovation-societal-needs-the-impact-of-computing-research/">CCC Symposium on Computing Research</a> </li>
 	<li>03/16 <label class="paper_label_style">paper</label> Our <font color="blue"><em>botnet population estimation</em></font> paper is accepted by <a href="http://www-higashi.ist.osaka-u.ac.jp/icdcs2016/">IEEE ICDCS'16</a>. </li>
-	<li>03/16 <label class="fund_label_style">fund</label> We are awarded a sole-PI grant by NSF to support our research on deep learning-powered mobile services. Find details <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1566526">here</a>. </li>
+	<li>03/16 <label class="fund_label_style">fund</label> We are awarded a grant by NSF to support our research on deep learning-powered mobile services. Find details <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1566526">here</a>. </li>
 	<li>02/16 <label class="paper_label_style">paper</label> Our <font color="blue"><em>beaconing detection</em></font> paper is accepted by <a href="https://dsn-2016.sciencesconf.org">IEEE DSN'16</a>. </li>
 	<li>11/15 <label class="paper_label_style">paper</label> Our <font color="blue"><em>malicious web infrastructure detection</em></font> paper accepted by <a href="http://infocom2016.ieee-infocom.org">IEEE INFOCOM'16</a>. </li>
 	<li>11/15 <label class="paper_label_style">paper</label> One <font color="blue"><em>exploit kit detection</em></font> paper accepted by <a href="https://sites.google.com/site/codaspy20162/">ACM CODASPY'16</a>.</li>

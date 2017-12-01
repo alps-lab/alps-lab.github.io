@@ -24,9 +24,9 @@ permalink: /publications/index.html
 * <label class="info_label_style">under review</label>  **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
 *<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>*
 
-* <label class="info_label_style">under review</label>  **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>**<br>
-*<font color="black">Shouling Ji, Tianyu Du, Zhen Hong, Ting Wang, Raheem Beyah</font>*
-
+* <label class="success_label_style">new!</label>  **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>** [[pdf]({{ site.url }}/paper/ji-infocom-2018.pdf), [bibtex]({{ site.url }}/references.html#Ji:2018:infocom)]<br>
+*<font color="black">Shouling Ji, Tianyu Du, Zhen Hong, Ting Wang, Raheem Beyah</font>* <br>
+*<font color="blue">2018 IEEE International Conference on Computer Communications (INFOCOM '18)</font>*
 
 * <label class="success_label_style">new!</label> **<font color="purple">Private, yet Practical, Multiparty Deep Learning</font>** [[pdf]({{ site.url }}/paper/zhang-icdcs-2017.pdf), [bibtex]({{ site.url }}/references.html#Zhang:2017:icdcs)]<br>
 *<font color="black">Xinyang Zhang, Shouling Ji, Hui Wang, Ting Wang</font>* <br>
