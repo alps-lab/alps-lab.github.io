@@ -24,6 +24,10 @@ permalink: /publications/index.html
 * <label class="info_label_style">under review</label>  **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
 *<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>*
 
+* <label class="success_label_style">new!</label>  **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
+*<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, and Ting Wang</font>* <br>
+*<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*
+
 * <label class="success_label_style">new!</label>  **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>** [[pdf]({{ site.url }}/paper/ji-infocom-2018.pdf), [bibtex]({{ site.url }}/references.html#Ji:2018:infocom)]<br>
 *<font color="black">Shouling Ji, Tianyu Du, Zhen Hong, Ting Wang, Raheem Beyah</font>* <br>
 *<font color="blue">2018 IEEE International Conference on Computer Communications (INFOCOM '18)</font>*
@@ -162,6 +166,9 @@ permalink: /publications/index.html
 <hr>
 
 #### Data Science
+
+* <label class="info_label_style">under review</label>  **<font color="purple">Data Cleaning by Question Asking</font>**<br>
+*<font color="black">Xinyang Zhang, Yujie Ji, Ting Wang</font>*
 
 * **<font color="purple">Preparedness or Serendipity? Explaining Creativity in Scientific Enterprise</font>** [[pdf]({{ site.url }}/paper/zhang-cikm-2017.pdf), [bibtex]({{ site.url }}/references.html#Zhang:2017:cikm)]<br>
 *<font color="black">Xinyang Zhang, Dashun Wang, Ting Wang</font>* <br>

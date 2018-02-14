@@ -8,7 +8,8 @@ permalink: /teaching/index.html
 
 <hr>
 
-* [<font color="indianred"> CSE 261: Discrete Structures</font>](http://www.cse.lehigh.edu/cse-261): Spring 2017
+* [<font color="indianred"> CSE 261: Discrete Structures</font>](http://www.cse.lehigh.edu/cse-261): Spring 2017, Spring 2018
+* [<font color="indianred"> CSE 398/498: Principles and Implementation of Information Privacy</font>](http://dulcimer.cse.lehigh.edu/academics/course-schedule-by-semester): Spring 2018
 * [<font color="indianred"> CSE 350/450 Special Topic: Privacy-Aware Data Analytics</font>](http://www.cse.lehigh.edu/academics/course-schedule-by-semester/2-uncategorised/309-spring-2016-courses): Spring 2016
 * [<font color="indianred"> CSE 347/447: Data Mining</font>](http://www.cse.lehigh.edu/cse-347): Fall 2015, Fall 2016, Fall 2017
 
