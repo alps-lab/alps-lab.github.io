@@ -15,7 +15,8 @@ permalink: /publications/index.html
 #### Computational Privacy
 
 
-* <label class="info_label_style">under review</label>  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**<br>
+* <label class="info_label_style">under review</label>  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
+[[code](https://github.com/alps-lab/dpgan)] <br>
 *<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>*
 
 * <label class="info_label_style">under review</label>  **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
@@ -167,7 +168,7 @@ permalink: /publications/index.html
 
 #### Data Science
 
-* <label class="info_label_style">under review</label>  **<font color="purple">Data Cleaning by Question Asking</font>**<br>
+* <label class="info_label_style">under review</label>  **<font color="purple">Data Cleaning by Question Asking</font>** [[code](https://github.com/alps-lab/deepclean)]<br>
 *<font color="black">Xinyang Zhang, Yujie Ji, Ting Wang</font>*
 
 * **<font color="purple">Preparedness or Serendipity? Explaining Creativity in Scientific Enterprise</font>** [[pdf]({{ site.url }}/paper/zhang-cikm-2017.pdf), [bibtex]({{ site.url }}/references.html#Zhang:2017:cikm)]<br>
