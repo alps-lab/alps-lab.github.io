@@ -8,7 +8,7 @@ permalink: /about/index.html
 
 
 
-<img src="/assets/images/profile18.pdf" alt="profile" width="25%"/>
+<!-- <img src="/assets/images/profile18.pdf" alt="profile" width="25%"/> -->
 <!-- <img src={{ site.url }}/assets/images/profile18.jpg width="200" /> -->
 
 <hr>
