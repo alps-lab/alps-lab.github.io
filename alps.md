@@ -31,6 +31,9 @@ I am fortunate to work with a group of wonderful Ph.D. students:
 
 * [Xinyang Zhang](http://www.cse.lehigh.edu/~xiz15)
 * [Yujie Ji](http://www.cse.lehigh.edu/~yuj216)
+* Hua Shen
+* Ren Pang 
+
 
 Other great student collaborators include:
 

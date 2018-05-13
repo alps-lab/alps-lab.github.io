@@ -96,7 +96,7 @@ permalink: /publications/index.html
 <hr>
 
 
-#### Cyber-Security
+#### Machine Learning Security
 
 * <label class="info_label_style">under review</label>  **<font color="purple">Modular Learning Component Attacks: Today's Reality, Tomorrow's Challenge</font>**<br>
 *<font color="black">Xinyang Zhang, Yujie Ji, Ting Wang</font>*
