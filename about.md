@@ -15,14 +15,15 @@ permalink: /about/index.html
 
 ### Howdy!
 
-I am Assistant Professor of Computer Science at Lehigh University. I am broadly interested in
- machine learning, computational privacy, and cyber-security. My current research focuses on:
- * understanding privacy and security vulnerabilities of machine learning-powered systems
- * building rigorous, yet practical, solutions to mitigate such risks
+I am an Assistant Professor of Computer Science at Lehigh University. I am interested in the interplay between <b> <font color="blue">machine learning</font> </b> and <b> <font color="red">privacy & security</font> </b>. My current research focuses on <b> <font color="purple"><em>making machine learning systems more usable</em></font> </b>through:
 
-At Lehigh, I direct the [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
+ * Mitigating their security vulnerabilities
+ * Enhancing their privacy awareness
+ * Increasing their decision-making transparency   
 
-<hr>
+At Lehigh, I direct the <b> [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}/alps) </b> (ALPS) Lab.
+
+<!-- <hr>
 
 ### Recent News
 
@@ -42,8 +43,9 @@ At Lehigh, I direct the [Algorithmic Learning, Privacy and Security]({{ site.bas
 	<li>02/16 <label class="paper_label_style">paper</label> Our <font color="blue"><em>beaconing detection</em></font> paper is accepted by <a href="https://dsn-2016.sciencesconf.org">IEEE DSN'16</a>. </li>
 	<li>11/15 <label class="paper_label_style">paper</label> Our <font color="blue"><em>malicious web infrastructure detection</em></font> paper accepted by <a href="http://infocom2016.ieee-infocom.org">IEEE INFOCOM'16</a>. </li>
 	<li>11/15 <label class="paper_label_style">paper</label> One <font color="blue"><em>exploit kit detection</em></font> paper accepted by <a href="https://sites.google.com/site/codaspy20162/">ACM CODASPY'16</a>.</li>
-	<li>08/15 <label class="job_label_style">job</label> Ting has started as Assistant Professor at Lehigh! </li> -->
-</ul>
+	<li>08/15 <label class="job_label_style">job</label> Ting has started as Assistant Professor at Lehigh! </li>
+</ul> -->
+
 <hr>
 
 ### Contact Information
@@ -59,10 +61,10 @@ At Lehigh, I direct the [Algorithmic Learning, Privacy and Security]({{ site.bas
 
 ### Recruiting
 
-I am **always** looking for motivated and bright Ph.D. and M.Sc. students. If you know how to build/hack machine learning systems, we should talk! Please email me your resume and set up a time to discuss your potential fit to our group.
+I am <b> <font color="red">always</font> </b> looking for motivated and bright Ph.D. and M.Sc. students. If you know how to build/hack machine learning systems, we should talk! Please email me your resume and set up a time to discuss your potential fit to our group.
 
-I am **not** looking for other short-term visitors. Please do not contact me about such opportunities, unless I have
-explicitly contacted you, your advisor, or your school.
+<!-- I am <font color="red">**not**</font> looking for other short-term visitors. Please do not contact me about such opportunities, unless I have
+explicitly contacted you, your advisor, or your school. -->
 
 <hr>
 
@@ -70,4 +72,4 @@ explicitly contacted you, your advisor, or your school.
 
 I joined Lehigh in Fall 2015. Before that I was a Research Staff Member at IBM Thomas J. Watson Research Center. I received my Ph.D. degree from Georgia Tech. I did my undergraduate studies in my home country, China, at Zhejiang University.
 
-I am now affiliated with [Data X](http://www1.lehigh.edu/datax/), an interdisciplinary initiative that pushes the envelop of data analytics research.
+I am now affiliated with [I-DISC](https://www1.lehigh.edu/research/interdisciplinary-research-institutes/data-intelligent-systems-computation   ), an interdisciplinary initiative that pushes the envelop of data analytics research.

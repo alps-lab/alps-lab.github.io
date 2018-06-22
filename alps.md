@@ -32,7 +32,7 @@ I am fortunate to work with a group of wonderful Ph.D. students:
 * [Xinyang Zhang](http://www.cse.lehigh.edu/~xiz15)
 * [Yujie Ji](http://www.cse.lehigh.edu/~yuj216)
 * Hua Shen
-* Ren Pang 
+* Ren Pang
 
 
 Other great student collaborators include:
@@ -60,4 +60,4 @@ Our decisions often rely on others' aggregated judgements, with the belief that 
 * **<font color="indianred">Privacy-Aware Personalized Assistant for Healthcare Q&A </font>** <br>
 Today, over one-third of Americans rely on online health forums (OHFs) to search and retrieve halthcare information. Compared with the increasing popularity of OHFs, the progress in their supporting platforms is lagging way behind. Built upon the traditional question-and-answer (Q&A) paradigm, today’s OHFs suffer two major issues: privacy vulnerability and Q&A inefficacy. In this project, we are building **Papaya**, a personalized assistance tool that guides ordinary users to perform effective and privacy-preserving information seeking and providing on OHFs. The project website is [here]({{ site.baseurl }}/project/papaya).
 
-* **<font color="indianred">Trustworthy Machine Learning from Untrusted Models</font>** <br>
+<!-- * **<font color="indianred">Trustworthy Machine Learning from Untrusted Models</font>** <br> -->

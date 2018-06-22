@@ -98,6 +98,10 @@ permalink: /publications/index.html
 
 #### Machine Learning Security
 
+
+* <label class="info_label_style">under review</label>  **<font color="purple">On the Dynamics of Adversarial Input Attacks</font>**<br>
+*<font color="black">Yujie Ji, Ting Wang</font>*
+
 * <label class="info_label_style">under review</label>  **<font color="purple">Modular Learning Component Attacks: Today's Reality, Tomorrow's Challenge</font>**<br>
 *<font color="black">Xinyang Zhang, Yujie Ji, Ting Wang</font>*
 
@@ -168,8 +172,9 @@ permalink: /publications/index.html
 
 #### Data Science
 
-* <label class="info_label_style">under review</label>  **<font color="purple">Data Cleaning by Question Asking</font>** [[code](https://github.com/alps-lab/deepclean)]<br>
-*<font color="black">Xinyang Zhang, Yujie Ji, Ting Wang</font>*
+* <label class="success_label_style">new!</label>  **<font color="purple">Data Cleaning by Question Asking</font>** [[code](https://github.com/alps-lab/deepclean)]<br>
+*<font color="black">Xinyang Zhang, Yujie Ji, Ting Wang</font>* <br>
+*<font color="blue">The 5th Interactive Data Exploration and Analytics workshop (IDEA '18') co-located with (KDD '18) </font>*
 
 * **<font color="purple">Preparedness or Serendipity? Explaining Creativity in Scientific Enterprise</font>** [[pdf]({{ site.url }}/paper/zhang-cikm-2017.pdf), [bibtex]({{ site.url }}/references.html#Zhang:2017:cikm)]<br>
 *<font color="black">Xinyang Zhang, Dashun Wang, Ting Wang</font>* <br>
