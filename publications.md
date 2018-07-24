@@ -33,11 +33,11 @@ permalink: /publications/index.html
 *<font color="black">Shouling Ji, Tianyu Du, Zhen Hong, Ting Wang, Raheem Beyah</font>* <br>
 *<font color="blue">2018 IEEE International Conference on Computer Communications (INFOCOM '18)</font>*
 
-* <label class="success_label_style">new!</label> **<font color="purple">Private, yet Practical, Multiparty Deep Learning</font>** [[pdf]({{ site.url }}/paper/zhang-icdcs-2017.pdf), [bibtex]({{ site.url }}/references.html#Zhang:2017:icdcs)]<br>
+* **<font color="purple">Private, yet Practical, Multiparty Deep Learning</font>** [[pdf]({{ site.url }}/paper/zhang-icdcs-2017.pdf), [bibtex]({{ site.url }}/references.html#Zhang:2017:icdcs)]<br>
 *<font color="black">Xinyang Zhang, Shouling Ji, Hui Wang, Ting Wang</font>* <br>
 *<font color="blue">The 37th IEEE International Conference on Distributed Computing Systems (ICDCS '17)</font>*
 
-* <label class="success_label_style">new!</label>  **<font color="purple">De-SAG: De-anonymizing Structure-Attribute Graph Data</font>** [[pdf]({{ site.url }}/paper/ji-tdsc-2017.pdf), [bibtex]({{ site.url }}/references.html#Ji:2017:tdsc)]<br>
+*  **<font color="purple">De-SAG: De-anonymizing Structure-Attribute Graph Data</font>** [[pdf]({{ site.url }}/paper/ji-tdsc-2017.pdf), [bibtex]({{ site.url }}/references.html#Ji:2017:tdsc)]<br>
 *<font color="black">Shouling Ji, Shukun Yang, Ting Wang, Prateek Mittal, Raheem Beyah</font>* <br>
 *<font color="blue">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>*, 2017
 
@@ -98,17 +98,18 @@ permalink: /publications/index.html
 
 #### Machine Learning Security
 
-
+<!-- 
 * <label class="info_label_style">under review</label>  **<font color="purple">On the Dynamics of Adversarial Input Attacks</font>**<br>
-*<font color="black">Yujie Ji, Ting Wang</font>*
-
-* <label class="info_label_style">under review</label>  **<font color="purple">Modular Learning Component Attacks: Today's Reality, Tomorrow's Challenge</font>**<br>
-*<font color="black">Xinyang Zhang, Yujie Ji, Ting Wang</font>*
+*<font color="black">Yujie Ji, Ting Wang</font>* -->
 
 * <label class="info_label_style">under review</label>  **<font color="purple">Towards Attack-Agnostic Defenses against Adversarial Inputs</font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Ting Wang</font>*
 
-* <label class="success_label_style">new!</label>  **<font color="purple">Backdoor Attacks against Learning Systems</font>** [[pdf]({{ site.url }}/paper/ji-cns-2017.pdf), [bibtex]({{ site.url }}/references.html#Ji:2017:cns)]<br>
+* <label class="success_label_style">new!</label>   **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>**<br>
+*<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
+*<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18')</font>*
+
+* **<font color="purple">Backdoor Attacks against Learning Systems</font>** [[pdf]({{ site.url }}/paper/ji-cns-2017.pdf), [bibtex]({{ site.url }}/references.html#Ji:2017:cns)]<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
 *<font color="blue">The 5th IEEE Conference on Communications and Network Security (CNS '17)</font>* <br>
 🏅<font color="red">Best Paper Award</font>

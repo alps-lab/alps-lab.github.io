@@ -15,13 +15,13 @@ permalink: /about/index.html
 
 ### Howdy!
 
-I am an Assistant Professor of Computer Science at Lehigh University. I am interested in the interplay between <b> <font color="blue">machine learning</font> </b> and <b> <font color="red">privacy & security</font> </b>. My current research focuses on <b> <font color="purple"><em>making machine learning systems more usable</em></font> </b>through:
+I am an Assistant Professor of Computer Science at Lehigh University. I am interested in the interplay between <b> <font color="blue">machine learning</font> </b> and <b> <font color="blue">privacy & security</font> </b>. My current research focuses on <b> <font color="red"><em>making machine learning systems more usable</em></font> </b>through:
 
- * Mitigating their security vulnerabilities
- * Enhancing their privacy awareness
- * Increasing their decision-making transparency   
+ * mitigating their security vulnerabilities
+ * enhancing their privacy awareness
+ * increasing their decision-making transparency   
 
-At Lehigh, I direct the <b> [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}/alps) </b> (ALPS) Lab.
+I direct the <b> [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}/alps) </b> (ALPS) Lab.
 
 <!-- <hr>
 
