@@ -105,8 +105,8 @@ permalink: /publications/index.html
 *  **<font color="purple"> Towards A Unified Theory of Adversarial Inputs and Trojan Models </font>**<br>
 *<font color="black">Ting Wang</font>*
 
-*  **<font color="purple"> Unified and Certified Defenses against Adversarial Inputs </font>**<br>
-*<font color="black">Xinyang Zhang, Chanh Nguyen, Shouling Ji, Ting Wang</font>*
+<!-- *  **<font color="purple"> Unified and Certified Defenses against Adversarial Inputs </font>**<br>
+*<font color="black">Xinyang Zhang, Chanh Nguyen, Shouling Ji, Ting Wang</font>* -->
 
 *  **<font color="purple"> On the Dynamics of Adversarial Input Attacks </font>**<br>
 *<font color="black">Yujie Ji, Ting Wang</font>*
