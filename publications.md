@@ -27,12 +27,13 @@ permalink: /publications/index.html
 <!-- *  **<font color="purple"> Unified and Certified Defenses against Adversarial Inputs </font>**<br>
 *<font color="black">Xinyang Zhang, Chanh Nguyen, Shouling Ji, Ting Wang</font>* -->
 
-*  **<font color="purple"> On the Dynamics of Adversarial Input Attacks </font>**<br>
-*<font color="black">Yujie Ji, Ting Wang</font>*
 
 *  **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18')</font>*
+
+*  **<font color="purple"> On the Dynamics of Adversarial Input Attacks </font>**<br>
+*<font color="black">Yujie Ji, Ting Wang</font>*
 
 * **<font color="purple">Backdoor Attacks against Learning Systems</font>** [[pdf]({{ site.url }}/paper/ji-cns-2017.pdf), [bibtex]({{ site.url }}/references.html#Ji:2017:cns)]<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
@@ -113,7 +114,7 @@ permalink: /publications/index.html
 
 *   **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
 *<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, and Ting Wang</font>* <br>
-*<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*
+*<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>* 30(8)1440-1453, 2018
 
 *   **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>** [[pdf]({{ site.url }}/paper/ji-infocom-2018.pdf), [bibtex]({{ site.url }}/references.html#Ji:2018:infocom)]<br>
 *<font color="black">Shouling Ji, Tianyu Du, Zhen Hong, Ting Wang, Raheem Beyah</font>* <br>
