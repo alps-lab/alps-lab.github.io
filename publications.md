@@ -11,87 +11,6 @@ permalink: /publications/index.html
 
 <!-- ## Selected Publications -->
 
-<hr>
-#### Computational Privacy
-
-
-*  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
-[[code](https://github.com/alps-lab/dpgan)] <br>
-*<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>*
-
-*   **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
-*<font color="black">Shouling Ji, Qinchen Gu, Ting Wang, Raheem Beyah</font>*
-
-<!-- *   **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
-*<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>* -->
-
-*   **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
-*<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, and Ting Wang</font>* <br>
-*<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*
-
-*   **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>** [[pdf]({{ site.url }}/paper/ji-infocom-2018.pdf), [bibtex]({{ site.url }}/references.html#Ji:2018:infocom)]<br>
-*<font color="black">Shouling Ji, Tianyu Du, Zhen Hong, Ting Wang, Raheem Beyah</font>* <br>
-*<font color="blue">2018 IEEE International Conference on Computer Communications (INFOCOM '18)</font>*
-
-* **<font color="purple">Private, yet Practical, Multiparty Deep Learning</font>** [[pdf]({{ site.url }}/paper/zhang-icdcs-2017.pdf), [bibtex]({{ site.url }}/references.html#Zhang:2017:icdcs)]<br>
-*<font color="black">Xinyang Zhang, Shouling Ji, Hui Wang, Ting Wang</font>* <br>
-*<font color="blue">The 37th IEEE International Conference on Distributed Computing Systems (ICDCS '17)</font>*
-
-*  **<font color="purple">De-SAG: De-anonymizing Structure-Attribute Graph Data</font>** [[pdf]({{ site.url }}/paper/ji-tdsc-2017.pdf), [bibtex]({{ site.url }}/references.html#Ji:2017:tdsc)]<br>
-*<font color="black">Shouling Ji, Shukun Yang, Ting Wang, Prateek Mittal, Raheem Beyah</font>* <br>
-*<font color="blue">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>*, 2017
-
-* **<font color="purple">Kaleido: Network Traffic Attribution using Multifaceted Footprinting </font>** [[pdf]({{ site.url }}/paper/wang-sdm-2014.pdf), [bibtex]({{ site.url }}/references.html#Wang:2014:sdm)]<br>
-*<font color="black">Ting Wang, Fei Wang, Douglas Schales, Reiner Sailer</font>* <br>
-*<font color="blue">The 2014 SIAM International Conference on Data Mining (SDM '14)</font>*
-
-* **<font color="purple">Fine-Grained Access Control for Personal Data</font>** [[pdf]({{ site.url }}/paper/wang-sacmat-2012.pdf), [bibtex]({{ site.url }}/references.html#Wang:2012:sacmat)]<br>
-*<font color="black">Ting Wang, Mudhakar Srivatsa, Ling Liu</font>* <br>
-*<font color="blue">The 17th ACM Symposium on Access Control Models and Technologies (SACMAT '12)</font>*
-
-* **<font color="purple">Output Privacy in Data Mining</font>** [[pdf]({{ site.url }}/paper/wang-tods-2011.pdf), [bibtex]({{ site.url }}/references.html#Wang:2011:tods)]<br>
-*<font color="black">Ting Wang, Ling Liu</font>* <br>
-*<font color="blue">ACM Transactions on Database Systems (TODS)</font>*, 36(1):1-34, 2011
-
-* **<font color="purple">Privacy-Preserving Indexing for eHealth Information Networks</font>** [[pdf]({{ site.url }}/paper/tang-cikm-2011.pdf), [bibtex]({{ site.url }}/references.html#Tang:2011:cikm)]<br>
-*<font color="black">Yuzhe Tang, Ting Wang, Ling Liu, Shicong Meng, Balaji Palanisamy</font>* <br>
-*<font color="blue">The 20th ACM International Conference on Information and Knowledge Management (CIKM '11)</font>*
-
-* **<font color="purple">Modeling Data Flow in Socio-Information Networks: A Risk Estimation Approach</font>** [[pdf]({{ site.url }}/paper/wang-sacmat-2011.pdf), [bibtex]({{ site.url }}/references.html#Wang:2011:sacmat)] <br>
-*<font color="black">Ting Wang, Mudhakar Srivatsa, Dakshi Agrawal, Ling Liu</font>* <br>
-*<font color="blue">The 16th ACM Symposium on Access Control Models and Technologies (SACMAT '11)</font>*
-
-* **<font color="purple">Execution Assurance for Massive Computing Tasks</font>** [[pdf]({{ site.url }}/paper/wang-ieice-2010.pdf), [bibtex]({{ site.url }}/references.html#Wang:2010:ieice)]<br>
-*<font color="black">Ting Wang, Ling Liu</font>* <br>
-*<font color="blue">IEICE Transactions on Information and Systems (IEICE)</font>*, E93-D(6):1343-1351, 2010
-
-<!-- * **<font color="purple">Output Privacy in Stream Mining</font>** <br>
-*<font color="black">Ting Wang, Ling Liu</font>* <br>
-*<font color="blue">Privacy-Aware Knowledge Discovery: Novel Applications and New Technique</font>* (Editors: Francesco Bonchi and Elena Ferrari), Chapman & Hall/CRC Press, 2010 -->
-
-* **<font color="purple">XColor: Protecting General Proximity Privacy</font>** [[pdf]({{ site.url }}/paper/wang-icde-2010.pdf), [bibtex]({{ site.url }}/references.html#Wang:2010:icde)]<br>
-*<font color="black">Ting Wang, Ling Liu</font>* <br>
-*<font color="blue">The 26th IEEE International Conference on Data Engineering (ICDE '10)</font>*
-
-* **<font color="purple">Privacy-Aware Mobile Services over Road Networks</font>** [[pdf]({{ site.url }}/paper/wang-pvldb-2009.pdf), [bibtex]({{ site.url }}/references.html#Wang:2009:vldb)] <br>
-*<font color="black">Ting Wang, Ling Liu</font>* <br>
-*<font color="blue"> Proceedings of the VLDB Endowment (PVLDB)</font>*, 2(1):1042-1053, 2009
-
-<!-- * **<font color="purple">From Data Privacy to Location Privacy</font>** <br>
-*<font color="black">Ting Wang, Ling Liu</font>* <br>
-*<font color="blue">Machine Learning in Cyber Trust: Reliability, Security, and Privacy</font>* (Editors: Jeffrey Tsai and Philip Yu), Springer-Verlag, 2009 -->
-
-* **<font color="purple">A General Proximity Privacy Principle</font>** [[pdf]({{ site.url }}/paper/wang-icde-2009.pdf), [bibtex]({{ site.url }}/references.html#Wang:2009:icde)]<br>
-*<font color="black">Ting Wang, Shicong Meng, Bhuvan Bamba, Ling Liu, Calton Pu</font>* <br>
-*<font color="blue">The 25th IEEE International Conference on Data Engineering (ICDE '09)</font>*
-
-* **<font color="purple">Butterfly: Protecting Output Privacy in Stream Mining</font>** [[pdf]({{ site.url }}/paper/wang-icde-2008.pdf), [bibtex]({{ site.url }}/references.html#Wang:2008:icde)]<br>
-*<font color="black">Ting Wang, Ling Liu</font>* <br>
-*<font color="blue">The 24th IEEE International Conference on Data Engineering (ICDE '08)</font>*
-
-* **<font color="purple">Supporting Anonymous Location Queries in Mobile Environments with PrivacyGrid</font>** [[pdf]({{ site.url }}/paper/bamba-www-2008.pdf), [bibtex]({{ site.url }}/references.html#Bamba:2008:www)]<br>
-*<font color="black">Bhuvan Bamba, Ling Liu, Peter Pesti, Ting Wang</font>* <br>
-*<font color="blue">The 17th International World Wide Web Conference (WWW '08)</font>*
 
 <hr>
 
@@ -172,6 +91,93 @@ permalink: /publications/index.html
 <!-- * **<font color="purple">Stream Computing for Large-Scale, Multi-Channel Cyber Threat Analytics </font>** [[pdf]({{ site.url }}/paper/schales-iri-2014.pdf), bibtex] <br>
 *<font color="black">Douglas Schales, Mihai Christodorescu, Xin Hu, Jiyong Jang, Josyula Rao, Reiner Sailer, Marc Stoecklin, Wietse Venema, Ting Wang</font>* <br>
 *<font color="blue">The 15th IEEE International Conference on Information Reuse and Integration (IRI '14)</font>* -->
+
+
+
+<hr>
+
+
+
+#### Computational Privacy
+
+
+*  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
+[[code](https://github.com/alps-lab/dpgan)] <br>
+*<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>*
+
+*   **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
+*<font color="black">Shouling Ji, Qinchen Gu, Ting Wang, Raheem Beyah</font>*
+
+<!-- *   **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
+*<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>* -->
+
+*   **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
+*<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, and Ting Wang</font>* <br>
+*<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*
+
+*   **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>** [[pdf]({{ site.url }}/paper/ji-infocom-2018.pdf), [bibtex]({{ site.url }}/references.html#Ji:2018:infocom)]<br>
+*<font color="black">Shouling Ji, Tianyu Du, Zhen Hong, Ting Wang, Raheem Beyah</font>* <br>
+*<font color="blue">2018 IEEE International Conference on Computer Communications (INFOCOM '18)</font>*
+
+* **<font color="purple">Private, yet Practical, Multiparty Deep Learning</font>** [[pdf]({{ site.url }}/paper/zhang-icdcs-2017.pdf), [bibtex]({{ site.url }}/references.html#Zhang:2017:icdcs)]<br>
+*<font color="black">Xinyang Zhang, Shouling Ji, Hui Wang, Ting Wang</font>* <br>
+*<font color="blue">The 37th IEEE International Conference on Distributed Computing Systems (ICDCS '17)</font>*
+
+*  **<font color="purple">De-SAG: De-anonymizing Structure-Attribute Graph Data</font>** [[pdf]({{ site.url }}/paper/ji-tdsc-2017.pdf), [bibtex]({{ site.url }}/references.html#Ji:2017:tdsc)]<br>
+*<font color="black">Shouling Ji, Shukun Yang, Ting Wang, Prateek Mittal, Raheem Beyah</font>* <br>
+*<font color="blue">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>*, 2017
+
+* **<font color="purple">Kaleido: Network Traffic Attribution using Multifaceted Footprinting </font>** [[pdf]({{ site.url }}/paper/wang-sdm-2014.pdf), [bibtex]({{ site.url }}/references.html#Wang:2014:sdm)]<br>
+*<font color="black">Ting Wang, Fei Wang, Douglas Schales, Reiner Sailer</font>* <br>
+*<font color="blue">The 2014 SIAM International Conference on Data Mining (SDM '14)</font>*
+
+* **<font color="purple">Fine-Grained Access Control for Personal Data</font>** [[pdf]({{ site.url }}/paper/wang-sacmat-2012.pdf), [bibtex]({{ site.url }}/references.html#Wang:2012:sacmat)]<br>
+*<font color="black">Ting Wang, Mudhakar Srivatsa, Ling Liu</font>* <br>
+*<font color="blue">The 17th ACM Symposium on Access Control Models and Technologies (SACMAT '12)</font>*
+
+* **<font color="purple">Output Privacy in Data Mining</font>** [[pdf]({{ site.url }}/paper/wang-tods-2011.pdf), [bibtex]({{ site.url }}/references.html#Wang:2011:tods)]<br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">ACM Transactions on Database Systems (TODS)</font>*, 36(1):1-34, 2011
+
+* **<font color="purple">Privacy-Preserving Indexing for eHealth Information Networks</font>** [[pdf]({{ site.url }}/paper/tang-cikm-2011.pdf), [bibtex]({{ site.url }}/references.html#Tang:2011:cikm)]<br>
+*<font color="black">Yuzhe Tang, Ting Wang, Ling Liu, Shicong Meng, Balaji Palanisamy</font>* <br>
+*<font color="blue">The 20th ACM International Conference on Information and Knowledge Management (CIKM '11)</font>*
+
+* **<font color="purple">Modeling Data Flow in Socio-Information Networks: A Risk Estimation Approach</font>** [[pdf]({{ site.url }}/paper/wang-sacmat-2011.pdf), [bibtex]({{ site.url }}/references.html#Wang:2011:sacmat)] <br>
+*<font color="black">Ting Wang, Mudhakar Srivatsa, Dakshi Agrawal, Ling Liu</font>* <br>
+*<font color="blue">The 16th ACM Symposium on Access Control Models and Technologies (SACMAT '11)</font>*
+
+* **<font color="purple">Execution Assurance for Massive Computing Tasks</font>** [[pdf]({{ site.url }}/paper/wang-ieice-2010.pdf), [bibtex]({{ site.url }}/references.html#Wang:2010:ieice)]<br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">IEICE Transactions on Information and Systems (IEICE)</font>*, E93-D(6):1343-1351, 2010
+
+<!-- * **<font color="purple">Output Privacy in Stream Mining</font>** <br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">Privacy-Aware Knowledge Discovery: Novel Applications and New Technique</font>* (Editors: Francesco Bonchi and Elena Ferrari), Chapman & Hall/CRC Press, 2010 -->
+
+* **<font color="purple">XColor: Protecting General Proximity Privacy</font>** [[pdf]({{ site.url }}/paper/wang-icde-2010.pdf), [bibtex]({{ site.url }}/references.html#Wang:2010:icde)]<br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">The 26th IEEE International Conference on Data Engineering (ICDE '10)</font>*
+
+* **<font color="purple">Privacy-Aware Mobile Services over Road Networks</font>** [[pdf]({{ site.url }}/paper/wang-pvldb-2009.pdf), [bibtex]({{ site.url }}/references.html#Wang:2009:vldb)] <br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue"> Proceedings of the VLDB Endowment (PVLDB)</font>*, 2(1):1042-1053, 2009
+
+<!-- * **<font color="purple">From Data Privacy to Location Privacy</font>** <br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">Machine Learning in Cyber Trust: Reliability, Security, and Privacy</font>* (Editors: Jeffrey Tsai and Philip Yu), Springer-Verlag, 2009 -->
+
+* **<font color="purple">A General Proximity Privacy Principle</font>** [[pdf]({{ site.url }}/paper/wang-icde-2009.pdf), [bibtex]({{ site.url }}/references.html#Wang:2009:icde)]<br>
+*<font color="black">Ting Wang, Shicong Meng, Bhuvan Bamba, Ling Liu, Calton Pu</font>* <br>
+*<font color="blue">The 25th IEEE International Conference on Data Engineering (ICDE '09)</font>*
+
+* **<font color="purple">Butterfly: Protecting Output Privacy in Stream Mining</font>** [[pdf]({{ site.url }}/paper/wang-icde-2008.pdf), [bibtex]({{ site.url }}/references.html#Wang:2008:icde)]<br>
+*<font color="black">Ting Wang, Ling Liu</font>* <br>
+*<font color="blue">The 24th IEEE International Conference on Data Engineering (ICDE '08)</font>*
+
+* **<font color="purple">Supporting Anonymous Location Queries in Mobile Environments with PrivacyGrid</font>** [[pdf]({{ site.url }}/paper/bamba-www-2008.pdf), [bibtex]({{ site.url }}/references.html#Bamba:2008:www)]<br>
+*<font color="black">Bhuvan Bamba, Ling Liu, Peter Pesti, Ting Wang</font>* <br>
+*<font color="blue">The 17th International World Wide Web Conference (WWW '08)</font>*
 
 
 
