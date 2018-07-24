@@ -22,8 +22,8 @@ permalink: /publications/index.html
 *   **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
 *<font color="black">Shouling Ji, Qinchen Gu, Ting Wang, Raheem Beyah</font>*
 
-*   **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
-*<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>*
+<!-- *   **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
+*<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>* -->
 
 *   **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
 *<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, and Ting Wang</font>* <br>
@@ -102,7 +102,7 @@ permalink: /publications/index.html
 * <label class="info_label_style">under review</label>  **<font color="purple">On the Dynamics of Adversarial Input Attacks</font>**<br>
 *<font color="black">Yujie Ji, Ting Wang</font>* -->
 
-*  **<font color="purple"> Towards A Unified Theory of Adversarial Inputs and Trojan Models </font>**<br>
+*  **<font color="purple"> Towards A Unified Theory of Adversarial Inputs and Adversarial Models </font>**<br>
 *<font color="black">Ting Wang</font>*
 
 <!-- *  **<font color="purple"> Unified and Certified Defenses against Adversarial Inputs </font>**<br>
