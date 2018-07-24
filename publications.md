@@ -15,21 +15,21 @@ permalink: /publications/index.html
 #### Computational Privacy
 
 
-* <label class="info_label_style">under review</label>  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
+*  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
 [[code](https://github.com/alps-lab/dpgan)] <br>
 *<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>*
 
-* <label class="info_label_style">under review</label>  **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
+*   **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
 *<font color="black">Shouling Ji, Qinchen Gu, Ting Wang, Raheem Beyah</font>*
 
-* <label class="info_label_style">under review</label>  **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
+*   **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
 *<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>*
 
-* <label class="success_label_style">new!</label>  **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
+*   **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
 *<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, and Ting Wang</font>* <br>
 *<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*
 
-* <label class="success_label_style">new!</label>  **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>** [[pdf]({{ site.url }}/paper/ji-infocom-2018.pdf), [bibtex]({{ site.url }}/references.html#Ji:2018:infocom)]<br>
+*   **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>** [[pdf]({{ site.url }}/paper/ji-infocom-2018.pdf), [bibtex]({{ site.url }}/references.html#Ji:2018:infocom)]<br>
 *<font color="black">Shouling Ji, Tianyu Du, Zhen Hong, Ting Wang, Raheem Beyah</font>* <br>
 *<font color="blue">2018 IEEE International Conference on Computer Communications (INFOCOM '18)</font>*
 
@@ -98,14 +98,20 @@ permalink: /publications/index.html
 
 #### Machine Learning Security
 
-<!-- 
+<!--
 * <label class="info_label_style">under review</label>  **<font color="purple">On the Dynamics of Adversarial Input Attacks</font>**<br>
 *<font color="black">Yujie Ji, Ting Wang</font>* -->
 
-* <label class="info_label_style">under review</label>  **<font color="purple">Towards Attack-Agnostic Defenses against Adversarial Inputs</font>**<br>
-*<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Ting Wang</font>*
+*  **<font color="purple"> Towards A Unified Theory of Adversarial Inputs and Trojan Models </font>**<br>
+*<font color="black">Ting Wang</font>*
 
-* <label class="success_label_style">new!</label>   **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>**<br>
+*  **<font color="purple"> Unified and Certified Defenses against Adversarial Inputs </font>**<br>
+*<font color="black">Xinyang Zhang, Chanh Nguyen, Shouling Ji, Ting Wang</font>*
+
+*  **<font color="purple"> On the Dynamics of Adversarial Input Attacks </font>**<br>
+*<font color="black">Yujie Ji, Ting Wang</font>*
+
+*  **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18')</font>*
 
@@ -173,8 +179,8 @@ permalink: /publications/index.html
 
 #### Data Science
 
-* <label class="success_label_style">new!</label>  **<font color="purple">Data Cleaning by Question Asking</font>** [[code](https://github.com/alps-lab/deepclean)]<br>
-*<font color="black">Xinyang Zhang, Yujie Ji, Ting Wang</font>* <br>
+*  **<font color="purple">Data Cleaning by Question Asking</font>** [[code](https://github.com/alps-lab/deepclean)]<br>
+*<font color="black">Xinyang Zhang, Yujie Ji, Chanh Nguyen, Ting Wang</font>* <br>
 *<font color="blue">The 5th Interactive Data Exploration and Analytics workshop (IDEA '18') co-located with (KDD '18) </font>*
 
 * **<font color="purple">Preparedness or Serendipity? Explaining Creativity in Scientific Enterprise</font>** [[pdf]({{ site.url }}/paper/zhang-cikm-2017.pdf), [bibtex]({{ site.url }}/references.html#Zhang:2017:cikm)]<br>
