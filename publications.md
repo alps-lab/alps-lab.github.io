@@ -114,7 +114,7 @@ permalink: /publications/index.html
 
 *   **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
 *<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, and Ting Wang</font>* <br>
-*<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>* 30(8)1440-1453, 2018
+*<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*, 30(8)1440-1453, 2018
 
 *   **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>** [[pdf]({{ site.url }}/paper/ji-infocom-2018.pdf), [bibtex]({{ site.url }}/references.html#Ji:2018:infocom)]<br>
 *<font color="black">Shouling Ji, Tianyu Du, Zhen Hong, Ting Wang, Raheem Beyah</font>* <br>
@@ -186,7 +186,11 @@ permalink: /publications/index.html
 
 #### Data Science
 
-*  **<font color="purple">Data Cleaning by Question Asking</font>** [[code](https://github.com/alps-lab/deepclean)]<br>
+*  **<font color="purple">DeepClean: Data Cleaning via Question Asking</font>** [[code](https://github.com/alps-lab/deepclean)]<br>
+*<font color="black">Xinyang Zhang, Yujie Ji, Chanh Nguyen, Ting Wang</font>* <br>
+*<font color="blue">The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA '18) </font>*
+
+*  **<font color="purple">Data Cleaning by Question Asking</font>** <br>
 *<font color="black">Xinyang Zhang, Yujie Ji, Chanh Nguyen, Ting Wang</font>* <br>
 *<font color="blue">The 5th Interactive Data Exploration and Analytics workshop (IDEA '18') co-located with (KDD '18) </font>*
 
