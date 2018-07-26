@@ -22,7 +22,8 @@ permalink: /publications/index.html
 *<font color="black">Yujie Ji, Ting Wang</font>* -->
 
 *  **<font color="purple"> Towards A Unified Theory of Adversarial Inputs and Adversarial Models </font>**<br>
-*<font color="black">Ting Wang</font>*
+*<font color="black">Ting Wang</font>* <br>
+*<font color="blue"> <a href="https://arxiv.org/abs/">Arxiv e-Print</a> </font>*
 
 <!-- *  **<font color="purple"> Unified and Certified Defenses against Adversarial Inputs </font>**<br>
 *<font color="black">Xinyang Zhang, Chanh Nguyen, Shouling Ji, Ting Wang</font>* -->
@@ -104,7 +105,8 @@ permalink: /publications/index.html
 
 *  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
 [[code](https://github.com/alps-lab/dpgan)] <br>
-*<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>*
+*<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>* <br>
+*<font color="blue"> <a href="https://arxiv.org/abs/1801.01594">Arxiv e-Print</a> </font>*
 
 *   **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
 *<font color="black">Shouling Ji, Qinchen Gu, Ting Wang, Raheem Beyah</font>*
