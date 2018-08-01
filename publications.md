@@ -23,7 +23,7 @@ permalink: /publications/index.html
 
 *  **<font color="purple"> Towards A Unified Theory of Adversarial Inputs and Adversarial Models </font>**<br>
 *<font color="black">Ting Wang</font>* <br>
-*<font color="blue"> <a href="https://arxiv.org/abs/">Arxiv e-Print</a> </font>*
+*<font color="blue"> <a href="https://arxiv.org/abs/">ArXiv e-prints, 2018</a> </font>*
 
 <!-- *  **<font color="purple"> Unified and Certified Defenses against Adversarial Inputs </font>**<br>
 *<font color="black">Xinyang Zhang, Chanh Nguyen, Shouling Ji, Ting Wang</font>* -->
@@ -40,6 +40,10 @@ permalink: /publications/index.html
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
 *<font color="blue">The 5th IEEE Conference on Communications and Network Security (CNS '17)</font>* <br>
 🏅<font color="red">Best Paper Award</font>
+
+*  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
+*<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
+*<font color="blue"> <a href="https://arxiv.org/abs/">ArXiv e-prints, 2018</a> </font>*
 
 * **<font color="purple">BotMeter: Charting Botnet Landscapes in Large Networks </font>** [[pdf]({{ site.url }}/paper/wang-icdcs-2016.pdf), [bibtex]({{ site.url }}/references.html#Wang:2016:icdcs)]<br>
 *<font color="black">Ting Wang, Xin Hu, Jiyong Jang, Shouling Ji, Marc Stoecklin, Teryl Taylor</font>* <br>
@@ -106,7 +110,7 @@ permalink: /publications/index.html
 *  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
 [[code](https://github.com/alps-lab/dpgan)] <br>
 *<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>* <br>
-*<font color="blue"> <a href="https://arxiv.org/abs/1801.01594">Arxiv e-Print</a> </font>*
+*<font color="blue"> <a href="https://arxiv.org/abs/1801.01594">ArXiv e-prints, 2018</a> </font>*
 
 *   **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
 *<font color="black">Shouling Ji, Qinchen Gu, Ting Wang, Raheem Beyah</font>*
@@ -116,7 +120,7 @@ permalink: /publications/index.html
 
 *   **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
 *<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, and Ting Wang</font>* <br>
-*<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*, 30(8)1440-1453, 2018
+*<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*, 30(8)1440-1453, 2018 
 
 *   **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>** [[pdf]({{ site.url }}/paper/ji-infocom-2018.pdf), [bibtex]({{ site.url }}/references.html#Ji:2018:infocom)]<br>
 *<font color="black">Shouling Ji, Tianyu Du, Zhen Hong, Ting Wang, Raheem Beyah</font>* <br>
