@@ -21,6 +21,10 @@ permalink: /publications/index.html
 * <label class="info_label_style">under review</label>  **<font color="purple">On the Dynamics of Adversarial Input Attacks</font>**<br>
 *<font color="black">Yujie Ji, Ting Wang</font>* -->
 
+*  **<font color="purple">Integration of Static and Dynamic Code Stylometry Analysis for Programmer De-anonymization</font>**<br>
+*<font color="black">Ningfei Wang, Shouling Ji, Ting Wang</font>* <br>
+*<font color="blue">The 11th ACM Workshop on Artificial Intelligence and Security (AISec '18)</font>*
+
 *  **<font color="purple"> Towards A Unified Theory of Adversarial Inputs and Adversarial Models </font>**<br>
 *<font color="black">Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/">ArXiv e-prints, 2018</a> </font>*
@@ -31,7 +35,7 @@ permalink: /publications/index.html
 
 *  **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
-*<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18')</font>*
+*<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18)</font>*
 
 *  **<font color="purple"> On the Dynamics of Adversarial Input Attacks </font>**<br>
 *<font color="black">Yujie Ji, Ting Wang</font>*
