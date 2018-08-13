@@ -25,6 +25,10 @@ permalink: /publications/index.html
 *<font color="black">Ningfei Wang, Shouling Ji, Ting Wang</font>* <br>
 *<font color="blue">The 11th ACM Workshop on Artificial Intelligence and Security (AISec '18)</font>*
 
+*  **<font color="purple">Towards Evaluating the Security of Image CAPTCHA in The Wild</font>**<br>
+*<font color="black">Binbin Zhao, Haiqin Weng, Shouling Ji, Jianhai Chen, Ting Wang, Qinming He, Raheem Beyah</font>* <br>
+*<font color="blue">The 11th ACM Workshop on Artificial Intelligence and Security (AISec '18)</font>*
+
 *  **<font color="purple"> Towards A Unified Theory of Adversarial Inputs and Adversarial Models </font>**<br>
 *<font color="black">Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/">ArXiv e-prints, 2018</a> </font>*
