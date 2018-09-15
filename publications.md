@@ -41,17 +41,19 @@ permalink: /publications/index.html
 *<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18)</font>*
 
-*  **<font color="purple"> On the Dynamics of Adversarial Input Attacks </font>**<br>
-*<font color="black">Yujie Ji, Ting Wang</font>*
+*  **<font color="purple"> Towards Understanding the Dynamics of Adversarial Attacks </font>**<br>
+*<font color="black">Yujie Ji, Ting Wang</font>* <br>
+*<font color="blue">The 25th ACM Conference on Computer and Communications Security (Poster) (CCS '18)</font>*
+
+*  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
+*<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
+*<font color="blue"> <a href="https://arxiv.org/abs/1808.00123">ArXiv e-prints, 2018</a> </font>*
 
 * **<font color="purple">Backdoor Attacks against Learning Systems</font>** [[pdf]({{ site.url }}/paper/ji-cns-2017.pdf), [bibtex]({{ site.url }}/references.html#Ji:2017:cns)]<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
 *<font color="blue">The 5th IEEE Conference on Communications and Network Security (CNS '17)</font>* <br>
 🏅<font color="red">Best Paper Award</font>
 
-*  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
-*<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
-*<font color="blue"> <a href="https://arxiv.org/abs/1808.00123">ArXiv e-prints, 2018</a> </font>*
 
 * **<font color="purple">BotMeter: Charting Botnet Landscapes in Large Networks </font>** [[pdf]({{ site.url }}/paper/wang-icdcs-2016.pdf), [bibtex]({{ site.url }}/references.html#Wang:2016:icdcs)]<br>
 *<font color="black">Ting Wang, Xin Hu, Jiyong Jang, Shouling Ji, Marc Stoecklin, Teryl Taylor</font>* <br>
