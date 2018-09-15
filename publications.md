@@ -41,9 +41,9 @@ permalink: /publications/index.html
 *<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18)</font>*
 
-*  **<font color="purple"> Towards Understanding the Dynamics of Adversarial Attacks </font>**<br>
+*  **<font color="purple"> On the Dynamics of Adversarial Attacks </font>** [poster] <br>
 *<font color="black">Yujie Ji, Ting Wang</font>* <br>
-*<font color="blue">The 25th ACM Conference on Computer and Communications Security (Poster) (CCS '18)</font>*
+*<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18)</font>*
 
 *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
