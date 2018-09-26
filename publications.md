@@ -18,16 +18,6 @@ permalink: /publications/index.html
 #### Machine Learning Security
 
 
-DeepSec: A Uniform Platform for Security Analysis of Deep
-              Learning Models
-     Authors: Xiang Ling (Zhejiang University)
-              Shouling Ji (Zhejiang University)
-              Jiaxu Zou (Zhejiang University)
-              Jiannan Wang (Zhejiang University)
-              Chunming Wu (Zhejiang University)
-              Bo Li (UC Berkeley)
-              Ting Wang (Lehigh University)
-              
               
 *  **<font color="purple">DeepSec: A Uniform Platform for Security Analysis of Deep Learning Models</font>**<br>
 *<font color="black">Xiang Ling, Shouling Ji, Jiaxu Zou, Jiannan Wang, Chunming Wu, Bo Li, Ting Wang
