@@ -17,9 +17,22 @@ permalink: /publications/index.html
 
 #### Machine Learning Security
 
-<!--
-* <label class="info_label_style">under review</label>  **<font color="purple">On the Dynamics of Adversarial Input Attacks</font>**<br>
-*<font color="black">Yujie Ji, Ting Wang</font>* -->
+
+DeepSec: A Uniform Platform for Security Analysis of Deep
+              Learning Models
+     Authors: Xiang Ling (Zhejiang University)
+              Shouling Ji (Zhejiang University)
+              Jiaxu Zou (Zhejiang University)
+              Jiannan Wang (Zhejiang University)
+              Chunming Wu (Zhejiang University)
+              Bo Li (UC Berkeley)
+              Ting Wang (Lehigh University)
+              
+              
+*  **<font color="purple">DeepSec: A Uniform Platform for Security Analysis of Deep Learning Models</font>**<br>
+*<font color="black">Xiang Ling, Shouling Ji, Jiaxu Zou, Jiannan Wang, Chunming Wu, Bo Li, Ting Wang
+</font>* <br>
+*<font color="blue">The 40th IEEE Symposium on Security and Privacy (S&P '19)</font>*
 
 *  **<font color="purple">Integration of Static and Dynamic Code Stylometry Analysis for Programmer De-anonymization</font>**<br>
 *<font color="black">Ningfei Wang, Shouling Ji, Ting Wang</font>* <br>
