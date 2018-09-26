@@ -20,8 +20,7 @@ permalink: /publications/index.html
 
               
 *  **<font color="purple">DeepSec: A Uniform Platform for Security Analysis of Deep Learning Models</font>**<br>
-*<font color="black">Xiang Ling, Shouling Ji, Jiaxu Zou, Jiannan Wang, Chunming Wu, Bo Li, Ting Wang
-</font>* <br>
+*<font color="black">Xiang Ling, Shouling Ji, Jiaxu Zou, Jiannan Wang, Chunming Wu, Bo Li, Ting Wang</font>* <br>
 *<font color="blue">The 40th IEEE Symposium on Security and Privacy (S&P '19)</font>*
 
 *  **<font color="purple">Integration of Static and Dynamic Code Stylometry Analysis for Programmer De-anonymization</font>**<br>
