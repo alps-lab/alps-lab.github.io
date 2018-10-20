@@ -248,11 +248,18 @@ permalink: /publications/index.html
 *<font color="blue">The 15th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '09)</font>* <br>
 🏅<font color="red">Integrated as key technology in IBM big data products</font>
 
+* **<font color="purple">SeMap: A Generic Mapping Construction System</font>** [[pdf]({{ site.url }}/paper/wang-edbt-2008.pdf), [bibtex]({{ site.url }}/references.html#Wang:2008:edbt)]<br>
+*<font color="black">Ting Wang, Rachel Pottinger</font>* <br>
+*<font color="blue">The 11th International Conference on Extending Database Technology (EDBT '08)</font>*
+
 
 * **<font color="purple">A Temporal Data-Mining Approach for Discovering End-to-End Transaction Flows</font>** [[pdf]({{ site.url }}/paper/wang-icws-2008.pdf), [bibtex]({{ site.url }}/references.html#Wang:2008:icws)]<br>
 *<font color="black">Ting Wang, Chang-shing Perng, Tao Tao, Chungqiang Tang, Edward So, Chun Zhang, Rong Chang, Ling Liu</font>* <br>
 *<font color="blue">The 2008 IEEE International Conference on Web Services (ICWS '08)</font>* 
 
+* **<font color="purple">TWStream: Finding Correlated Streams under Time Warping</font>** [pdf, bibtex]<br>
+*<font color="black">Ting Wang</font>* <br>
+*<font color="blue">The 8th Asia Pacific Web Conference (APWeb '06)</font>*
 
 <hr>
 
@@ -280,14 +287,11 @@ Shicong Meng, Arun Iyengar, Ling Liu, Ting Wang, Jian Tan, Ignacio Silva-Lepe, a
 *<font color="blue">The 26th IEEE International Conference on Data Engineering (ICDE '10)</font>*
 
 
-* **<font color="purple">SeMap: A Generic Mapping Construction System</font>** [[pdf]({{ site.url }}/paper/wang-edbt-2008.pdf), [bibtex]({{ site.url }}/references.html#Wang:2008:edbt)]<br>
-*<font color="black">Ting Wang, Rachel Pottinger</font>* <br>
-*<font color="blue">The 11th International Conference on Extending Database Technology (EDBT '08)</font>*
-
-
 * **<font color="purple">Efficient and Density-Aware Routing for Wireless Sensor Networks</font>** [[pdf]({{ site.url }}/paper/wang-icccn-2006.pdf), [bibtex]({{ site.url }}/references.html#Wang:2006:icccn)]<br>
 *<font color="black">Ting Wang, Shuang Hao, Ping Wang, Gang Peng</font>* <br>
 *<font color="blue">The 15th International Conference on Computer Communication and Networks (ICCCN '06)</font>*
+
+
 
 
 <!-- * [<font color="blue">Poster: Sensor Networks Routing via Bayesian Exploration</font>]({{ site.url }}/paper/hao-wln-2006.pdf)</br>
@@ -298,10 +302,6 @@ Shuang Hao and Ting Wang</br>
 *<font color="black">Ping Wang, Ting Wang</font>* <br>
 *<font color="blue">The 6th IEEE International Conference on Computer and Information Technology (CIT '06)</font>*
 
-
-* **<font color="purple">TWStream: Finding Correlated Streams under Time Warping</font>** [pdf, bibtex]<br>
-*<font color="black">Ting Wang</font>* <br>
-*<font color="blue">The 8th Asia Pacific Web Conference (APWeb '06)</font>*
 
 <!-- * **<font color="purple">Generalized Projected Clustering in High-Dimensional Streams</font>** <br>
 *<font color="black">Ting Wang</font>* <br>
