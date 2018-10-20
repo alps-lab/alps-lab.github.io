@@ -25,7 +25,8 @@ permalink: /publications/index.html
 
 *  **<font color="purple">Integration of Static and Dynamic Code Stylometry Analysis for Programmer De-anonymization</font>**<br>
 *<font color="black">Ningfei Wang, Shouling Ji, Ting Wang</font>* <br>
-*<font color="blue">The 11th ACM Workshop on Artificial Intelligence and Security (AISec '18)</font>*
+*<font color="blue">The 11th ACM Workshop on Artificial Intelligence and Security (AISec '18)</font>*<br>
+🏅<font color="red">Best Paper Award</font>
 
 *  **<font color="purple">Towards Evaluating the Security of Image CAPTCHA in The Wild</font>**<br>
 *<font color="black">Binbin Zhao, Haiqin Weng, Shouling Ji, Jianhai Chen, Ting Wang, Qinming He, Raheem Beyah</font>* <br>
@@ -223,8 +224,7 @@ permalink: /publications/index.html
 
 * **<font color="purple">Quantifying Herding Effects in Crowd Wisdom </font>** [[pdf]({{ site.url }}/paper/wang-kdd-2014.pdf), [bibtex]({{ site.url }}/references.html#Wang:2014:kdd)]<br>
 *<font color="black">Ting Wang, Dashun Wang, Fei Wang</font>* <br>
-*<font color="blue">The 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '14)</font>*<br>
-🏅<font color="red">Invited to Big Data Journal</font>
+*<font color="blue">The 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '14)</font>*
 
 
 * **<font color="purple">Why Amazon's Ratings Might Mislead You? The Story of Herding Effects</font>** [[pdf]({{ site.url }}/paper/wang-bigdata-2015.pdf), [bibtex]({{ site.url }}/references.html#Wang:2014:bigdata)]<br>
@@ -251,9 +251,7 @@ permalink: /publications/index.html
 
 * **<font color="purple">A Temporal Data-Mining Approach for Discovering End-to-End Transaction Flows</font>** [[pdf]({{ site.url }}/paper/wang-icws-2008.pdf), [bibtex]({{ site.url }}/references.html#Wang:2008:icws)]<br>
 *<font color="black">Ting Wang, Chang-shing Perng, Tao Tao, Chungqiang Tang, Edward So, Chun Zhang, Rong Chang, Ling Liu</font>* <br>
-*<font color="blue">The 2008 IEEE International Conference on Web Services (ICWS '08)</font>* <br>
-🏅<font color="red">Invited to IEEE Transactions on Services Computing</font>
-
+*<font color="blue">The 2008 IEEE International Conference on Web Services (ICWS '08)</font>* 
 
 
 <hr>
