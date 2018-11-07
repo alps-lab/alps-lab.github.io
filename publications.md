@@ -18,7 +18,11 @@ permalink: /publications/index.html
 #### Machine Learning Security
 
 
-              
+*  **<font color="purple">TextBugger: Generating Adversarial Text Against Real-world Applications</font>**<br>
+*<font color="black">Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, Ting Wang</font>* <br>
+*<font color="blue">The 2019 Network and Distributed System Security Symposium (NDSS '19)</font>*
+
+
 *  **<font color="purple">DeepSec: A Uniform Platform for Security Analysis of Deep Learning Models</font>**<br>
 *<font color="black">Xiang Ling, Shouling Ji, Jiaxu Zou, Jiannan Wang, Chunming Wu, Bo Li, Ting Wang</font>* <br>
 *<font color="blue">The 40th IEEE Symposium on Security and Privacy (S&P '19)</font>*
@@ -255,7 +259,7 @@ permalink: /publications/index.html
 
 * **<font color="purple">A Temporal Data-Mining Approach for Discovering End-to-End Transaction Flows</font>** [[pdf]({{ site.url }}/paper/wang-icws-2008.pdf), [bibtex]({{ site.url }}/references.html#Wang:2008:icws)]<br>
 *<font color="black">Ting Wang, Chang-shing Perng, Tao Tao, Chungqiang Tang, Edward So, Chun Zhang, Rong Chang, Ling Liu</font>* <br>
-*<font color="blue">The 2008 IEEE International Conference on Web Services (ICWS '08)</font>* 
+*<font color="blue">The 2008 IEEE International Conference on Web Services (ICWS '08)</font>*
 
 * **<font color="purple">TWStream: Finding Correlated Streams under Time Warping</font>** [pdf, bibtex]<br>
 *<font color="black">Ting Wang</font>* <br>
