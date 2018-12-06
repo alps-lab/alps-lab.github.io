@@ -23,6 +23,15 @@ In particular, we will build PADLOCK, a Privacy-Aware Deep Learning Of Contextua
 
 ### Publications
 
+*  **<font color="purple">Integration of Static and Dynamic Code Stylometry Analysis for Programmer De-anonymization</font>** [[pdf]({{ site.url }}/paper/Wang-aisec-2018.pdf)]<br>
+*<font color="black">Ningfei Wang, Shouling Ji, Ting Wang</font>* <br>
+*<font color="blue">The 11th ACM Workshop on Artificial Intelligence and Security (AISec '18)</font>*<br>
+🏅<font color="red">Best Paper Award</font>
+
+*  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
+[[code](https://github.com/alps-lab/dpgan)] <br>
+*<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>* <br>
+*<font color="blue"> <a href="https://arxiv.org/abs/1801.01594">ArXiv e-prints, 2018</a> </font>*
 
 * **<font color="purple">Backdoor Attacks against Learning Systems</font>** [pdf, [bibtex]({{ site.url }}/references.html#Wang:2016:icdcs)]<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>

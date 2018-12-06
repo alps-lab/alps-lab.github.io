@@ -22,21 +22,39 @@ In particular, EagleEye leverages a set of invariant properties underlying most 
 
 ### Publications
 
-*  **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>**<br>
+
+*  **<font color="purple"> Interpretable Deep Learning under Fire </font>**<br>
+*<font color="black">Xinyang Zhang, Ningfei Wang, Shouling Ji, Hua Shen, Ting
+  Wang</font>* <br>
+*<font color="blue"> <a href="https://arxiv.org/abs/1812.00891 ">ArXiv e-prints, 2018</a> </font>*
+
+*  **<font color="purple">TextBugger: Generating Adversarial Text Against Real-world Applications</font>** [[pdf]({{ site.url }}/paper/Li-ndss-2019.pdf)]<br>
+*<font color="black">Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, Ting Wang</font>* <br>
+*<font color="blue">The 2019 Network and Distributed System Security Symposium (NDSS '19)</font>*
+
+*  **<font color="purple">DeepSec: A Uniform Platform for Security Analysis of Deep Learning Models</font>** [[pdf]({{ site.url }}/paper/Ling-sp-2019.pdf)]<br>
+*<font color="black">Xiang Ling, Shouling Ji, Jiaxu Zou, Jiannan Wang, Chunming Wu, Bo Li, Ting Wang</font>* <br>
+*<font color="blue">The 40th IEEE Symposium on Security and Privacy (S&P '19)</font>*
+
+*  **<font color="purple">Towards Evaluating the Security of Image CAPTCHA in The Wild</font>** [[pdf]({{ site.url }}/paper/Zhao-aisec-2018.pdf)]<br>
+*<font color="black">Binbin Zhao, Haiqin Weng, Shouling Ji, Jianhai Chen, Ting Wang, Qinming He, Raheem Beyah</font>* <br>
+*<font color="blue">The 11th ACM Workshop on Artificial Intelligence and Security (AISec '18)</font>*
+
+*  **<font color="purple"> Towards A Unified Theory of Adversarial Inputs and Adversarial Models </font>**<br>
+*<font color="black">Ting Wang</font>* <br>
+*<font color="blue"> <a href="https://arxiv.org/abs/">ArXiv e-prints, 2018</a> </font>*
+
+<!-- *  **<font color="purple"> Unified and Certified Defenses against Adversarial Inputs </font>**<br>
+*<font color="black">Xinyang Zhang, Chanh Nguyen, Shouling Ji, Ting Wang</font>* -->
+
+*  **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>** [[pdf]({{ site.url }}/paper/Ji-ccs-2018.pdf)] <br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
-*<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18')</font>*
+*<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18)</font>*
 
-
-
-*  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
-[[code](https://github.com/alps-lab/dpgan)] <br>
-*<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>* <br>
-*<font color="blue"> <a href="https://arxiv.org/abs/1801.01594">ArXiv e-prints, 2018</a> </font>*
 
 *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/1808.00123">ArXiv e-prints, 2018</a> </font>*
-
 
 * **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
 *<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, and Ting Wang</font>* <br>

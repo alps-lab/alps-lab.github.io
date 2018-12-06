@@ -18,21 +18,25 @@ permalink: /publications/index.html
 #### Machine Learning Security
 
 
-*  **<font color="purple">TextBugger: Generating Adversarial Text Against Real-world Applications</font>**<br>
+*  **<font color="purple"> Interpretable Deep Learning under Fire </font>**<br>
+*<font color="black">Xinyang Zhang, Ningfei Wang, Shouling Ji, Hua Shen, Ting
+  Wang</font>* <br>
+*<font color="blue"> <a href="https://arxiv.org/abs/1812.00891 ">ArXiv e-prints, 2018</a> </font>*
+
+*  **<font color="purple">TextBugger: Generating Adversarial Text Against Real-world Applications</font>** [[pdf]({{ site.url }}/paper/Li-ndss-2019.pdf)]<br>
 *<font color="black">Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, Ting Wang</font>* <br>
 *<font color="blue">The 2019 Network and Distributed System Security Symposium (NDSS '19)</font>*
 
-
-*  **<font color="purple">DeepSec: A Uniform Platform for Security Analysis of Deep Learning Models</font>**<br>
+*  **<font color="purple">DeepSec: A Uniform Platform for Security Analysis of Deep Learning Models</font>** [[pdf]({{ site.url }}/paper/Ling-sp-2019.pdf)]<br>
 *<font color="black">Xiang Ling, Shouling Ji, Jiaxu Zou, Jiannan Wang, Chunming Wu, Bo Li, Ting Wang</font>* <br>
 *<font color="blue">The 40th IEEE Symposium on Security and Privacy (S&P '19)</font>*
 
-*  **<font color="purple">Integration of Static and Dynamic Code Stylometry Analysis for Programmer De-anonymization</font>**<br>
+*  **<font color="purple">Integration of Static and Dynamic Code Stylometry Analysis for Programmer De-anonymization</font>** [[pdf]({{ site.url }}/paper/Wang-aisec-2018.pdf)]<br>
 *<font color="black">Ningfei Wang, Shouling Ji, Ting Wang</font>* <br>
 *<font color="blue">The 11th ACM Workshop on Artificial Intelligence and Security (AISec '18)</font>*<br>
 🏅<font color="red">Best Paper Award</font>
 
-*  **<font color="purple">Towards Evaluating the Security of Image CAPTCHA in The Wild</font>**<br>
+*  **<font color="purple">Towards Evaluating the Security of Image CAPTCHA in The Wild</font>** [[pdf]({{ site.url }}/paper/Zhao-aisec-2018.pdf)]<br>
 *<font color="black">Binbin Zhao, Haiqin Weng, Shouling Ji, Jianhai Chen, Ting Wang, Qinming He, Raheem Beyah</font>* <br>
 *<font color="blue">The 11th ACM Workshop on Artificial Intelligence and Security (AISec '18)</font>*
 
@@ -44,11 +48,11 @@ permalink: /publications/index.html
 *<font color="black">Xinyang Zhang, Chanh Nguyen, Shouling Ji, Ting Wang</font>* -->
 
 
-*  **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>**<br>
+*  **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>** [[pdf]({{ site.url }}/paper/Ji-ccs-2018.pdf)] <br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18)</font>*
 
-*  **<font color="purple"> On the Dynamics of Adversarial Attacks </font>** [poster] <br>
+*  **<font color="purple"> On the Dynamics of Adversarial Attacks </font>** [[pdf]({{ site.url }}/paper/Ji-poster-draft.pdf), [poster]({{ site.url }}/paper/Ji-ccs18-poster.pdf)] <br>
 *<font color="black">Yujie Ji, Ting Wang</font>* <br>
 *<font color="blue">The 25th ACM Conference on Computer and Communications Security (CCS '18)</font>*
 
