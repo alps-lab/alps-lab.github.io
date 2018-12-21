@@ -15,8 +15,7 @@ permalink: /about/index.html
 
 ### Howdy!
 
-I am an Assistant Professor of Computer Science at Lehigh University. I am interested in the interplay between <b> <font color="blue">machine learning</font> </b> and <b> <font color="blue">privacy & security</font> </b>. My current research focuses on <b> <font color="red"><em>making machine learning systems more usable</em></font> </b>through:
-
+I am currently an Assistant Professor of computer science at Lehigh University. I am interested in the interplay between <b> <font color="blue">machine learning</font> </b> and <b> <font color="red">privacy & security</font> </b>. My ongoing work focuses on <b> <font color="purple"><em>making machine learning systems more practically usable</em></font> </b>through:
  * mitigating their security vulnerabilities
  * enhancing their privacy awareness
  * increasing their decision-making transparency   
@@ -70,6 +69,6 @@ explicitly contacted you, your advisor, or your school. -->
 
 ### Short Bio
 
-I joined Lehigh in Fall 2015. Before that I was a Research Staff Member at IBM Thomas J. Watson Research Center. I received my Ph.D. degree from Georgia Tech. I did my undergraduate studies in my home country, China, at Zhejiang University.
+I joined Lehigh in Fall 2015. Prior to that I was a Research Staff Member at IBM Thomas J. Watson Research Center. I received my doctoral degree from Georgia Tech. I did my undergraduate studies in my home country, China, at Zhejiang University.
 
 I am now affiliated with [I-DISC](https://www1.lehigh.edu/research/interdisciplinary-research-institutes/data-intelligent-systems-computation   ), an interdisciplinary initiative that pushes the envelop of data analytics research.
