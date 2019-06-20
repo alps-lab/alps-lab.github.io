@@ -16,9 +16,9 @@ permalink: /about/index.html
 ### Howdy!
 
 I am currently an Assistant Professor of computer science at Lehigh University. I am interested in the interplay between <b> <font color="blue">machine learning</font> </b> and <b> <font color="red">privacy & security</font> </b>. My ongoing work focuses on <b> <font color="purple"><em>making machine learning systems more practically usable</em></font> </b>through:
- * mitigating their security vulnerabilities
- * enhancing their privacy awareness
- * increasing their decision-making transparency   
+ * mitigating security vulnerabilities
+ * enhancing privacy awareness
+ * increasing decision-making transparency   
 
 I direct the <b> [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}/alps) </b> (ALPS) Lab.
 
@@ -71,4 +71,4 @@ explicitly contacted you, your advisor, or your school. -->
 
 I joined Lehigh in Fall 2015. Prior to that I was a Research Staff Member at IBM Thomas J. Watson Research Center. I received my doctoral degree from Georgia Tech. I did my undergraduate studies in my home country, China, at Zhejiang University.
 
-I am now affiliated with [I-DISC](https://www1.lehigh.edu/research/interdisciplinary-research-institutes/data-intelligent-systems-computation   ), an interdisciplinary initiative that pushes the envelop of data analytics research.
+<!-- I am now affiliated with [I-DISC](https://www1.lehigh.edu/research/interdisciplinary-research-institutes/data-intelligent-systems-computation   ), an interdisciplinary initiative that pushes the envelop of data analytics research. -->

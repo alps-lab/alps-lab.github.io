@@ -17,14 +17,9 @@ permalink: /publications/index.html
 #### Pre-print
 
 
-*  **<font color="purple"> Interpretable Deep Learning under Fire </font>**<br>
-*<font color="black">Xinyang Zhang, Ningfei Wang, Shouling Ji, Hua Shen, Ting
-  Wang</font>* <br>
-*<font color="blue"> <a href="https://arxiv.org/abs/1812.00891 ">ArXiv e-prints, 2018</a> </font>*
 
-
-*  **<font color="purple"> Towards A Unified Theory of Adversarial Inputs and Adversarial Models </font>**<br>
-*<font color="black">Ting Wang</font>* <br>
+*  **<font color="purple"> The Story of Evil Twins: Adversarial Inputs versus Backdoored Models </font>**<br>
+*<font color="black">Ren Pang, Yujie Ji, Shouling Ji, Yevgeniy Vorobeychik, Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/">ArXiv e-prints, 2018</a> </font>*
 
 *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
@@ -40,8 +35,13 @@ permalink: /publications/index.html
 <hr>
 
 
-#### Machine Learning Security
+#### Security
 
+
+*  **<font color="purple"> Interpretable Deep Learning under Fire </font>** [[pdf](https://arxiv.org/abs/1812.00891)]  <br>
+*<font color="black">Xinyang Zhang, Ningfei Wang,  Hua Shen, Shouling Ji, Xiapu Luo, Ting
+  Wang</font>* <br>
+*<font color="blue">The 29th USENIX Security Symposium (SEC '20)</font>*
 
 
 *  **<font color="purple">TextBugger: Generating Adversarial Text Against Real-world Applications</font>** [[pdf]({{ site.url }}/paper/Li-ndss-2019.pdf)]<br>
@@ -141,12 +141,14 @@ permalink: /publications/index.html
 
 
 
-#### Computational Privacy
+#### Privacy
+
 
 
 
 *   **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
 *<font color="black">Shouling Ji, Qinchen Gu, Ting Wang, Raheem Beyah</font>*
+
 
 <!-- *   **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
 *<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>* -->
@@ -225,6 +227,11 @@ permalink: /publications/index.html
 
 #### Data Science
 
+*   **<font color="purple">Fast-RCM: Fast Tree based Unsupersived Rare Class Mining</font>** [[pdf](), [bibtex]()]<br>
+*<font color="black">Haiqin Weng, Shouling Ji, Changchang Liu, Ting Wang, Qinming He</font>* <br>
+*<font color="blue">IEEE Transactions on Cybernetics (CYB)</font>*, 2019
+
+
 *  **<font color="purple">DeepClean: Data Cleaning via Question Asking</font>** [[code](https://github.com/alps-lab/deepclean)]<br>
 *<font color="black">Xinyang Zhang, Yujie Ji, Chanh Nguyen, Ting Wang</font>* <br>
 *<font color="blue">The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA '18) </font>*
@@ -287,6 +294,14 @@ permalink: /publications/index.html
 
 
 <!-- An early [<font color="blue">version</font>]({{ site.url }}/paper/tang-icde-2014.pdf) appears as system demo in ICDE '14 (bibtex) -->
+
+
+
+
+* **<font color="purple">A Large-Scale Empirical Study on Control Flow Identification of Smart Contracts</font>** [[pdf](), [bibtex]()]<br>
+*<font color="black">Ting Chen, Zihao Li, Yufei Zhang, Xiapu Luo, Ting Wang, Teng Hu, Xiuzhuo Xiao, Dong Wang, Jin Huang, Xiaosong Zhang</font>* <br>
+*<font color="blue">The 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '19)</font>*
+
 
 
 * **<font color="purple">On Exploiting Dynamic Execution Patterns for Workload Offloading in Mobile Cloud Applications</font>** [[pdf]({{ site.url }}/paper/gao-icnp-2014.pdf), [bibtex]({{ site.url }}/references.html#Gao:2014:icnp)]<br>
