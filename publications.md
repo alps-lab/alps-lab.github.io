@@ -18,9 +18,9 @@ permalink: /publications/index.html
 
 
 
-*  **<font color="purple"> The Story of Evil Twins: Adversarial Inputs versus Backdoored Models </font>**<br>
+<!-- *  **<font color="purple"> The Story of Evil Twins: Adversarial Inputs versus Backdoored Models </font>**<br>
 *<font color="black">Ren Pang, Yujie Ji, Shouling Ji, Yevgeniy Vorobeychik, Ting Wang</font>* <br>
-*<font color="blue"> <a href="https://arxiv.org/abs/">ArXiv e-prints, 2018</a> </font>*
+*<font color="blue"> <a href="https://arxiv.org/abs/">ArXiv e-prints, 2018</a> </font>* -->
 
 *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
