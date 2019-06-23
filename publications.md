@@ -43,6 +43,16 @@ permalink: /publications/index.html
   Wang</font>* <br>
 *<font color="blue">The 29th USENIX Security Symposium (SEC '20)</font>*
 
+*  **<font color="purple">TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens</font>** [[pdf]()]<br>
+*<font color="black">Ting Chen,
+              Yufei Zhang,
+              Zihao Li,
+              Xiapu Luo,
+              Ting Wang,
+              Rong Cao,
+              Xiuzhuo Xiao,
+              Xiaosong Zhang </font>* <br>
+*<font color="blue">The 26th ACM Conference on Computer and Communications Security (CCS '19)</font>*
 
 *  **<font color="purple">TextBugger: Generating Adversarial Text Against Real-world Applications</font>** [[pdf]({{ site.url }}/paper/Li-ndss-2019.pdf)]<br>
 *<font color="black">Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, Ting Wang</font>* <br>
