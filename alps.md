@@ -27,21 +27,20 @@ We follow the methodology of "*from practice, to theory and back to practice*". 
 
 ### People
 
-I am fortunate to work with a group of wonderful Ph.D. students:
+I am fortunate to work and have worked with a group of wonderful students:
 
-* [Xinyang Zhang](http://www.cse.lehigh.edu/~xizc15)
-* [Yujie Ji](http://www.cse.lehigh.edu/~yuj216)
+* [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7)
 * [Hua Shen](http://hua-shen.org)
 * [Ren Pang](http://www.cse.lehigh.edu/~rep218)
 
 
-Other great student collaborators include:
+#### Alumni
 
-* Ningfei Wang, M.Sc. student
-* Sam Nguyen, M.Sc. student
-* Georgi Georgiev, M.Sc. student
-* Yifan Huang, Undergrad student
-
+* [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793)
+* [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) (M.Sc.) Now Ph.D. student at UC Irvine
+* [Chanh "Sam" Nguyen](https://www.linkedin.com/in/chanhnp) (M.Sc.) Now Technical Staff Member at Lawrence Livermore National Lab
+* [Georgi Georgiev](https://www.researchgate.net/profile/Georgi_Georgiev65) (M.Sc.) Now Ph.D. student at Stony Brook University
+* [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (Undergrad) Now M.Sc. student at Carnegie Mellon University
 <hr>
 
 ### Projects

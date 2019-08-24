@@ -22,6 +22,8 @@ permalink: /publications/index.html
 *<font color="black">Ren Pang, Yujie Ji, Shouling Ji, Yevgeniy Vorobeychik, Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/">ArXiv e-prints, 2018</a> </font>* -->
 
+
+
 *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/1808.00123">ArXiv e-prints, 2018</a> </font>*
@@ -31,6 +33,8 @@ permalink: /publications/index.html
 *<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/1801.01594">ArXiv e-prints, 2018</a> </font>*
 
+*   **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
+*<font color="black">Shouling Ji, Qinchen Gu, Ting Wang, Raheem Beyah</font>*
 
 <hr>
 
@@ -152,12 +156,6 @@ permalink: /publications/index.html
 
 
 #### Privacy
-
-
-
-
-*   **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
-*<font color="black">Shouling Ji, Qinchen Gu, Ting Wang, Raheem Beyah</font>*
 
 
 <!-- *   **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
@@ -355,5 +353,5 @@ Shuang Hao and Ting Wang</br>
 <hr>
 
 <!-- <div class="footnotes"> -->
-&#42; The materials above are copyrighted by the corresponding publishers (e.g. ACM, IEEE, Springer Verlag). You should download them only if you accept and obey the terms and restrictions defined by the respective publishers, including only use the materials for personal or educational purpose.
+&#42; The materials above are copyrighted by the corresponding publishers (e.g. ACM, IEEE, USENIX, Springer Verlag). You should download them only if you accept and obey the terms and restrictions defined by the respective publishers, including only use the materials for personal or educational purpose.
 <!-- </div> -->

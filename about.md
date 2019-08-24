@@ -15,8 +15,9 @@ permalink: /about/index.html
 
 ### Howdy!
 
-I am currently an Assistant Professor of computer science at Lehigh University. I am interested in the interplay between <b> <font color="blue">machine learning</font> </b> and <b> <font color="red">privacy & security</font> </b>. My ongoing work focuses on <b> <font color="purple"><em>making machine learning systems more practically usable</em></font> </b>through:
- * mitigating security vulnerabilities
+I am currently an Assistant Professor at Penn State. I am interested in the interplay between machine learning and privacy & security. My ongoing work focuses on making machine learning systems more practically usable through:
+
+ * mitigating security vulnerability
  * enhancing privacy awareness
  * increasing decision-making transparency   
 
@@ -50,9 +51,9 @@ I direct the <b> [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}
 ### Contact Information
 
 <ul style="list-style-type:none">
-	<li>📩 ting@cse.lehigh.edu (inbox.ting@gmail.com)</li>
-	<li>📞1 (610) 758 4601 </li>
-	<li>📪113 Research Drive, Office 327, Bethlehem, PA 18015</li>
+	<li>📩 inbox.ting@gmail.com</li>
+	<li>📞 1 (814) 758 4601 </li>
+	<li>📪 E369 Westgate Building, University Park, PA 16802</li>
 </ul>
 
 <hr>
@@ -60,7 +61,7 @@ I direct the <b> [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}
 
 ### Recruiting
 
-I am <b> <font color="red">always</font> </b> looking for motivated and bright Ph.D. and M.Sc. students. If you know how to build/hack machine learning systems, we should talk! Please email me your resume and set up a time to discuss your potential fit to our group.
+We are <b> <font color="red">always</font> </b> looking for motivated and bright (under)grad students and postdocs. If you know how to build/hack machine learning systems, we should talk! Please email me your resume and set up a time to discuss your potential fit to our group.
 
 <!-- I am <font color="red">**not**</font> looking for other short-term visitors. Please do not contact me about such opportunities, unless I have
 explicitly contacted you, your advisor, or your school. -->
@@ -69,6 +70,6 @@ explicitly contacted you, your advisor, or your school. -->
 
 ### Short Bio
 
-I joined Lehigh in Fall 2015. Prior to that I was a Research Staff Member at IBM Thomas J. Watson Research Center. I received my doctoral degree from Georgia Tech. I did my undergraduate studies in my home country, China, at Zhejiang University.
+I joined Penn State in Fall 2019. Prior to that I was an assistant professor at Lehigh University. I obtained my doctoral degree from Georgia Tech. I did my undergraduate studies at Zhejiang University (China).
 
 <!-- I am now affiliated with [I-DISC](https://www1.lehigh.edu/research/interdisciplinary-research-institutes/data-intelligent-systems-computation   ), an interdisciplinary initiative that pushes the envelop of data analytics research. -->
