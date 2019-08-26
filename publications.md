@@ -47,7 +47,7 @@ permalink: /publications/index.html
   Wang</font>* <br>
 *<font color="blue">The 29th USENIX Security Symposium (SEC '20)</font>*
 
-*  **<font color="purple">TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens</font>** [[pdf]()]<br>
+*  **<font color="purple">TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens</font>** [[pdf]({{ site.url }}/paper/chen-ccs19.pdf)]<br>
 *<font color="black">Ting Chen,
               Yufei Zhang,
               Zihao Li,
