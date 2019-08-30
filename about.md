@@ -15,7 +15,7 @@ permalink: /about/index.html
 
 ### Howdy!
 
-I am an Assistant Professor in the College of Information Science and Technology at Penn State. My team conducts research at the intersection of data science and privacy & security. Our ongoing work focuses on making machine learning systems more practically usable through improving their
+I am Assistant Professor in the College of Information Science and Technology at Penn State. My team conducts research at the intersection of data science and privacy & security. Our ongoing work focuses on making machine learning systems more practically usable through improving their
 
  * Security Assurance
  * Privacy Preservation
