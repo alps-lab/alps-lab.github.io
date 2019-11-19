@@ -330,9 +330,9 @@ Shicong Meng, Arun Iyengar, Ling Liu, Ting Wang, Jian Tan, Ignacio Silva-Lepe, a
 *<font color="blue">The 26th IEEE International Conference on Data Engineering (ICDE '10)</font>*
 
 
-* **<font color="purple">Efficient and Density-Aware Routing for Wireless Sensor Networks</font>** [[pdf]({{ site.url }}/paper/wang-icccn-2006.pdf), [bibtex]({{ site.url }}/references.html#Wang:2006:icccn)]<br>
+<!-- * **<font color="purple">Efficient and Density-Aware Routing for Wireless Sensor Networks</font>** [[pdf]({{ site.url }}/paper/wang-icccn-2006.pdf), [bibtex]({{ site.url }}/references.html#Wang:2006:icccn)]<br>
 *<font color="black">Ting Wang, Shuang Hao, Ping Wang, Gang Peng</font>* <br>
-*<font color="blue">The 15th International Conference on Computer Communication and Networks (ICCCN '06)</font>*
+*<font color="blue">The 15th International Conference on Computer Communication and Networks (ICCCN '06)</font>* -->
 
 
 
