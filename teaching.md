@@ -8,10 +8,10 @@ permalink: /teaching/index.html
 
 <hr>
 
-* CSE 261: Discrete Structures: Spring 2017, Spring 2018, Spring 2019
-* CSE 398/498: Information Privacy: Spring 2016, Spring 2018
-* CSE 398/498: Adversarial Machine Learning: Spring 2019
-* CSE 347/447: Data Mining: Fall 2015, Fall 2016, Fall 2017, Fall 2018
+* CSE 261: Discrete Structures
+* CSE 398/498: Information Privacy
+* CSE 398/498: Adversarial Machine Learning
+* CSE 347/447: Data Mining
 
 
 
