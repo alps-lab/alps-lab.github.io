@@ -18,23 +18,18 @@ permalink: /publications/index.html
 
 
 
-<!-- *  **<font color="purple"> The Story of Evil Twins: Adversarial Inputs versus Backdoored Models </font>**<br>
-*<font color="black">Ren Pang, Yujie Ji, Shouling Ji, Yevgeniy Vorobeychik, Ting Wang</font>* <br>
-*<font color="blue"> <a href="https://arxiv.org/abs/">ArXiv e-prints, 2018</a> </font>* -->
-
-
+*  **<font color="purple"> The Story of Evil Twins: Adversarial Inputs versus Backdoored Models </font>**<br>
+*<font color="black">Ren Pang, Xinyang Zhang, Shouling Ji, Yevgeniy Vorobeychik, Xiapu Luo, and Ting Wang</font>* <br>
+*<font color="blue"> <a href="https://arxiv.org/abs/1911.01559">ArXiv e-prints, 2019</a> </font>*
 
 *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
-*<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
+*<font color="black">Yujie Ji, Xinyang Zhang, and Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/1808.00123">ArXiv e-prints, 2018</a> </font>*
 
 *  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
 [[code](https://github.com/alps-lab/dpgan)] <br>
-*<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>* <br>
+*<font color="black">Xinyang Zhang, Shouling Ji, and Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/1801.01594">ArXiv e-prints, 2018</a> </font>*
-
-*   **<font color="purple">All Your Health Information Are Belong to Us: De-anonymizing Online Health Data</font>**<br>
-*<font color="black">Shouling Ji, Qinchen Gu, Ting Wang, Raheem Beyah</font>*
 
 <hr>
 
