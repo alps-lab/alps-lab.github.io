@@ -156,7 +156,7 @@ permalink: /publications/index.html
 <!-- *   **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
 *<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>* -->
 
-*   **<font color="purple">De-Health: All Your Online Health Information Are Belong to Us</font>** [[pdf]({{ site.url }}/paper/ji-icde-2020.pdf)<br>
+*   **<font color="purple">De-Health: All Your Online Health Information Are Belong to Us</font>** [[pdf]({{ site.url }}/paper/ji-icde-2020.pdf)]<br>
 *<font color="black">Shouling Ji, Qinchen Gu, Haiqin Weng, Qianjun Liu, Pan Zhou, Jing Chen, Zhao Li, Raheem Beyah, and Ting Wang</font>* <br>
 *<font color="blue">The 36th IEEE International Conference on Data Engineering (ICDE '20)</font>*
 
@@ -307,7 +307,7 @@ permalink: /publications/index.html
 
 * **<font color="purple">A Large-Scale Empirical Study on Control Flow Identification of Smart Contracts</font>** [[pdf](), [bibtex]()]<br>
 *<font color="black">Ting Chen, Zihao Li, Yufei Zhang, Xiapu Luo, Ting Wang, Teng Hu, Xiuzhuo Xiao, Dong Wang, Jin Huang, Xiaosong Zhang</font>* <br>
-*<font color="blue">The 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '19)</font>*
+*<font color="blue">The 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '19)</font>* <br>
 🏅<font color="red">Best paper runner-up award</font>
 
 
