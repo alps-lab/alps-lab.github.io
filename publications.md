@@ -313,7 +313,7 @@ permalink: /publications/index.html
 * **<font color="purple">A Large-Scale Empirical Study on Control Flow Identification of Smart Contracts</font>** [[pdf](), [bibtex]()]<br>
 *<font color="black">Ting Chen, Zihao Li, Yufei Zhang, Xiapu Luo, Ting Wang, Teng Hu, Xiuzhuo Xiao, Dong Wang, Jin Huang, Xiaosong Zhang</font>* <br>
 *<font color="blue">The 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '19)</font>*
-
+🏅<font color="red">Best paper runner-up award</font>
 
 
 * **<font color="purple">On Exploiting Dynamic Execution Patterns for Workload Offloading in Mobile Cloud Applications</font>** [[pdf]({{ site.url }}/paper/gao-icnp-2014.pdf), [bibtex]({{ site.url }}/references.html#Gao:2014:icnp)]<br>
