@@ -291,9 +291,9 @@ permalink: /publications/index.html
 *<font color="black">Ting Wang, Chang-shing Perng, Tao Tao, Chungqiang Tang, Edward So, Chun Zhang, Rong Chang, Ling Liu</font>* <br>
 *<font color="blue">The 2008 IEEE International Conference on Web Services (ICWS '08)</font>*
 
-* **<font color="purple">TWStream: Finding Correlated Streams under Time Warping</font>** [pdf, bibtex]<br>
+<!-- * **<font color="purple">TWStream: Finding Correlated Streams under Time Warping</font>** [pdf, bibtex]<br>
 *<font color="black">Ting Wang</font>* <br>
-*<font color="blue">The 8th Asia Pacific Web Conference (APWeb '06)</font>*
+*<font color="blue">The 8th Asia Pacific Web Conference (APWeb '06)</font>* -->
 
 <hr>
 
