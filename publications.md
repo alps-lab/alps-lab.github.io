@@ -161,6 +161,10 @@ permalink: /publications/index.html
 <!-- *   **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
 *<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>* -->
 
+*   **<font color="purple">De-Health: All Your Online Health Information Are Belong to Us</font>** [[pdf]({{ site.url }}/paper/ji-icde-2020.pdf)<br>
+*<font color="black">Shouling Ji, Qinchen Gu, Haiqin Weng, Qianjun Liu, Pan Zhou, Jing Chen, Zhao Li, Raheem Beyah, and Ting Wang</font>* <br>
+*<font color="blue">The 36th IEEE International Conference on Data Engineering (ICDE '20)</font>*
+
 *   **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
 *<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, and Ting Wang</font>* <br>
 *<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*, 30(8)1440-1453, 2018
