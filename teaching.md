@@ -12,6 +12,8 @@ permalink: /teaching/index.html
 * CSE 398/498: Information Privacy
 * CSE 398/498: Adversarial Machine Learning
 * CSE 347/447: Data Mining
+* DS 300: Data Privacy and Security
+* CYBER 497: Machine Learning Security
 
 
 

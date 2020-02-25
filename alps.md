@@ -29,10 +29,10 @@ We follow the methodology of "*from practice, to theory and back to practice*". 
 
 I am fortunate to work and have worked with a group of wonderful students:
 
-* [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7)
-* [Hua Shen](http://hua-shen.org)
-* [Ren Pang](http://www.cse.lehigh.edu/~rep218)
-
+* [Xinyang Zhang](https://ist.psu.edu/directory/xqz5366)
+* [Hua Shen](https://ist.psu.edu/directory/hqs5468)
+* [Ren Pang](https://ist.psu.edu/directory/rbp5354)
+* [Zhaohan Xi](https://ist.psu.edu/directory/zxx5113)
 
 #### Alumni
 

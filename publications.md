@@ -36,11 +36,18 @@ permalink: /publications/index.html
 
 #### Security
 
+*  **<font color="purple"> TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation </font>** [[pdf]()]  <br>
+*<font color="black">Jinfeng Li, Tianyu Du, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, Ting Wang</font>* <br>
+*<font color="blue">The 29th USENIX Security Symposium (SEC '20)</font>*
 
 *  **<font color="purple"> Interpretable Deep Learning under Fire </font>** [[pdf](https://arxiv.org/abs/1812.00891)]  <br>
 *<font color="black">Xinyang Zhang, Ningfei Wang,  Hua Shen, Shouling Ji, Xiapu Luo, Ting
   Wang</font>* <br>
 *<font color="blue">The 29th USENIX Security Symposium (SEC '20)</font>*
+
+*  **<font color="purple"> SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems </font>** [[pdf](https://arxiv.org/abs/1901.07846)]  <br>
+*<font color="black">Tianyu Du, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang, Raheem Beyah</font>* <br>
+*<font color="blue">The 15th ACM ASIA Conference on Computer and Communications Security (ASIACCS '20)</font>*
 
 *  **<font color="purple">TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens</font>** [[pdf]({{ site.url }}/paper/chen-ccs19.pdf)]<br>
 *<font color="black">Ting Chen,

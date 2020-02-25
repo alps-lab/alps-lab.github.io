@@ -15,7 +15,7 @@ permalink: /about/index.html
 
 ### Howdy!
 
-I am Assistant Professor in the College of Information Science and Technology at Penn State. My team conducts research at the intersection of data science and privacy & security. Our ongoing work focuses on making machine learning systems more practically usable through improving their
+I am Assistant Professor in the College of Information Sciences and Technology at Penn State. My team conducts research at the intersection of data science and privacy & security. Our ongoing work focuses on making machine learning systems more practically usable through improving their
 
  * Security Assurance
  * Privacy Preservation
@@ -28,13 +28,13 @@ I direct the <b> [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}
 ### Recent News
 
 <ul>
+<li><label class="paper_label_style">Paper</label> Paper on Robust Text Classification accepted by USENIX '20. </li>
  <li><label class="fund_label_style">Grant</label> NSF Award for <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1910546">Usable Interpretability</a>. Thank you, NSF! </li>
 <li><label class="paper_label_style">Paper</label> Paper on <a href="https://arxiv.org/abs/1812.00891">Security of Interpretable Deep Learning</a> accepted by USENIX '20. </li>
 <li><label class="paper_label_style">Paper</label> Paper on <a href="{{ site.url }}/paper/chen-ccs19.pdf">Inconsistency of Cryptocurrency Tokens</a> accepted by CCS '19. </li>
 <li><label class="info_label_style">Job</label> Ting --> Penn State! </li>
 <li><label class="paper_label_style">Paper</label> Paper on <a href="https://www.ncbi.nlm.nih.gov/pubmed/31331902">Rare Class Mining</a> accepted by IEEE Cybernetics. </li>
 <li><label class="success_label_style">Award</label> Ting recognized with <a href="https://engineering.lehigh.edu/news/article/rossin-awards-honor-excellence-across-lehighs-engineering-college">Rossin Assistant Professorship</a>. Thank you, Lehigh!</li>
-<li><label class="paper_label_style">Paper</label> Paper on <a href="http://eseiw2019.com/esem/">Smart Contract Control Flow</a> accepted by IEEE/ACM ESEM '19. </li>
 <li><label class="fund_label_style">Grant</label> NSF CAREER Award for <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1846151">Trustworthy Machine Learning from Untrusted Models</a>. Thank you, NSF! </li>
 <li><label class="info_label_style">Job</label> Ningfei --> ICS@UC Irvine. Congrats! </li>
 <li><label class="info_label_style">Job</label> Yifan --> INI@CMU. Congrats! </li>
