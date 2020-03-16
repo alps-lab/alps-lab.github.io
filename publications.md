@@ -163,6 +163,10 @@ permalink: /publications/index.html
 <!-- *   **<font color="purple">FDI: Quantifying Feature-based Data Inferability</font>**<br>
 *<font color="black">Shouling Ji, Ting Wang, Xin Hu, Yushan Liu, Jiyong Jang, Marc Stoecklin, Raheem Beyah</font>* -->
 
+*   **<font color="purple">AsgLDP: Collecting and Generating Decentralized Attributed Graphs with Local Differential Privacy</font>** [[pdf](https://nesa.zju.edu.cn/download/AsgLDP%20Collecting%20and%20Generating%20Decentralized%20Attributed%20Graphs%20with%20Local%20Differential%20Privacy.pdf)]<br>
+*<font color="black">Chengkun Wei, Shouling Ji, Changchang Liu, Wenzhi Chen, Ting Wang</font>* <br>
+*<font color="blue">IEEE Transactions on Information Forensics & Security (TIFS)</font>*
+
 *   **<font color="purple">De-Health: All Your Online Health Information Are Belong to Us</font>** [[pdf]({{ site.url }}/paper/ji-icde-2020.pdf)]<br>
 *<font color="black">Shouling Ji, Qinchen Gu, Haiqin Weng, Qianjun Liu, Pan Zhou, Jing Chen, Zhao Li, Raheem Beyah, and Ting Wang</font>* <br>
 *<font color="blue">The 36th IEEE International Conference on Data Engineering (ICDE '20)</font>*
