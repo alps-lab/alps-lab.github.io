@@ -64,7 +64,7 @@ I direct the <b> [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}
 ### Contact Information
 
 <ul style="list-style-type:none">
-	<li>📩 inbox.ting@gmail.com</li>
+	<li>📩 ting@psu.edu (inbox.ting@gmail.com)</li>
 	<li>📞 1 (814) 865 0988 </li>
 	<li>📪 E369 Westgate Building, University Park, PA 16802</li>
 </ul>
