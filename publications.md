@@ -17,12 +17,12 @@ permalink: /publications/index.html
 #### Pre-print
 
 *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
-*<font color="black">Yujie Ji, Xinyang Zhang, and Ting Wang</font>* <br>
+*<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/1808.00123">ArXiv e-prints, 2018</a> </font>*
 
 *  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
 [[code](https://github.com/alps-lab/dpgan)] <br>
-*<font color="black">Xinyang Zhang, Shouling Ji, and Ting Wang</font>* <br>
+*<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/1801.01594">ArXiv e-prints, 2018</a> </font>*
 
 <hr>
@@ -61,7 +61,7 @@ Ting Wang</font>* <br>
               Rong Cao,
               Xiuzhuo Xiao,
               Xiaosong Zhang </font>* <br>
-*<font color="blue">The 26th ACM Conference on Computer and Communications Security (CCS '19)</font>*
+*<font color="blue">The 26th ACM Conference on Computer and Communications Security (CCS'19)</font>*
 
 *  **<font color="purple">TextBugger: Generating Adversarial Text Against Real-world Applications</font>** [[pdf]({{ site.url }}/paper/Li-ndss-2019.pdf)]<br>
 *<font color="black">Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, Ting Wang</font>* <br>
@@ -72,7 +72,7 @@ Ting Wang</font>* <br>
 *<font color="blue">The 40th IEEE Symposium on Security and Privacy (S&P'19)</font>*
 
 *  **<font color="purple">CATS: Cross-Platform E-commerce Fraud Detection</font>** <br>
-*<font color="black">Haiqin Weng, Shouling Ji, Fuzheng Duan, Zhao Li, Jianhai Chen, Qinming He, and Ting Wang</font>* <br>
+*<font color="black">Haiqin Weng, Shouling Ji, Fuzheng Duan, Zhao Li, Jianhai Chen, Qinming He, Ting Wang</font>* <br>
 *<font color="blue">The 35th IEEE International Conference on Data Engineering (ICDE'19)</font>*
 
 *  **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>** [[pdf]({{ site.url }}/paper/Ji-ccs-2018.pdf)] <br>
@@ -171,11 +171,11 @@ Ting Wang</font>* <br>
 *<font color="blue">IEEE Transactions on Information Forensics & Security (TIFS)</font>*
 
 *   **<font color="purple">De-Health: All Your Online Health Information Are Belong to Us</font>** [[pdf]({{ site.url }}/paper/ji-icde-2020.pdf)]<br>
-*<font color="black">Shouling Ji, Qinchen Gu, Haiqin Weng, Qianjun Liu, Pan Zhou, Jing Chen, Zhao Li, Raheem Beyah, and Ting Wang</font>* <br>
+*<font color="black">Shouling Ji, Qinchen Gu, Haiqin Weng, Qianjun Liu, Pan Zhou, Jing Chen, Zhao Li, Raheem Beyah, Ting Wang</font>* <br>
 *<font color="blue">The 36th IEEE International Conference on Data Engineering (ICDE'20)</font>*
 
 *   **<font color="purple">Differentially Private Distributed Online Learning</font>** [[pdf]({{ site.url }}/paper/li-tkde-2018.pdf), [bibtex]({{ site.url }}/references.html#Li:2018:tkde)]<br>
-*<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, and Ting Wang</font>* <br>
+*<font color="black">Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, Ting Wang</font>* <br>
 *<font color="blue">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>*, 30(8)1440-1453, 2018
 
 *   **<font color="purple">Quantifying Graph Anonymity, Utility, and De-anonymity</font>** [[pdf]({{ site.url }}/paper/ji-infocom-2018.pdf), [bibtex]({{ site.url }}/references.html#Ji:2018:infocom)]<br>
