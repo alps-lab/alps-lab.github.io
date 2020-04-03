@@ -365,5 +365,5 @@ Shuang Hao and Ting Wang</br>
 <hr>
 
 <!-- <div class="footnotes"> -->
-&#42; The materials above are copyrighted by the corresponding publishers (e.g. ACM, IEEE, USENIX). You should download them only if you accept and comply with the terms and restrictions defined by the respective publishers, including only using the materials for personal or educational purpose.
+&#42; The materials above are copyrighted by the corresponding publishers (e.g. ACM, IEEE, USENIX). You should download them only if you accept and comply with the terms defined by the respective publishers, such as only using the materials for personal or educational purposes.
 <!-- </div> -->
