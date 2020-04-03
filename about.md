@@ -28,7 +28,7 @@ I direct the <b> [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}
 ### Recent News
 
 <ul>
-<li><label class="paper_label_style">Paper</label> Paper on Robust Text Classification accepted by USENIX '20. </li>
+<li><label class="paper_label_style">Paper</label> Paper on <a href="{{ site.url }}/paper/Li-usenix-2020.pdf">Robust Text Classification</a> accepted by USENIX '20. </li>
  <li><label class="fund_label_style">Grant</label> NSF Award for <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1910546">Usable Interpretability</a>. Thank you, NSF! </li>
 <li><label class="paper_label_style">Paper</label> Paper on <a href="https://arxiv.org/abs/1812.00891">Security of Interpretable Deep Learning</a> accepted by USENIX '20. </li>
 <li><label class="paper_label_style">Paper</label> Paper on <a href="{{ site.url }}/paper/chen-ccs19.pdf">Inconsistency of Cryptocurrency Tokens</a> accepted by CCS '19. </li>

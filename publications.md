@@ -39,7 +39,7 @@ permalink: /publications/index.html
 Ting Wang</font>* <br>
 *<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS'20) *conditionally accepted*</font>*
 
-*  **<font color="purple"> TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation </font>** [[pdf]()]  <br>
+*  **<font color="purple"> TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation </font>** [[pdf]({{ site.url }}/paper/Li-usenix-2020.pdf)]  <br>
 *<font color="black">Jinfeng Li, Tianyu Du, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, Ting Wang</font>* <br>
 *<font color="blue">The 29th USENIX Security Symposium (SEC'20)</font>*
 
@@ -86,7 +86,7 @@ Ting Wang</font>* <br>
 *  **<font color="purple">Integration of Static and Dynamic Code Stylometry Analysis for Programmer De-anonymization</font>** [[pdf]({{ site.url }}/paper/wang-aisec-2018.pdf)]<br>
 *<font color="black">Ningfei Wang, Shouling Ji, Ting Wang</font>* <br>
 *<font color="blue">The 11th ACM Workshop on Artificial Intelligence and Security (AISec'18)</font>*<br>
-🏅<font color="red">Best Paper Award</font>
+🏅<font color="red">Best paper award</font>
 
 *  **<font color="purple">Towards Evaluating the Security of Image CAPTCHA in The Wild</font>** [[pdf]({{ site.url }}/paper/Zhao-aisec-2018.pdf)]<br>
 *<font color="black">Binbin Zhao, Haiqin Weng, Shouling Ji, Jianhai Chen, Ting Wang, Qinming He, Raheem Beyah</font>* <br>
@@ -99,7 +99,7 @@ Ting Wang</font>* <br>
 * **<font color="purple">Backdoor Attacks against Learning Systems</font>** [[pdf]({{ site.url }}/paper/ji-cns-2017.pdf), [bibtex]({{ site.url }}/references.html#Ji:2017:cns)]<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
 *<font color="blue">The 5th IEEE Conference on Communications and Network Security (CNS'17)</font>* <br>
-🏅<font color="red">Best Paper Award</font>
+🏅<font color="red">Best paper award</font>
 
 * **<font color="purple">BotMeter: Charting Botnet Landscapes in Large Networks </font>** [[pdf]({{ site.url }}/paper/wang-icdcs-2016.pdf), [bibtex]({{ site.url }}/references.html#Wang:2016:icdcs)]<br>
 *<font color="black">Ting Wang, Xin Hu, Jiyong Jang, Shouling Ji, Marc Stoecklin, Teryl Taylor</font>* <br>
@@ -365,5 +365,5 @@ Shuang Hao and Ting Wang</br>
 <hr>
 
 <!-- <div class="footnotes"> -->
-&#42; The materials above are copyrighted by the corresponding publishers (e.g. ACM, IEEE, USENIX). You should download them only if you accept and comply with the terms defined by the respective publishers, such as only using the materials for personal or educational purposes.
+&#42; The materials above are copyrighted by the corresponding publishers (e.g., ACM, IEEE, USENIX). You should download them only if you accept and comply with the terms defined by the respective publishers, such as only using the materials for personal or educational purposes.
 <!-- </div> -->
