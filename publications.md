@@ -16,12 +16,6 @@ permalink: /publications/index.html
 
 #### Pre-print
 
-
-
-*  **<font color="purple"> The Story of Evil Twins: Adversarial Inputs versus Backdoored Models </font>**<br>
-*<font color="black">Ren Pang, Xinyang Zhang, Shouling Ji, Yevgeniy Vorobeychik, Xiapu Luo, and Ting Wang</font>* <br>
-*<font color="blue"> <a href="https://arxiv.org/abs/1911.01559">ArXiv e-prints, 2019</a> </font>*
-
 *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, and Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/1808.00123">ArXiv e-prints, 2018</a> </font>*
@@ -35,6 +29,15 @@ permalink: /publications/index.html
 
 
 #### Security
+
+*  **<font color="purple"> A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models </font>** [[pdf]()]  <br>
+*<font color="black">Ren Pang, Shen Hua, Xinyang Zhang, Shouling Ji, Yevgeniy Vorobeychik, Xiapu Luo, Alex Liu, Ting Wang</font>* <br>
+*<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS '20) *conditionally accepted*</font>*
+
+*  **<font color="purple">  Text Captcha Is Dead? A Large Scale Deployment and Empirical Study </font>** [[pdf]()]  <br>
+*<font color="black">Chenghui Shi, Shouling Ji, Qianjun Liu, Changchang Liu, Yuefeng Chen, Yuan He, Zhe Liu, Raheem Beyah,
+Ting Wang</font>* <br>
+*<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS '20) *conditionally accepted*</font>*
 
 *  **<font color="purple"> TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation </font>** [[pdf]()]  <br>
 *<font color="black">Jinfeng Li, Tianyu Du, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, Ting Wang</font>* <br>
