@@ -32,12 +32,12 @@ permalink: /publications/index.html
 
 *  **<font color="purple"> A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models </font>** [[pdf]()]  <br>
 *<font color="black">Ren Pang, Hua Shen, Xinyang Zhang, Shouling Ji, Yevgeniy Vorobeychik, Xiapu Luo, Alex Liu, Ting Wang</font>* <br>
-*<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS'20) *conditionally accepted*</font>*
+*<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS'20)</font>*
 
 *  **<font color="purple">  Text Captcha Is Dead? A Large Scale Deployment and Empirical Study </font>** [[pdf]()]  <br>
 *<font color="black">Chenghui Shi, Shouling Ji, Qianjun Liu, Changchang Liu, Yuefeng Chen, Yuan He, Zhe Liu, Raheem Beyah,
 Ting Wang</font>* <br>
-*<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS'20) *conditionally accepted*</font>*
+*<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS'20)</font>*
 
 *  **<font color="purple"> TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation </font>** [[pdf]({{ site.url }}/paper/Li-usenix-2020.pdf)]  <br>
 *<font color="black">Jinfeng Li, Tianyu Du, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, Ting Wang</font>* <br>
