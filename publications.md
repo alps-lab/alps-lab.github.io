@@ -31,11 +31,11 @@ permalink: /publications/index.html
 #### Security
 
 *  **<font color="purple"> AdvMind: Inferring Adversary Intent of Black-Box Attacks </font>** [[pdf]()]  <br>
-*<font color="black">Ren Pang, Xinyang Zhang, Shouling Ji, Xiapu Luo, Alex Liu, Ting Wang</font>* <br>
+*<font color="black">Ren Pang, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 26th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'20)</font>*
 
 
-*  **<font color="purple"> A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models </font>** [[pdf]()]  <br>
+*  **<font color="purple"> A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models </font>** [[pdf](https://arxiv.org/pdf/1911.01559.pdf)]  <br>
 *<font color="black">Ren Pang, Hua Shen, Xinyang Zhang, Shouling Ji, Yevgeniy Vorobeychik, Xiapu Luo, Alex Liu, Ting Wang</font>* <br>
 *<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS'20)</font>*
 
