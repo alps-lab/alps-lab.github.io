@@ -16,6 +16,10 @@ permalink: /publications/index.html
 
 #### Pre-print
 
+*  **<font color="purple"> Graph Backdoor </font>**<br>
+*<font color="black">Zhaohan Xi, Ren Pang, Shouling Ji, Ting Wang</font>* <br>
+*<font color="blue"> <a href="https://arxiv.org/pdf/2006.11890.pdf">ArXiv e-prints, 2020</a> </font>*
+
 *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/1808.00123">ArXiv e-prints, 2018</a> </font>*
@@ -30,7 +34,7 @@ permalink: /publications/index.html
 
 #### Security
 
-*  **<font color="purple"> AdvMind: Inferring Adversary Intent of Black-Box Attacks </font>** [[pdf]()]  <br>
+*  **<font color="purple"> AdvMind: Inferring Adversary Intent of Black-Box Attacks </font>** [[pdf](https://arxiv.org/pdf/2006.09539.pdf)]  <br>
 *<font color="black">Ren Pang, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 26th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'20)</font>*
 
