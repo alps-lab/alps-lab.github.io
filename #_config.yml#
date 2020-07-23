@@ -1,0 +1,90 @@
+# main text of home
+name: 'Ting WANG'
+bio: 'Assistant Professor <br> @Penn State'
+
+# twitter summary info
+description: Homepage of Ting Wang
+
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile.jpg
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://google.com/?q=my+resume
+
+url: http://alps-lab.github.io
+
+permalink: /:title/
+
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
+
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+# if you don't want comments in your posts, leave categories y
+disqus:
+  shortname: mydisqus # enter this from your disqus account
+  categories: [] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+# facebook: myfacebook
+twitter: haec_ting
+linkedin: ting-wang-a0a0aa119
+github: alps-lab
+email: inbox.ting@gmail.com
+
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: large
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+projects: true
+
+about: true
+
+teaching: true
+
+publications: true
+
+opening: true
+
+alps: true
+
+
+# do you want to show the "read time" of the posts?
+# read-time: true
+
+# do you want to show the "tags" inside the posts?
+# show-tags: true
+
+# related posts inside a post?
+# related: true
+
+# Display links for next and previous posts for the specified categories
+# post-advance-links: [blog]
+
+# show author block at the end of a post ?
+# show-author: false
+
+# do you want some animations?
+animation: true
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+jekyll-mentions:
+    base_url: https://github.com
