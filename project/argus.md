@@ -1,22 +1,21 @@
 ---
-title: Project-Riddle
+title: Project-Argus
 layout: page
-permalink: /project/riddle/index.html
+permalink: /project/argus/index.html
 ---
 
 
-## Usable Interpretability
+## Trustworthy Machine Learning from Untrusted Models
 
 <hr>
 
 ### Overview
 
 
-<div align="center"><img src="/assets/images/riddle.pdf" alt="riddle" height="50%" width="50%" align="middle"/></div>
+<div align="center"><img src="/assets/images/argus.pdf" alt="argus" height="75%" width="75%" align="middle"/></div>
 
 
-The state-of-the-art performance of deep neural networks (DNNs) is often achieved at the cost of their interpretability. This is a major drawback for domains where the interpretability of decisions is a critical prerequisite. While a plethora of interpretation models have been proposed to help users understand the inner workings of DNNs, their interpretability is far from being practically useful. The goal of this project is to fundamentally improve the usability of interpretable deep learning system (IDLS) along (i) reliability - the interpretation should be robust against adversarial manipulations, (ii) interactivity - the interpretation should account for the perception, understanding, and response of end users, and (iii) operability - the interpretation should serve as the lens for end users to effectively understand and control DNN behaviors. 
-
+Many of today's machine learning (ML) systems are not built from scratch, but are "composed" by an array of pre-trained, third-party models. This paradigm shift significantly simplifies the development cycles of ML systems and propels the trend of ML democratization. However, the lack of standardization or regulation for third-party models entails profound security implications. The goal of this project is two-fold: (i) understanding the security vulnerabilities incurred by reusing third-party models as building blocks of ML systems and (ii) developing rigorous yet practical tools to help developers proactively mitigate such threats throughout the lifecycles of ML systems. 
 
 <hr>
 
@@ -38,18 +37,18 @@ Ting Wang</font>* <br>
 
 *  **<font color="purple"> TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation </font>** [[pdf]({{ site.url }}/paper/Li-usenix-2020.pdf)]  <br>
 *<font color="black">Jinfeng Li, Tianyu Du, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, Ting Wang</font>* <br>
-*<font color="blue">The 29th USENIX Security Symposium (SEC'20)</font>*
+*<font color="blue">The 29th USENIX Security Symposium (SECURITY'20)</font>*
 
 *  **<font color="purple"> Interpretable Deep Learning under Fire </font>** [[pdf](https://arxiv.org/abs/1812.00891)]  <br>
 *<font color="black">Xinyang Zhang, Ningfei Wang,  Hua Shen, Shouling Ji, Xiapu Luo, Ting
   Wang</font>* <br>
-*<font color="blue">The 29th USENIX Security Symposium (SEC'20)</font>*
+*<font color="blue">The 29th USENIX Security Symposium (SECURITY'20)</font>*
  
 <hr>
 
 ### Code & Datasets
 
-* i-Algebra Interactive Interpretation [[code](https://anonymous.4open.science/r/1684d602-17bd-432e-b59d-80bfd1dca5f7/)]
+* Input-Model Co-Optimization (IMC) Attack [[code](https://github.com/alps-lab/imc)]
 
 <hr>
 

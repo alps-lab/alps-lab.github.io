@@ -42,7 +42,7 @@ permalink: /publications/index.html
 *  **<font color="purple"> A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models </font>** [[pdf](https://arxiv.org/pdf/1911.01559.pdf)]  <br>
 *<font color="black">Ren Pang, Hua Shen, Xinyang Zhang, Shouling Ji, Yevgeniy Vorobeychik, Xiapu Luo, Alex Liu, Ting Wang</font>* <br>
 *<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS'20)</font>*
-s
+
 *  **<font color="purple">  Text Captcha Is Dead? A Large Scale Deployment and Empirical Study </font>** [[pdf]({{ site.url }}/paper/Shi-ccs-2020.pdf)]  <br>
 *<font color="black">Chenghui Shi, Shouling Ji, Qianjun Liu, Changchang Liu, Yuefeng Chen, Yuan He, Zhe Liu, Raheem Beyah,
 Ting Wang</font>* <br>
@@ -50,12 +50,12 @@ Ting Wang</font>* <br>
 
 *  **<font color="purple"> TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation </font>** [[pdf]({{ site.url }}/paper/Li-usenix-2020.pdf)]  <br>
 *<font color="black">Jinfeng Li, Tianyu Du, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, Ting Wang</font>* <br>
-*<font color="blue">The 29th USENIX Security Symposium (SEC'20)</font>*
+*<font color="blue">The 29th USENIX Security Symposium (SECURITY'20)</font>*
 
 *  **<font color="purple"> Interpretable Deep Learning under Fire </font>** [[pdf](https://arxiv.org/abs/1812.00891)]  <br>
 *<font color="black">Xinyang Zhang, Ningfei Wang,  Hua Shen, Shouling Ji, Xiapu Luo, Ting
   Wang</font>* <br>
-*<font color="blue">The 29th USENIX Security Symposium (SEC'20)</font>*
+*<font color="blue">The 29th USENIX Security Symposium (SECURITY'20)</font>*
 
 *  **<font color="purple"> SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems </font>** [[pdf](https://arxiv.org/abs/1901.07846)]  <br>
 *<font color="black">Tianyu Du, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang, Raheem Beyah</font>* <br>
@@ -78,7 +78,7 @@ Ting Wang</font>* <br>
 
 *  **<font color="purple">DeepSec: A Uniform Platform for Security Analysis of Deep Learning Models</font>** [[pdf]({{ site.url }}/paper/Ling-sp-2019.pdf)]<br>
 *<font color="black">Xiang Ling, Shouling Ji, Jiaxu Zou, Jiannan Wang, Chunming Wu, Bo Li, Ting Wang</font>* <br>
-*<font color="blue">The 40th IEEE Symposium on Security and Privacy (S&P'19)</font>*
+*<font color="blue">The 40th IEEE Symposium on Security and Privacy (Oakland'19)</font>*
 
 *  **<font color="purple">CATS: Cross-Platform E-commerce Fraud Detection</font>** <br>
 *<font color="black">Haiqin Weng, Shouling Ji, Fuzheng Duan, Zhao Li, Jianhai Chen, Qinming He, Ting Wang</font>* <br>
