@@ -38,6 +38,13 @@ permalink: /publications/index.html
 *<font color="black">Ren Pang, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 26th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'20)</font>*
 
+*  **<font color="purple"> UI Obfuscation and Its Effects on Automated UI Analysis for Android Apps </font>** [[pdf]()]  <br>
+*<font color="black">Hao Zhou, Ting Chen, Haoyu Wang, Le Yu, Xiapu Luo, Ting Wang, Wei Zhang</font>* <br>
+*<font color="blue">The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE'20)</font>*
+
+*  **<font color="purple"> Demystifying Diehard Android Apps </font>** [[pdf]()]  <br>
+*<font color="black">Hao Zhou, Haoyu Wang, Yajin Zhou, Xiapu Luo, Yutian Tang, Lei Xue, Ting Wang</font>* <br>
+*<font color="blue">The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE'20)</font>*
 
 *  **<font color="purple"> A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models </font>** [[pdf](https://arxiv.org/pdf/1911.01559.pdf)]  <br>
 *<font color="black">Ren Pang, Hua Shen, Xinyang Zhang, Shouling Ji, Yevgeniy Vorobeychik, Xiapu Luo, Alex Liu, Ting Wang</font>* <br>

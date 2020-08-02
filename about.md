@@ -28,6 +28,12 @@ I direct the <b> [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}
 ### Recent News
 
 <ul>
+<li><label class="paper_label_style">Paper</label> Paper on UI Obfuscation accepted by ASE '20. </li>
+<li><label class="paper_label_style">Paper</label> Paper on Diehard Android Apps accepted by ASE '20. </li>
+<li><label class="paper_label_style">Paper</label> Paper on <a href="https://arxiv.org/pdf/2006.09539.pdf">Adversary's Intent Inference </a> accepted by KDD '20. </li>
+<li><label class="paper_label_style">Paper</label> Paper on <a href="https://arxiv.org/pdf/1911.01559.pdf">Interactions between Adversarial Input and Trojaned Model</a> accepted by CCS '20. </li>
+<li><label class="paper_label_style">Paper</label> Paper on <a href="{{ site.url }}/paper/Shi-ccs-2020.pdf">Text Captcha Deployment and Evaluation </a> accepted by CCS '20. </li>
+<li><label class="success_label_style">Award</label> Ting recognized with Teaching Excellence Award. Thank you, IST@Penn State!</li>
 <li><label class="paper_label_style">Paper</label> Paper on <a href="{{ site.url }}/paper/Li-usenix-2020.pdf">Robust Text Classification</a> accepted by USENIX '20. </li>
  <li><label class="fund_label_style">Grant</label> NSF Award for <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1910546">Usable Interpretability</a>. Thank you, NSF! </li>
 <li><label class="paper_label_style">Paper</label> Paper on <a href="https://arxiv.org/abs/1812.00891">Security of Interpretable Deep Learning</a> accepted by USENIX '20. </li>
