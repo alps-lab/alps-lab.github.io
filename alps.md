@@ -29,18 +29,25 @@ We follow the methodology of "*from practice, to theory and back to practice*". 
 
 I am fortunate to work and have worked with a group of wonderful students:
 
-* [Xinyang Zhang](https://ist.psu.edu/directory/xqz5366)
-* [Hua Shen](https://ist.psu.edu/directory/hqs5468)
+* [Xinyang Zhang](https://ist.psu.edu/directory/xqz5366) 
 * [Ren Pang](https://ist.psu.edu/directory/rbp5354)
 * [Zhaohan Xi](https://ist.psu.edu/directory/zxx5113)
+* [Zheng Zhang](https://secantzhang.github.io)
+* Changjiang Li (incoming)
+* Zheng Fu (incoming)
+
+
+
 
 #### Alumni
 
-* [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793)
+* [Hua Shen](https://ist.psu.edu/directory/hqs5468) (Ph.D.) Now Ph.D. student at Penn State
+* [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) (Ph.D.) Now Software Engineer at Amazon
 * [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) (M.Sc.) Now Ph.D. student at UC Irvine
 * [Chanh "Sam" Nguyen](https://www.linkedin.com/in/chanhnp) (M.Sc.) Now Technical Staff Member at Lawrence Livermore National Lab
-* [Georgi Georgiev](https://www.researchgate.net/profile/Georgi_Georgiev65) (M.Sc.) Now Ph.D. student at Stony Brook University
-* [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (Undergrad) Now M.Sc. student at Carnegie Mellon University
+* [Georgi Georgiev](https://www.researchgate.net/profile/Georgi_Georgiev65) (M.Sc.) Now Ph.D. student at Stony Brook
+* [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (Undergrad) Now M.Sc. student at CMU
+
 <hr>
 
 ### Projects
