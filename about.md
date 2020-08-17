@@ -28,6 +28,7 @@ I direct the <b> [Algorithmic Learning, Privacy and Security]({{ site.baseurl }}
 ### Recent News
 
 <ul>
+<li><label class="paper_label_style">Paper</label> Paper on Unified Fuzzing Evaluation accepted by SECURITY '21. </li>
 <li><label class="paper_label_style">Paper</label> Paper on UI Obfuscation accepted by ASE '20. </li>
 <li><label class="paper_label_style">Paper</label> Paper on Diehard Android Apps accepted by ASE '20. </li>
 <li><label class="fund_label_style">Grant</label> DARPA grant for <a href="https://ist.psu.edu/research/projects/HORUS">Threat Responses under Stress</a>. </li>
