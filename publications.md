@@ -16,39 +16,41 @@ permalink: /publications/index.html
 
 #### Pre-print
 
-*  **<font color="purple"> Graph Backdoor </font>**<br>
-*<font color="black">Zhaohan Xi, Ren Pang, Shouling Ji, Ting Wang</font>* <br>
-*<font color="blue"> <a href="https://arxiv.org/pdf/2006.11890.pdf">ArXiv e-prints, 2020</a> </font>*
 
-*  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
+*  **<font color="purple">TrojanZoo: Everything you ever wanted to know about neural backdoors (but were afraid to ask)</font>**
+[[pdf](https://arxiv.org/pdf/2012.09302.pdf), [code](https://github.com/alps-lab/Trojan-Zoo)] <br>
+*<font color="black">Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, Ting Wang</font>* <br>
+*<font color="blue">ArXiv e-prints, 2020</font>*
+
+<!-- *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
-*<font color="blue"> <a href="https://arxiv.org/abs/1808.00123">ArXiv e-prints, 2018</a> </font>*
+*<font color="blue"> <a href="https://arxiv.org/abs/1808.00123">ArXiv e-prints, 2018</a> </font>* -->
 
 *  **<font color="purple">Differentially Private Releasing via Deep Generative Models</font>**
-[[code](https://github.com/alps-lab/dpgan)] <br>
+[[pdf](https://arxiv.org/abs/1801.01594), [code](https://github.com/alps-lab/dpgan)] <br>
 *<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>* <br>
-*<font color="blue"> <a href="https://arxiv.org/abs/1801.01594">ArXiv e-prints, 2018</a> </font>*
+*<font color="blue">ArXiv e-prints, 2018</font>*
 
 <hr>
 
 
 #### Security
 
-*  **<font color="purple"> UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers </font>** [[pdf]()]  <br>
+*  **<font color="purple"> Graph Backdoor </font>** [[pdf](https://arxiv.org/pdf/2006.11890.pdf)]<br>
+*<font color="black">Zhaohan Xi, Ren Pang, Shouling Ji, Ting Wang</font>* <br>
+*<font color="blue">The 30th USENIX Security Symposium (SECURITY'21)</font>*
+
+*  **<font color="purple"> Adversarial Attacks on Lane Detection in Autonomous Driving </font>** [[pdf]()]<br>
+*<font color="black"> Pengfei Jing, Qiyi Tang, Yuefeng Du, Lei Xue, Xiapu Luo, Ting Wang, Sen Nie, Shi Wu</font>* <br>
+*<font color="blue">The 30th USENIX Security Symposium (SECURITY'21)</font>*
+
+*  **<font color="purple"> UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers </font>** [[pdf](https://arxiv.org/pdf/2010.01785.pdf)]  <br>
 *<font color="black">Yuwei Li, Shouling Ji, Yuan Chen, Sizhuang Liang, Wei-Han Lee, Yueyao Chen, Chenyang Lyu, Chunming Wu, Raheem Beyah, Peng Cheng, Kangjie Lu, Ting Wang</font>* <br>
 *<font color="blue">The 30th USENIX Security Symposium (SECURITY'21)</font>*
 
 *  **<font color="purple"> AdvMind: Inferring Adversary Intent of Black-Box Attacks </font>** [[pdf](https://arxiv.org/pdf/2006.09539.pdf)]  <br>
 *<font color="black">Ren Pang, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 26th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'20)</font>*
-
-*  **<font color="purple"> UI Obfuscation and Its Effects on Automated UI Analysis for Android Apps </font>** [[pdf]()]  <br>
-*<font color="black">Hao Zhou, Ting Chen, Haoyu Wang, Le Yu, Xiapu Luo, Ting Wang, Wei Zhang</font>* <br>
-*<font color="blue">The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE'20)</font>*
-
-*  **<font color="purple"> Demystifying Diehard Android Apps </font>** [[pdf]()]  <br>
-*<font color="black">Hao Zhou, Haoyu Wang, Yajin Zhou, Xiapu Luo, Yutian Tang, Lei Xue, Ting Wang</font>* <br>
-*<font color="blue">The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE'20)</font>*
 
 *  **<font color="purple"> A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models </font>** [[pdf](https://arxiv.org/pdf/1911.01559.pdf)]  <br>
 *<font color="black">Ren Pang, Hua Shen, Xinyang Zhang, Shouling Ji, Yevgeniy Vorobeychik, Xiapu Luo, Alex Liu, Ting Wang</font>* <br>
@@ -73,14 +75,7 @@ Ting Wang</font>* <br>
 *<font color="blue">The 15th ACM ASIA Conference on Computer and Communications Security (ASIACCS'20)</font>*
 
 *  **<font color="purple">TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens</font>** [[pdf]({{ site.url }}/paper/chen-ccs19.pdf)]<br>
-*<font color="black">Ting Chen,
-              Yufei Zhang,
-              Zihao Li,
-              Xiapu Luo,
-              Ting Wang,
-              Rong Cao,
-              Xiuzhuo Xiao,
-              Xiaosong Zhang </font>* <br>
+*<font color="black">Ting Chen, Yufei Zhang, Zihao Li, Xiapu Luo, Ting Wang, Rong Cao, Xiuzhuo Xiao, Xiaosong Zhang </font>* <br>
 *<font color="blue">The 26th ACM Conference on Computer and Communications Security (CCS'19)</font>*
 
 *  **<font color="purple">TextBugger: Generating Adversarial Text Against Real-world Applications</font>** [[pdf]({{ site.url }}/paper/Li-ndss-2019.pdf)]<br>
@@ -268,11 +263,15 @@ Ting Wang</font>* <br>
 
 #### Data Science
 
-*   **<font color="purple">Fast-RCM: Fast Tree based Unsupersived Rare Class Mining</font>** [[pdf](), [bibtex]()]<br>
+* **<font color="purple">i-Algebra: Towards Interactive Interpretability of Deep Neural Networks</font>** [[pdf]()]<br>
+*<font color="black">Xinyang Zhang, Ren Pang, Shouling Ji, Fenglong Ma, Ting Wang</font>* <br>
+*<font color="blue">The 35th AAAI Conference on Artificial Intelligence (AAAI'21)</font>*
+
+* **<font color="purple">Fast-RCM: Fast Tree based Unsupersived Rare Class Mining</font>** [[pdf](https://ieeexplore.ieee.org/document/8764592)]<br>
 *<font color="black">Haiqin Weng, Shouling Ji, Changchang Liu, Ting Wang, Qinming He</font>* <br>
 *<font color="blue">IEEE Transactions on Cybernetics (CYB)</font>*, 2019
 
-*  **<font color="purple">DeepClean: Data Cleaning via Question Asking</font>** [[code](https://github.com/alps-lab/deepclean)]<br>
+* **<font color="purple">DeepClean: Data Cleaning via Question Asking</font>** [[code](https://github.com/alps-lab/deepclean)]<br>
 *<font color="black">Xinyang Zhang, Yujie Ji, Chanh Nguyen, Ting Wang</font>* <br>
 *<font color="blue">The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA'18) </font>*
 
@@ -336,15 +335,22 @@ Ting Wang</font>* <br>
 <!-- An early [<font color="blue">version</font>]({{ site.url }}/paper/tang-icde-2014.pdf) appears as system demo in ICDE '14 (bibtex) -->
 
 
+*  **<font color="purple"> UI Obfuscation and Its Effects on Automated UI Analysis for Android Apps </font>** [[pdf](https://ieeexplore.ieee.org/document/9286129)]  <br>
+*<font color="black">Hao Zhou, Ting Chen, Haoyu Wang, Le Yu, Xiapu Luo, Ting Wang, Wei Zhang</font>* <br>
+*<font color="blue">The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE'20)</font>*
+
+*  **<font color="purple"> Demystifying Diehard Android Apps </font>** [[pdf](https://ieeexplore.ieee.org/document/9286061)]  <br>
+*<font color="black">Hao Zhou, Haoyu Wang, Yajin Zhou, Xiapu Luo, Yutian Tang, Lei Xue, Ting Wang</font>* <br>
+*<font color="blue">The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE'20)</font>*
 
 
-* **<font color="purple">A Large-Scale Empirical Study on Control Flow Identification of Smart Contracts</font>** [[pdf](), [bibtex]()]<br>
+* **<font color="purple">A Large-Scale Empirical Study on Control Flow Identification of Smart Contracts</font>** [[pdf](https://ieeexplore.ieee.org/abstract/document/8870156)]<br>
 *<font color="black">Ting Chen, Zihao Li, Yufei Zhang, Xiapu Luo, Ting Wang, Teng Hu, Xiuzhuo Xiao, Dong Wang, Jin Huang, Xiaosong Zhang</font>* <br>
 *<font color="blue">The 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM'19)</font>* <br>
 🏅<font color="red">Best paper runner-up award</font>
 
 
-* **<font color="purple">On Exploiting Dynamic Execution Patterns for Workload Offloading in Mobile Cloud Applications</font>** [[pdf]({{ site.url }}/paper/gao-icnp-2014.pdf), [bibtex]({{ site.url }}/references.html#Gao:2014:icnp)]<br>
+* **<font color="purple">On Exploiting Dynamic Execution Patterns for Workload Offloading in Mobile Cloud Applications</font>** [[pdf]({{ site.url }}/paper/gao-icnp-2014.pdf)]<br>
 *<font color="black">Wei Gao, Yong Li, Haoyang Lu, Ting Wang, Cong Liu</font>* <br>
 *<font color="blue">The 22nd IEEE International Conference on Network Protocols (ICNP'14)</font>*
 
