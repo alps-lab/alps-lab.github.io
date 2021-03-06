@@ -36,11 +36,16 @@ permalink: /publications/index.html
 
 #### Security
 
+
+*  **<font color="purple"> Trojaning Language Models for Fun and Profit </font>** [[pdf](https://arxiv.org/pdf/2008.00312.pdf)]<br>
+*<font color="black">Xinyang Zhang, Zheng Zhang, Shouling Ji, Ting Wang</font>* <br>
+*<font color="blue">The 6th IEEE European Symposium on Security and Privacy (EuroS&P'21)</font>*
+
 *  **<font color="purple"> Graph Backdoor </font>** [[pdf](https://arxiv.org/pdf/2006.11890.pdf)]<br>
 *<font color="black">Zhaohan Xi, Ren Pang, Shouling Ji, Ting Wang</font>* <br>
 *<font color="blue">The 30th USENIX Security Symposium (SECURITY'21)</font>*
 
-*  **<font color="purple"> Adversarial Attacks on Lane Detection in Autonomous Driving </font>** [[pdf]()]<br>
+*  **<font color="purple"> Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations </font>** [[pdf]()]<br>
 *<font color="black"> Pengfei Jing, Qiyi Tang, Yuefeng Du, Lei Xue, Xiapu Luo, Ting Wang, Sen Nie, Shi Wu</font>* <br>
 *<font color="blue">The 30th USENIX Security Symposium (SECURITY'21)</font>*
 
@@ -263,7 +268,7 @@ Ting Wang</font>* <br>
 
 #### Data Science
 
-* **<font color="purple">i-Algebra: Towards Interactive Interpretability of Deep Neural Networks</font>** [[pdf]()]<br>
+* **<font color="purple">i-Algebra: Towards Interactive Interpretability of Deep Neural Networks</font>** [[pdf](https://arxiv.org/pdf/2101.09301.pdf)]<br>
 *<font color="black">Xinyang Zhang, Ren Pang, Shouling Ji, Fenglong Ma, Ting Wang</font>* <br>
 *<font color="blue">The 35th AAAI Conference on Artificial Intelligence (AAAI'21)</font>*
 
