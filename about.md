@@ -28,7 +28,7 @@ I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/al
 ### Recent News
 
 <ul>
-<li><label class="paper_label_style">Paper</label> Paper on <a href="https://arxiv.org/pdf/2008.00312.pdf">Backdoor Attacks on Language Models</a> accepted by Euro S&P'21. </li>
+<li><label class="paper_label_style">Paper</label> Paper on <a href="https://arxiv.org/pdf/2008.00312.pdf">Language Model Backdoor</a> accepted by Euro S&P'21. </li>
 <li><label class="paper_label_style">Paper</label> Papers on (i) <a href="https://arxiv.org/pdf/2006.11890.pdf">Graph Backdoor</a>, (ii) <a href="https://arxiv.org/pdf/2010.01785.pdf">Fuzzing Evaluation</a>, and (iii) <a href="">Attacks on Lane Detection</a> accepted by USENIX'21. </li>
 <li><label class="paper_label_style">Paper</label> Paper on <a href="https://arxiv.org/pdf/2101.09301.pdf">Interactive Interpretability</a> accepted by AAAI '21. </li>
 <!-- <li><label class="paper_label_style">Paper</label> Papers on UI Obfuscation and Diehard Android Apps accepted by ASE '20. </li> -->
