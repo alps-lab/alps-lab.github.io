@@ -11,13 +11,13 @@ permalink: /alps/index.html
 
 ### Overview
 
-We are a group of multidisciplinary researchers conducting cutting-edge research on the intersection of machine learning, computational privacy, and cyber-security.
+We are a team of interdisciplinary researchers conducting cutting-edge research on the intersection of machine learning, computational privacy, and cyber-security.
 
-Thanks to the availability of large-scale data sets ("Big Data"), data-driven algorithmic systems (e.g., recommender systems, automated driving vehicles, and personalized healthcare) are playing increasingly important roles in our everyday lives. Our mission is to fully unleash the potential of such systems to support ground-breaking discoveries and critical decision-making. To this end, our research comprises two complementary aspects:
-* developing effective, scalable analytical tools to empower such systems
-* mitigating their negative impact on individuals and society as a whole, including privacy, security, and accountability issues.
+Today, thanks to the availability of large-scale, information-rich data sets, data-driven algorithmic systems (e.g., personalized recommendation, autonomous driving, and precision medicine) are playing increasingly vital roles in our everyday lives. Our mission is to fully unleash the potential of such advances via:
+* developing effective, scalable analytical tools to support ground-breaking discoveries and critical decision-making
+* mitigating negative impacts on individuals and society as a whole, including privacy, security, and accountability issues.
 
-We follow the methodology of "*from practice, to theory and back to practice*". We look to the real world for practical and important problems; then, we design solutions with provable properties and solid theoretical backing; finally, we build and deploy real systems based on these solutions. Our approach is multidisciplinary by nature, using "tools" from  systems, algorithms, machine learning, cryptography, and economics.
+We follow the methodology of "*from practice, to theory and back to practice*". We look to the real world for practical and important problems; then, we design solutions with provable properties and solid theoretical backing; finally, we build and deploy real systems based on these solutions. Our approach is multidisciplinary by nature, using "tools" from systems, algorithms, machine learning, cryptography, and economics.
 
 
 <!-- My research focuses on modeling and mining of these dynamic, heterogeneous, and interdependent information sources. Towards this, my efforts involve developing new concepts and principles, designing intelligent algorithms, and building scalable systems. -->
