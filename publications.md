@@ -144,7 +144,7 @@ Ting Wang</font>* <br>
 
 <hr>
 
-#### Before 2019
+#### 2018 and Earlier
 
 *  **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>** [[pdf]({{ site.url }}/paper/Ji-ccs-2018.pdf)] <br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>

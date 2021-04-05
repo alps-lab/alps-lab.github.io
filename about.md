@@ -28,6 +28,7 @@ I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/al
 ### Recent News
 
 <ul>
+<li><label class="success_label_style">Award</label> Ting recognized with <a href="https://news.psu.edu/story/653278/2021/04/01/academics/information-sciences-and-technology-faculty-staff-recognized?utm_source=newswire&utm_medium=email&utm_term=653377_HTML&utm_content=04-01-2021-10-36&utm_campaign=IST%20newswire">Research Excellence Award</a>. Thank you, Penn State!</li>
 <li><label class="paper_label_style">Paper</label> Paper on <a href="">RNN Certification</a> accepted by CCS'21. </li>
 <li><label class="paper_label_style">Paper</label> Paper on <a href="https://arxiv.org/pdf/2008.00312.pdf">Language Model Backdoor</a> accepted by Euro S&P'21. </li>
 <li><label class="paper_label_style">Paper</label> Papers on (i) <a href="https://arxiv.org/pdf/2006.11890.pdf">Graph Backdoor</a>, (ii) <a href="https://arxiv.org/pdf/2010.01785.pdf">Fuzzing Evaluation</a>, and (iii) <a href="">Attacks on Lane Detection</a> accepted by USENIX'21. </li>
