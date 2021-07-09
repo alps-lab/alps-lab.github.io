@@ -61,6 +61,11 @@ permalink: /publications/index.html
 *<font color="black">Xinyang Zhang, Ren Pang, Shouling Ji, Fenglong Ma, Ting Wang</font>* <br>
 *<font color="blue">The 35th AAAI Conference on Artificial Intelligence (AAAI'21)</font>*
 
+* **<font color="purple"> Finding the Missing Piece: Permission Specification Analysis for Android NDK</font>** [[pdf]()]<br>
+*<font color="black">Hao Zhou, Haoyu Wang, Shuohan Wu, Xiapu Luo, Yajin Zhou, Ting Chen, Ting Wang</font>* <br>
+*<font color="blue">The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE'21)</font>*
+
+
 * **<font color="purple">Adversarial CAPTCHAs</font>** [[pdf]()]<br>
 *<font color="black">Chenghui Shi, Xiaogang Xu, Shouling Ji, Kai Bu, Jianhai Chen, Raheem Beyah, Ting Wang</font>* <br>
 *<font color="blue">IEEE Transactions on Cybernetics (CYB, 2021)</font>*
