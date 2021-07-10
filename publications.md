@@ -68,11 +68,11 @@ permalink: /publications/index.html
 
 * **<font color="purple">Adversarial CAPTCHAs</font>** [[pdf]()]<br>
 *<font color="black">Chenghui Shi, Xiaogang Xu, Shouling Ji, Kai Bu, Jianhai Chen, Raheem Beyah, Ting Wang</font>* <br>
-*<font color="blue">IEEE Transactions on Cybernetics (CYB, 2021)</font>*
+*<font color="blue">IEEE Transactions on Cybernetics (CYB)</font>*
 
 * **<font color="purple">SigRec: Automatic Recovery of Function Signatures in Smart Contracts</font>** [[pdf]()]<br>
 *<font color="black">Ting Chen, Zihao Li, Xiapu Luo, XiaoFeng Wang, Ting Wang, Zheyuan He, Kezhao Fang, Yufei Zhang, Hang Zhu, Hongwei Li, Yan Cheng, Xiaosong Zhang</font>* <br>
-*<font color="blue">IEEE Transactions on Software Engineering (TSE, 2021)</font>*
+*<font color="blue">IEEE Transactions on Software Engineering (TSE)</font>*
 
 
 
