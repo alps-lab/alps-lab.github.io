@@ -33,6 +33,15 @@ permalink: /publications/index.html
 
 <hr>
 
+#### 2022 
+
+
+*  **<font color="purple"> Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols </font>** [[pdf]()]<br>
+*<font color="black">Le Yu, Yangyang Liu, Pengfei Jing, Xiapu Luo, Lei Xue, Kaifa Zhao, Yajin Zhou, Ting Wang, Guofei Gu, Sen Nie, Shi Wu</font>* <br>
+*<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
+
+<hr>
+
 
 #### 2021 
 
@@ -47,15 +56,15 @@ permalink: /publications/index.html
 
 *  **<font color="purple"> Graph Backdoor </font>** [[pdf](https://arxiv.org/pdf/2006.11890.pdf)]<br>
 *<font color="black">Zhaohan Xi, Ren Pang, Shouling Ji, Ting Wang</font>* <br>
-*<font color="blue">The 30th USENIX Security Symposium (SECURITY'21)</font>*
+*<font color="blue">The 30th USENIX Security Symposium (Security '21)</font>*
 
 *  **<font color="purple"> Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations </font>** [[pdf]()]<br>
 *<font color="black"> Pengfei Jing, Qiyi Tang, Yuefeng Du, Lei Xue, Xiapu Luo, Ting Wang, Sen Nie, Shi Wu</font>* <br>
-*<font color="blue">The 30th USENIX Security Symposium (SECURITY'21)</font>*
+*<font color="blue">The 30th USENIX Security Symposium (Security '21)</font>*
 
 *  **<font color="purple"> UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers </font>** [[pdf](https://arxiv.org/pdf/2010.01785.pdf)]  <br>
 *<font color="black">Yuwei Li, Shouling Ji, Yuan Chen, Sizhuang Liang, Wei-Han Lee, Yueyao Chen, Chenyang Lyu, Chunming Wu, Raheem Beyah, Peng Cheng, Kangjie Lu, Ting Wang</font>* <br>
-*<font color="blue">The 30th USENIX Security Symposium (SECURITY'21)</font>*
+*<font color="blue">The 30th USENIX Security Symposium (Security '21)</font>*
 
 * **<font color="purple">i-Algebra: Towards Interactive Interpretability of Deep Neural Networks</font>** [[pdf](https://arxiv.org/pdf/2101.09301.pdf)]<br>
 *<font color="black">Xinyang Zhang, Ren Pang, Shouling Ji, Fenglong Ma, Ting Wang</font>* <br>
@@ -64,7 +73,6 @@ permalink: /publications/index.html
 * **<font color="purple"> Finding the Missing Piece: Permission Specification Analysis for Android NDK</font>** [[pdf]()]<br>
 *<font color="black">Hao Zhou, Haoyu Wang, Shuohan Wu, Xiapu Luo, Yajin Zhou, Ting Chen, Ting Wang</font>* <br>
 *<font color="blue">The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE'21)</font>*
-
 
 * **<font color="purple">Adversarial CAPTCHAs</font>** [[pdf]()]<br>
 *<font color="black">Chenghui Shi, Xiaogang Xu, Shouling Ji, Kai Bu, Jianhai Chen, Raheem Beyah, Ting Wang</font>* <br>
@@ -96,12 +104,12 @@ Ting Wang</font>* <br>
 
 *  **<font color="purple"> TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation </font>** [[pdf]({{ site.url }}/paper/Li-usenix-2020.pdf)]  <br>
 *<font color="black">Jinfeng Li, Tianyu Du, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, Ting Wang</font>* <br>
-*<font color="blue">The 29th USENIX Security Symposium (SECURITY'20)</font>*
+*<font color="blue">The 29th USENIX Security Symposium (Security '20)</font>*
 
 *  **<font color="purple"> Interpretable Deep Learning under Fire </font>** [[pdf](https://arxiv.org/abs/1812.00891)]  <br>
 *<font color="black">Xinyang Zhang, Ningfei Wang,  Hua Shen, Shouling Ji, Xiapu Luo, Ting
   Wang</font>* <br>
-*<font color="blue">The 29th USENIX Security Symposium (SECURITY'20)</font>*
+*<font color="blue">The 29th USENIX Security Symposium (Security '20)</font>*
 
 *  **<font color="purple"> SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems </font>** [[pdf](https://arxiv.org/abs/1901.07846)]  <br>
 *<font color="black">Tianyu Du, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang, Raheem Beyah</font>* <br>
