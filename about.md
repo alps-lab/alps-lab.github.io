@@ -28,7 +28,7 @@ I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/al
 ### Recent News
 
 <ul>
-<li><label class="paper_label_style">Paper</label> 1 paper on <a href="">Vehicle Diagnostic Protocol</a> accepted by <em>USENIX '22</em>. </li>
+<li><label class="paper_label_style">Paper</label> 2 papers on <a href="">Vehicle Diagnostic Protocol</a> and  <a href="">Label Inference Attacks</a> accepted by <em>USENIX '22</em>. </li>
 <li><label class="success_label_style">Award</label> Ting recognized with <a href="https://news.psu.edu/story/653278/2021/04/01/academics/information-sciences-and-technology-faculty-staff-recognized?utm_source=newswire&utm_medium=email&utm_term=653377_HTML&utm_content=04-01-2021-10-36&utm_campaign=IST%20newswire">Research Excellence Award</a>. Thank you, Penn State!</li>
 <li><label class="info_label_style">Graduation</label> Xinyang -> Baidu Research. Congrats! </li>
 <li><label class="info_label_style">Graduation</label> Zheng -> CS@Northwestern. Congrats! </li>
