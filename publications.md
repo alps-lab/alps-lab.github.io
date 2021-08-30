@@ -31,9 +31,27 @@ permalink: /publications/index.html
 *<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>* <br>
 *<font color="blue">ArXiv e-prints, 2018</font>*
 
+
+
+
+
+
+Pengcheng Fang (Case Western Reserve University) <pxf109@case.edu>
+Peng Gao (Virginia Tech) <penggao@vt.edu>
+Changlin Liu (Case Western Reserve University) <cxl1029@case.edu>
+Erman Ayday (Case Western Reserve University) <exa208@case.edu>
+Kangkook Jee (University of Texas at Dallas) <kangkook.jee@utdallas.edu>
+Ting Wang (Penn State University) <inbox.ting@gmail.com>
+Yanfang (Fanny) Ye (Case Western Reserve University) <yanfang.ye@case.edu>
+Zhuotao Liu (Tsinghua University) <zhuotaoliu@tsinghua.edu.cn>
+Xusheng Xiao (Case Western Reserve University) <xusheng.xiao@case.edu>
+
+
+
+
 <hr>
 
-#### 2022 
+#### 2022
 
 
 *  **<font color="purple"> Label Inference Attacks Against Vertical Federated Learning </font>** [[pdf]()]<br>
@@ -44,10 +62,15 @@ permalink: /publications/index.html
 *<font color="black">Le Yu, Yangyang Liu, Pengfei Jing, Xiapu Luo, Lei Xue, Kaifa Zhao, Yajin Zhou, Ting Wang, Guofei Gu, Sen Nie, Shi Wu</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
+
+*  **<font color="purple"> Back-Propagating System Dependency Impact for Attack Investigation </font>** [[pdf]()]<br>
+*<font color="black">Peng Gao, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang, Yanfang (Fanny) Ye, Zhuotao Liu, Xusheng Xiao</font>* <br>
+*<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
+
 <hr>
 
 
-#### 2021 
+#### 2021
 
 
 *  **<font color="purple">  Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks </font>** [[pdf]()]<br>
@@ -90,7 +113,7 @@ permalink: /publications/index.html
 
 <hr>
 
-#### 2020 
+#### 2020
 
 
 *  **<font color="purple"> AdvMind: Inferring Adversary Intent of Black-Box Attacks </font>** [[pdf](https://arxiv.org/pdf/2006.09539.pdf)]  <br>
@@ -370,7 +393,7 @@ Ting Wang</font>* <br>
 <hr>
 
 
-<!-- 
+<!--
 #### Privacy -->
 
 
@@ -396,7 +419,7 @@ Ting Wang</font>* <br>
 
 
 
-<!-- 
+<!--
 
 <hr>
 
@@ -428,7 +451,7 @@ Shicong Meng, Arun Iyengar, Ling Liu, Ting Wang, Jian Tan, Ignacio Silva-Lepe, a
 <!-- * **<font color="purple">TWStream: Finding Correlated Streams under Time Warping</font>** [pdf, bibtex]<br>
 *<font color="black">Ting Wang</font>* <br>
 *<font color="blue">The 8th Asia Pacific Web Conference (APWeb '06)</font>* -->
-<!-- 
+<!--
 <hr> -->
 
 <!-- #### Potpourri -->
