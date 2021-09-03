@@ -31,24 +31,6 @@ permalink: /publications/index.html
 *<font color="black">Xinyang Zhang, Shouling Ji, Ting Wang</font>* <br>
 *<font color="blue">ArXiv e-prints, 2018</font>*
 
-
-
-
-
-
-Pengcheng Fang (Case Western Reserve University) <pxf109@case.edu>
-Peng Gao (Virginia Tech) <penggao@vt.edu>
-Changlin Liu (Case Western Reserve University) <cxl1029@case.edu>
-Erman Ayday (Case Western Reserve University) <exa208@case.edu>
-Kangkook Jee (University of Texas at Dallas) <kangkook.jee@utdallas.edu>
-Ting Wang (Penn State University) <inbox.ting@gmail.com>
-Yanfang (Fanny) Ye (Case Western Reserve University) <yanfang.ye@case.edu>
-Zhuotao Liu (Tsinghua University) <zhuotaoliu@tsinghua.edu.cn>
-Xusheng Xiao (Case Western Reserve University) <xusheng.xiao@case.edu>
-
-
-
-
 <hr>
 
 #### 2022

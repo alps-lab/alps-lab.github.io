@@ -29,7 +29,7 @@ I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/al
 
 <ul>
 <li><label class="fund_label_style">Grant</label> NSF Award for <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2119331">Computational Screening and Surveillance for Healthcare</a>. Thank you, NSF! </li>
-<li><label class="paper_label_style">Paper</label> Papers on (i)<a href="">Vehicle Diagnostic Protocol</a> , (ii)<a href="">Label Inference Attacks</a>, and (iii) <a href="">Attack Causality Analysis</a> accepted by <em>USENIX '22</em>. </li>
+<li><label class="paper_label_style">Paper</label> Papers on (i) <a href="">Vehicle Diagnostic Protocol</a> , (ii) <a href="">Label Inference Attacks</a>, and (iii) <a href="">Attack Causality Analysis</a> accepted by <em>USENIX '22</em>. </li>
 <li><label class="success_label_style">Award</label> Ting recognized with <a href="https://news.psu.edu/story/653278/2021/04/01/academics/information-sciences-and-technology-faculty-staff-recognized?utm_source=newswire&utm_medium=email&utm_term=653377_HTML&utm_content=04-01-2021-10-36&utm_campaign=IST%20newswire">Research Excellence Award</a>. Thank you, Penn State!</li>
 <li><label class="info_label_style">Graduation</label> Xinyang -> Baidu Research. Congrats! </li>
 <li><label class="info_label_style">Graduation</label> Zheng -> CS@Northwestern. Congrats! </li>
