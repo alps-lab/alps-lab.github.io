@@ -78,30 +78,30 @@ permalink: /publications/index.html
 
 *  **<font color="purple">  Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks </font>** [[pdf]()]<br>
 *<font color="black">Tianyu Du, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Jianwei Yin, Raheem Beyah, Ting Wang</font>* <br>
-*<font color="blue">The 28th ACM Conference on Computer and Communications Security (CCS'21)</font>*
+*<font color="blue">The 28th ACM Conference on Computer and Communications Security (CCS '21)</font>*
 
 
 *  **<font color="purple">  Backdoor Pre-trained Models Can Transfer to All </font>** [[pdf]()]<br>
 *<font color="black">Lujia Shen, Shouling Ji, Xuhong Zhang, Jinfeng Li, Jing Chen, Jie Shi, Chengfang Fang, Jianwei Yin, Ting Wang</font>* <br>
-*<font color="blue">The 28th ACM Conference on Computer and Communications Security (CCS'21)</font>*
+*<font color="blue">The 28th ACM Conference on Computer and Communications Security (CCS '21)</font>*
 
 
 *  **<font color="purple"> Trojaning Language Models for Fun and Profit </font>** [[pdf](https://arxiv.org/pdf/2008.00312.pdf)]<br>
 *<font color="black">Xinyang Zhang, Zheng Zhang, Shouling Ji, Ting Wang</font>* <br>
-*<font color="blue">The 6th IEEE European Symposium on Security and Privacy (EuroS&P'21)</font>*
+*<font color="blue">The 6th IEEE European Symposium on Security and Privacy (EuroS&P '21)</font>*
 
 
 * **<font color="purple">i-Algebra: Towards Interactive Interpretability of Deep Neural Networks</font>** [[pdf](https://arxiv.org/pdf/2101.09301.pdf)]<br>
 *<font color="black">Xinyang Zhang, Ren Pang, Shouling Ji, Fenglong Ma, Ting Wang</font>* <br>
-*<font color="blue">The 35th AAAI Conference on Artificial Intelligence (AAAI'21)</font>*
+*<font color="blue">The 35th AAAI Conference on Artificial Intelligence (AAAI '21)</font>*
 
 * **<font color="purple"> Finding the Missing Piece: Permission Specification Analysis for Android NDK</font>** [[pdf]()]<br>
 *<font color="black">Hao Zhou, Haoyu Wang, Shuohan Wu, Xiapu Luo, Yajin Zhou, Ting Chen, Ting Wang</font>* <br>
-*<font color="blue">The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE'21)</font>*
+*<font color="blue">The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE '21)</font>*
 
 *  **<font color="purple">"Towards Certifying the Asymmetric Robustness for Neural Networks: Quantification and Applications</font>** [[pdf]()]<br>
 *<font color="black">Changjiang Li, Shouling Ji, Haiqin Weng, Bo Li, Jie Shi, Raheem Beyah, Shanqing Guo, Zonghui Wang, Ting Wang</font>* <br>
-*<font color="blue">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>*, 2021
+*<font color="blue">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>*
 
 * **<font color="purple">Adversarial CAPTCHAs</font>** [[pdf]()]<br>
 *<font color="black">Chenghui Shi, Xiaogang Xu, Shouling Ji, Kai Bu, Jianhai Chen, Raheem Beyah, Ting Wang</font>* <br>
@@ -124,12 +124,12 @@ permalink: /publications/index.html
 
 *  **<font color="purple"> A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models </font>** [[pdf](https://arxiv.org/pdf/1911.01559.pdf)]  <br>
 *<font color="black">Ren Pang, Hua Shen, Xinyang Zhang, Shouling Ji, Yevgeniy Vorobeychik, Xiapu Luo, Alex Liu, Ting Wang</font>* <br>
-*<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS'20)</font>*
+*<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS '20)</font>*
 
 *  **<font color="purple">  Text Captcha Is Dead? A Large Scale Deployment and Empirical Study </font>** [[pdf]({{ site.url }}/paper/Shi-ccs-2020.pdf)]  <br>
 *<font color="black">Chenghui Shi, Shouling Ji, Qianjun Liu, Changchang Liu, Yuefeng Chen, Yuan He, Zhe Liu, Raheem Beyah,
 Ting Wang</font>* <br>
-*<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS'20)</font>*
+*<font color="blue">The 27th ACM Conference on Computer and Communications Security (CCS '20)</font>*
 
 *  **<font color="purple"> TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation </font>** [[pdf]({{ site.url }}/paper/Li-usenix-2020.pdf)]  <br>
 *<font color="black">Jinfeng Li, Tianyu Du, Shouling Ji, Rong Zhang, Quan Lu, Min Yang, Ting Wang</font>* <br>
@@ -142,23 +142,23 @@ Ting Wang</font>* <br>
 
 *  **<font color="purple"> SirenAttack: Generating Adversarial Audio for End-to-End Acoustic Systems </font>** [[pdf](https://arxiv.org/abs/1901.07846)]  <br>
 *<font color="black">Tianyu Du, Shouling Ji, Jinfeng Li, Qinchen Gu, Ting Wang, Raheem Beyah</font>* <br>
-*<font color="blue">The 15th ACM ASIA Conference on Computer and Communications Security (ASIACCS'20)</font>*
+*<font color="blue">The 15th ACM ASIA Conference on Computer and Communications Security (ASIACCS '20)</font>*
 
 *  **<font color="purple"> UI Obfuscation and Its Effects on Automated UI Analysis for Android Apps </font>** [[pdf](https://ieeexplore.ieee.org/document/9286129)]  <br>
 *<font color="black">Hao Zhou, Ting Chen, Haoyu Wang, Le Yu, Xiapu Luo, Ting Wang, Wei Zhang</font>* <br>
-*<font color="blue">The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE'20)</font>*
+*<font color="blue">The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE '20)</font>*
 
 *  **<font color="purple"> Demystifying Diehard Android Apps </font>** [[pdf](https://ieeexplore.ieee.org/document/9286061)]  <br>
 *<font color="black">Hao Zhou, Haoyu Wang, Yajin Zhou, Xiapu Luo, Yutian Tang, Lei Xue, Ting Wang</font>* <br>
-*<font color="blue">The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE'20)</font>*
-
-*   **<font color="purple">AsgLDP: Collecting and Generating Decentralized Attributed Graphs with Local Differential Privacy</font>** [[pdf](https://nesa.zju.edu.cn/download/AsgLDP%20Collecting%20and%20Generating%20Decentralized%20Attributed%20Graphs%20with%20Local%20Differential%20Privacy.pdf)]<br>
-*<font color="black">Chengkun Wei, Shouling Ji, Changchang Liu, Wenzhi Chen, Ting Wang</font>* <br>
-*<font color="blue">IEEE Transactions on Information Forensics & Security (TIFS, 2020)</font>*
+*<font color="blue">The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE '20)</font>*
 
 *   **<font color="purple">De-Health: All Your Online Health Information Are Belong to Us</font>** [[pdf]({{ site.url }}/paper/ji-icde-2020.pdf)]<br>
 *<font color="black">Shouling Ji, Qinchen Gu, Haiqin Weng, Qianjun Liu, Pan Zhou, Jing Chen, Zhao Li, Raheem Beyah, Ting Wang</font>* <br>
-*<font color="blue">The 36th IEEE International Conference on Data Engineering (ICDE'20)</font>*
+*<font color="blue">The 36th IEEE International Conference on Data Engineering (ICDE '20)</font>*
+
+*   **<font color="purple">AsgLDP: Collecting and Generating Decentralized Attributed Graphs with Local Differential Privacy</font>** [[pdf](https://nesa.zju.edu.cn/download/AsgLDP%20Collecting%20and%20Generating%20Decentralized%20Attributed%20Graphs%20with%20Local%20Differential%20Privacy.pdf)]<br>
+*<font color="black">Chengkun Wei, Shouling Ji, Changchang Liu, Wenzhi Chen, Ting Wang</font>* <br>
+*<font color="blue">IEEE Transactions on Information Forensics & Security (TIFS)</font>*
 
 <hr>
 
@@ -187,7 +187,7 @@ Ting Wang</font>* <br>
 
 * **<font color="purple">Fast-RCM: Fast Tree based Unsupersived Rare Class Mining</font>** [[pdf](https://ieeexplore.ieee.org/document/8764592)]<br>
 *<font color="black">Haiqin Weng, Shouling Ji, Changchang Liu, Ting Wang, Qinming He</font>* <br>
-*<font color="blue">IEEE Transactions on Cybernetics (CYB, 2019)</font>*
+*<font color="blue">IEEE Transactions on Cybernetics (CYB)</font>*
 
 
 <hr>
