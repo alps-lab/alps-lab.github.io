@@ -56,6 +56,7 @@ permalink: /publications/index.html
 *<font color="black">Jianfeng Li, Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, Xian Zhan, Xiaobo Ma</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
+
 <hr>
 
 
@@ -97,6 +98,10 @@ permalink: /publications/index.html
 * **<font color="purple"> Finding the Missing Piece: Permission Specification Analysis for Android NDK</font>** [[pdf]()]<br>
 *<font color="black">Hao Zhou, Haoyu Wang, Shuohan Wu, Xiapu Luo, Yajin Zhou, Ting Chen, Ting Wang</font>* <br>
 *<font color="blue">The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE'21)</font>*
+
+*  **<font color="purple">"Towards Certifying the Asymmetric Robustness for Neural Networks: Quantification and Applications</font>** [[pdf]()]<br>
+*<font color="black">Changjiang Li, Shouling Ji, Haiqin Weng, Bo Li, Jie Shi, Raheem Beyah, Shanqing Guo, Zonghui Wang, Ting Wang</font>* <br>
+*<font color="blue">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>*, 2021
 
 * **<font color="purple">Adversarial CAPTCHAs</font>** [[pdf]()]<br>
 *<font color="black">Chenghui Shi, Xiaogang Xu, Shouling Ji, Kai Bu, Jianhai Chen, Raheem Beyah, Ting Wang</font>* <br>
