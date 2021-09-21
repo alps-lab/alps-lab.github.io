@@ -15,10 +15,11 @@ permalink: /about/index.html
 
 ### Howdy!
 
-I am Assistant Professor in the College of Information Sciences and Technology (IST) at Penn State. I conduct research at the intersection of data science and privacy & security. My ongoing work focuses on making AI systems practically usable through providing
+I am Assistant Professor in the College of Information Sciences and Technology (IST) at Penn State. I conduct research at the intersection of machine learning, privacy, and security. My ongoing work focuses on making AI systems practically useful through providing
  * Security Assurance -- resilient against malicious manipulations
  * Privacy Preservation -- respectful for individual privacy
  * Decision-Making Transparency -- interpretable to human perception
+
 I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
 
 <hr>
