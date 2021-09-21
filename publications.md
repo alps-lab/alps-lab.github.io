@@ -35,6 +35,9 @@ permalink: /publications/index.html
 
 #### 2022
 
+*  **<font color="purple"> On the Security Risks of AutoML </font>** [[pdf]()]<br>
+*<font color="black">Ren Pang, Zhaohan Xi, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
+*<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
 *  **<font color="purple"> Label Inference Attacks Against Vertical Federated Learning </font>** [[pdf]()]<br>
 *<font color="black">Chong Fu, Xuhong Zhang, Shouling Ji, Jinyin Chen, Jingzheng Wu, Shanqing Guo, Jun Zhou, Alex X. Liu, Ting Wang</font>* <br>
@@ -47,6 +50,10 @@ permalink: /publications/index.html
 
 *  **<font color="purple"> Back-Propagating System Dependency Impact for Attack Investigation </font>** [[pdf]()]<br>
 *<font color="black">Peng Gao, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang, Yanfang (Fanny) Ye, Zhuotao Liu, Xusheng Xiao</font>* <br>
+*<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
+
+*  **<font color="purple"> FOAP: Fine-Grained Open-World Android App Fingerprinting  </font>** [[pdf]()]<br>
+*<font color="black">Jianfeng Li, Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, Xian Zhan, Xiaobo Ma</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
 <hr>

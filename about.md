@@ -15,12 +15,10 @@ permalink: /about/index.html
 
 ### Howdy!
 
-I am Assistant Professor in the College of Information Sciences and Technology (IST) at Penn State. I conduct research at the intersection of data science and privacy & security. My ongoing work focuses on making AI systems practically usable through improving their
-
- * Security Assurance
- * Privacy Preservation
- * Decision-Making Transparency  
-
+I am Assistant Professor in the College of Information Sciences and Technology (IST) at Penn State. I conduct research at the intersection of data science and privacy & security. My ongoing work focuses on making AI systems practically usable through providing
+ * Security Assurance -- resilient against malicious manipulations
+ * Privacy Preservation -- respectful for individual privacy
+ * Decision-Making Transparency -- interpretable to human perception
 I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
 
 <hr>
@@ -28,8 +26,8 @@ I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/al
 ### Recent News
 
 <ul>
+<li><label class="paper_label_style">Paper</label> Papers on (i) <a href="">AutoML</a>, (ii) <a href="">Vehicle Diagnostic Protocol</a>, (iii) <a href="">Label Inference Attack</a>, (iv) <a href="">Cyber Attack Causality Analysis</a>, and (v) <a href="">Android App Fingerprinting</a> accepted by <em>USENIX '22</em>. </li>
 <li><label class="fund_label_style">Grant</label> NSF Award for <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2119331">Extreme-Scale Edge Learning for Healthcare</a>. Thank you, NSF! </li>
-<li><label class="paper_label_style">Paper</label> Papers on (i) <a href="">Vehicle Diagnostic Protocol</a>, (ii) <a href="">Label Inference Attack</a>, and (iii) <a href="">Cyber Attack Causality Analysis</a> accepted by <em>USENIX '22</em>. </li>
 <li><label class="success_label_style">Award</label> Ting recognized with <a href="https://news.psu.edu/story/653278/2021/04/01/academics/information-sciences-and-technology-faculty-staff-recognized?utm_source=newswire&utm_medium=email&utm_term=653377_HTML&utm_content=04-01-2021-10-36&utm_campaign=IST%20newswire">Research Excellence Award</a>. Thank you, Penn State!</li>
 <li><label class="info_label_style">Graduation</label> Xinyang -> Baidu Research. Congrats! </li>
 <li><label class="info_label_style">Graduation</label> Zheng -> CS@Northwestern. Congrats! </li>
