@@ -13,13 +13,13 @@ permalink: /about/index.html
 
 <hr>
 
-### Howdy!
+### About Me
 
 I am Assistant Professor in the College of Information Sciences and Technology at Penn State. I conduct research at the intersection of machine learning, privacy, and security. I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
 My ongoing work focuses on making AI systems practically useful via providing
- * Security Assurance -- resilient against malicious manipulations
- * Privacy Preservation -- respectful for individual privacy
- * Decision-Making Transparency -- interpretable to human perception
+ * Security Assurance -- *resilient against malicious manipulations*
+ * Privacy Preservation -- *respectful for individual privacy*
+ * Decision-Making Transparency -- *interpretable to human perception*
 
 
 I joined Penn State in Fall 2019. Prior to that I was an assistant professor at Lehigh. I received my doctoral degree from Georgia Tech and finished my undergrad study at Zhejiang University (China).
@@ -86,7 +86,7 @@ I joined Penn State in Fall 2019. Prior to that I was an assistant professor at 
 <hr>
 
 
-### Recruiting
+### Join Us!
 
 We are ALWAYS looking for motivated and bright (under)grad students and postdocs. If you know how to build/hack AI systems, we should talk! Please email me your resume and set up a time to discuss your potential fit to our team.
 
