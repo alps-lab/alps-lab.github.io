@@ -16,6 +16,10 @@ permalink: /publications/index.html
 
 #### Pre-print
 
+*  **<font color="purple">Towards Robust Reasoning over Knowledge Graphs</font>**
+[[pdf](https://arxiv.org/pdf/2110.14693.pdf)<br>
+*<font color="black">Zhaohan Xi, Ren Pang, Changjiang Li, Shouling Ji, Xiapu Luo, Xusheng Xiao, Ting Wang</font>* <br>
+*<font color="blue">ArXiv e-prints, 2021</font>*
 
 *  **<font color="purple">TrojanZoo: Everything you ever wanted to know about neural backdoors (but were afraid to ask)</font>**
 [[pdf](https://arxiv.org/pdf/2012.09302.pdf), [code](https://github.com/alps-lab/Trojan-Zoo)] <br>
@@ -35,27 +39,30 @@ permalink: /publications/index.html
 
 #### 2022
 
-*  **<font color="purple"> On the Security Risks of AutoML </font>** [[pdf]()]<br>
+*  **<font color="purple"> On the Security Risks of AutoML </font>** [[pdf](https://arxiv.org/pdf/2110.06018.pdf)], [code](https://github.com/ain-soph/autovul)]<br>
 *<font color="black">Ren Pang, Zhaohan Xi, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
-*  **<font color="purple"> Label Inference Attacks Against Vertical Federated Learning </font>** [[pdf]()]<br>
+*  **<font color="purple"> Label Inference Attacks Against Vertical Federated Learning </font>** [[pdf](https://www.usenix.org/system/files/sec22summer_fu.pdf)]<br>
 *<font color="black">Chong Fu, Xuhong Zhang, Shouling Ji, Jinyin Chen, Jingzheng Wu, Shanqing Guo, Jun Zhou, Alex X. Liu, Ting Wang</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
-*  **<font color="purple"> Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols </font>** [[pdf]()]<br>
+*  **<font color="purple"> Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols </font>** [[pdf](https://www.usenix.org/system/files/sec22summer_yu-le.pdf)]<br>
 *<font color="black">Le Yu, Yangyang Liu, Pengfei Jing, Xiapu Luo, Lei Xue, Kaifa Zhao, Yajin Zhou, Ting Wang, Guofei Gu, Sen Nie, Shi Wu</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
 
-*  **<font color="purple"> Back-Propagating System Dependency Impact for Attack Investigation </font>** [[pdf]()]<br>
+*  **<font color="purple"> Back-Propagating System Dependency Impact for Attack Investigation </font>** [[pdf](https://www.usenix.org/system/files/sec22summer_fang.pdf)]<br>
 *<font color="black">Peng Gao, Changlin Liu, Erman Ayday, Kangkook Jee, Ting Wang, Yanfang (Fanny) Ye, Zhuotao Liu, Xusheng Xiao</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
-*  **<font color="purple"> FOAP: Fine-Grained Open-World Android App Fingerprinting  </font>** [[pdf]()]<br>
+*  **<font color="purple"> FOAP: Fine-Grained Open-World Android App Fingerprinting  </font>** [[pdf](https://www.usenix.org/system/files/sec22summer_li-jianfeng.pdf)]<br>
 *<font color="black">Jianfeng Li, Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, Xian Zhan, Xiaobo Ma</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
+*  **<font color="purple">Uncovering Cross-Context Inconsistent Access Control Enforcement in Android</font>** [[pdf]()]<br>
+*<font color="black">Hao Zhou, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang</font>* <br>
+*<font color="blue">The 2022 Network and Distributed System Security Symposium (NDSS '22)</font>*
 
 <hr>
 
@@ -76,12 +83,12 @@ permalink: /publications/index.html
 *<font color="blue">The 30th USENIX Security Symposium (Security '21)</font>*
 
 
-*  **<font color="purple">  Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks </font>** [[pdf]()]<br>
+*  **<font color="purple">  Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks </font>** [[pdf](https://nesa.zju.edu.cn/download/dty_pdf_cert_rnn.pdf)]<br>
 *<font color="black">Tianyu Du, Shouling Ji, Lujia Shen, Yao Zhang, Jinfeng Li, Jie Shi, Chengfang Fang, Jianwei Yin, Raheem Beyah, Ting Wang</font>* <br>
 *<font color="blue">The 28th ACM Conference on Computer and Communications Security (CCS '21)</font>*
 
 
-*  **<font color="purple">  Backdoor Pre-trained Models Can Transfer to All </font>** [[pdf]()]<br>
+*  **<font color="purple">  Backdoor Pre-trained Models Can Transfer to All </font>** [[pdf](https://arxiv.org/pdf/2111.00197.pdf)]<br>
 *<font color="black">Lujia Shen, Shouling Ji, Xuhong Zhang, Jinfeng Li, Jing Chen, Jie Shi, Chengfang Fang, Jianwei Yin, Ting Wang</font>* <br>
 *<font color="blue">The 28th ACM Conference on Computer and Communications Security (CCS '21)</font>*
 
