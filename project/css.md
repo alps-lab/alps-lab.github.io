@@ -5,7 +5,7 @@ permalink: /project/css/index.html
 ---
 
 
-## Trustworthy Machine Learning from Untrusted Models
+## Extreme Scale Edge Learning for Healthcare
 
 <hr>
 
