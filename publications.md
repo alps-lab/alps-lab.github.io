@@ -17,7 +17,7 @@ permalink: /publications/index.html
 #### Pre-print
 
 *  **<font color="purple">Towards Robust Reasoning over Knowledge Graphs</font>**
-[[pdf](https://arxiv.org/pdf/2110.14693.pdf)<br>
+[[pdf](https://arxiv.org/pdf/2110.14693.pdf)]<br>
 *<font color="black">Zhaohan Xi, Ren Pang, Changjiang Li, Shouling Ji, Xiapu Luo, Xusheng Xiao, Ting Wang</font>* <br>
 *<font color="blue">ArXiv e-prints, 2021</font>*
 
@@ -39,7 +39,7 @@ permalink: /publications/index.html
 
 #### 2022
 
-*  **<font color="purple"> On the Security Risks of AutoML </font>** [[pdf](https://arxiv.org/pdf/2110.06018.pdf)], [code](https://github.com/ain-soph/autovul)]<br>
+*  **<font color="purple"> On the Security Risks of AutoML </font>** [[pdf](https://arxiv.org/pdf/2110.06018.pdf), [code](https://github.com/ain-soph/autovul)]<br>
 *<font color="black">Ren Pang, Zhaohan Xi, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
