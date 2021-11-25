@@ -5,14 +5,14 @@ permalink: /project/wisdom/index.html
 ---
 
 
-<h1><img src="/assets/images/wisdom.pdf" alt="wisdom" height="10%" width="10%" align="absmiddle"/> Crowd Wisdom in Open World</h1>
+<h1><img src="/assets/images/wisdom.png" alt="wisdom" height="10%" width="10%" align="absmiddle"/> Crowd Wisdom in Open World</h1>
 
 <hr>
 
 ### Overview
 
 
-<div align="center"><img src="/assets/images/inf.pdf" alt="wisdom" height="45%" width="45%" align="middle"/></div>
+<div align="center"><img src="/assets/images/inf.png" alt="wisdom" height="45%" width="45%" align="middle"/></div>
 
 In many diverse settings, aggregated opinions of others play an increasingly dominant role in shaping individual decision making. One key prerequisite of harnessing the "crowd wisdom" is the independency of individuals' opinions,
 yet in an open world, collective opinions are rarely simple aggregations of independent minds. Recent experimental studies document that  disclosing prior collective opinions distorts individuals' decision making as well as their perceptions of quality and value, highlighting a fundamental disconnect from current modeling efforts: How to model social influence and its impact on systems that are constantly evolving? In this project, we are building a mechanistic framework to model the dynamics underlying a crowd wisdom system. In particular, we attempt to quantify the social influence of prior collective opinions on subsequent individual decision making.

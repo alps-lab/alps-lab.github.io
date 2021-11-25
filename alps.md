@@ -5,7 +5,7 @@ permalink: /alps/index.html
 ---
 
 
-<img src="/assets/images/alps.pdf" alt="alps" height="75%" width="75%"/>
+<img src="/assets/images/alps.png" alt="alps" height="75%" width="75%"/>
 
 <hr>
 

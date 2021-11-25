@@ -12,7 +12,7 @@ permalink: /project/riddle/index.html
 ### Overview
 
 
-<div align="center"><img src="/assets/images/riddle.pdf" alt="riddle" height="50%" width="50%" align="middle"/></div>
+<div align="center"><img src="/assets/images/riddle.png" alt="riddle" height="50%" width="50%" align="middle"/></div>
 
 
 The state-of-the-art performance of deep neural networks (DNNs) is often achieved at the cost of their interpretability. This is a major drawback for domains where the interpretability of decisions is a critical prerequisite. While a plethora of interpretation models have been proposed to help users understand the inner workings of DNNs, their interpretability is far from being practically useful. The goal of this project is to fundamentally improve the usability of interpretable deep learning system (IDLS) along (i) reliability - the interpretation should be robust against adversarial manipulations, (ii) interactivity - the interpretation should account for the perception, understanding, and response of end users, and (iii) operability - the interpretation should serve as the lens for end users to effectively understand and control DNN behaviors. 

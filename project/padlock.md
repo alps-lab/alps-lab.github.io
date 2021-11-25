@@ -12,7 +12,7 @@ permalink: /project/padlock/index.html
 ### Overview
 
 
-<div align="center"><img src="/assets/images/padlock.pdf" alt="padlock" height="50%" width="50%" align="middle"/></div>
+<div align="center"><img src="/assets/images/padlock.png" alt="padlock" height="50%" width="50%" align="middle"/></div>
 
 Deep learning (DL)-powered personalization holds great promise to fundamentally transform the way people live, work and travel, but poses high risk to people's individual privacy. This project will address the privacy risks arising in DL-powered contextual mobile services by developing solutions that facilitate the use of personal information while maintaining explicit user control over the use of such information.
 

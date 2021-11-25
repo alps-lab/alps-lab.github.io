@@ -12,7 +12,7 @@ permalink: /project/argus/index.html
 ### Overview
 
 
-<div align="center"><img src="/assets/images/argus.pdf" alt="argus" height="75%" width="75%" align="middle"/></div>
+<div align="center"><img src="/assets/images/argus.png" alt="argus" height="75%" width="75%" align="middle"/></div>
 
 
 Many of today's machine learning (ML) systems are not built from scratch, but are "composed" by an array of pre-trained, third-party models. This paradigm shift significantly simplifies the development cycles of ML systems and propels the trend of ML democratization. However, the lack of standardization or regulation for third-party models entails profound security implications. The goal of this project is two-fold: (i) understanding the security vulnerabilities incurred by reusing third-party models as building blocks of ML systems and (ii) developing rigorous yet practical tools to help developers proactively mitigate such threats throughout the lifecycles of ML systems. 

@@ -12,7 +12,7 @@ permalink: /project/eagleeye/index.html
 ### Overview
 
 
-<div align="center"><img src="/assets/images/eagleeye.pdf" alt="eagleeye" height="50%" width="50%" align="middle"/></div>
+<div align="center"><img src="/assets/images/eagleeye.png" alt="eagleeye" height="50%" width="50%" align="middle"/></div>
 
 Deep learning systems are inherently vulnerable to adversarial inputs, which are maliciously crafted samples to trigger deep neural networks (DNNs) to misbehave, leading to disastrous consequences in security-critical applications. The fundamental challenges of defending against such attacks stem from their adaptive and variable nature: adversarial inputs are tailored to target DNNs, while crafting strategies vary greatly with concrete attacks. This project develops EagleEye, a universal, attack-agnostic defense framework that (i) works effectively against unseen attack variants, (ii) preserves predictive power of deep neural networks, (iii) complements existing defense mechanisms, and (iv) provides comprehensive diagnosis about potential risks in deep learning outputs.
 
