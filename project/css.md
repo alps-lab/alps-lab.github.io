@@ -1,7 +1,7 @@
 ---
-title: Project-Argus
+title: Project-CSS
 layout: page
-permalink: /project/argus/index.html
+permalink: /project/css/index.html
 ---
 
 
