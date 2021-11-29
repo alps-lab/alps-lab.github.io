@@ -41,7 +41,7 @@ I am fortunate to work and have worked with a group of wonderful students:
 * [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) (Ph.D.) Now Research Scientist at Baidu USA
 * [Zheng Zhang](https://secantzhang.github.io) (B.Sc.) Now Ph.D. student at Northwestern
 * [Hua Shen](https://ist.psu.edu/directory/hqs5468) (Ph.D.) Now Ph.D. student at Penn State
-* [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) (Ph.D.) Now Software Engineer at Amazon
+* [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) (M.Sc.) Now Software Engineer at Amazon
 * [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) (M.Sc.) Now Ph.D. student at UC Irvine
 * [Chanh "Sam" Nguyen](https://www.linkedin.com/in/chanhnp) (M.Sc.) Now Technical Staff Member at Lawrence Livermore National Lab
 * [Georgi Georgiev](https://www.researchgate.net/profile/Georgi_Georgiev65) (M.Sc.) Now Ph.D. student at Stony Brook
