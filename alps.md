@@ -29,7 +29,7 @@ We follow the methodology of "*from practice, to theory and back to practice*". 
 
 I am fortunate to work and have worked with a group of wonderful students:
 
-* [Ren Pang](https://ist.psu.edu/directory/rbp5354)
+* [Ren Pang](https://ain-soph.github.io/)
 * [Zhaohan Xi](https://ist.psu.edu/directory/zxx5113)
 * [Changjiang Li](https://ist.psu.edu/directory/cbl5583)
 * [Zheng Fu](https://ist.psu.edu/directory/fjd5166)
@@ -39,13 +39,13 @@ I am fortunate to work and have worked with a group of wonderful students:
 
 
 * [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) (Ph.D.) Now Research Scientist at Baidu USA
-* [Zheng Zhang](https://secantzhang.github.io) (Undergrad) Now Ph.D. student at Northwestern
+* [Zheng Zhang](https://secantzhang.github.io) (B.Sc.) Now Ph.D. student at Northwestern
 * [Hua Shen](https://ist.psu.edu/directory/hqs5468) (Ph.D.) Now Ph.D. student at Penn State
 * [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) (Ph.D.) Now Software Engineer at Amazon
 * [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) (M.Sc.) Now Ph.D. student at UC Irvine
 * [Chanh "Sam" Nguyen](https://www.linkedin.com/in/chanhnp) (M.Sc.) Now Technical Staff Member at Lawrence Livermore National Lab
 * [Georgi Georgiev](https://www.researchgate.net/profile/Georgi_Georgiev65) (M.Sc.) Now Ph.D. student at Stony Brook
-* [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (Undergrad) Now M.Sc. student at CMU
+* [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (B.Sc.) Now M.Sc. student at CMU
 
 <hr>
 
