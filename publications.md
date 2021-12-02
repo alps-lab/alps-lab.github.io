@@ -60,6 +60,10 @@ permalink: /publications/index.html
 *<font color="black">Jianfeng Li, Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, Xian Zhan, Xiaobo Ma</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
+* **<font color="purple">TextHoaxer: Budgeted Hard-Label Adversarial Attacks on Text</font>** [[pdf]()]<br>
+*<font color="black">Muchao Ye, Chenglin Miao, Ting Wang, Fenglong Ma</font>* <br>
+*<font color="blue">The 36th AAAI Conference on Artificial Intelligence (AAAI '22)</font>*
+
 *  **<font color="purple">Uncovering Cross-Context Inconsistent Access Control Enforcement in Android</font>** [[pdf]()]<br>
 *<font color="black">Hao Zhou, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang</font>* <br>
 *<font color="blue">The 2022 Network and Distributed System Security Symposium (NDSS '22)</font>*
