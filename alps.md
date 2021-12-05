@@ -38,14 +38,14 @@ I am fortunate to work and have worked with a group of wonderful students:
 #### Alumni
 
 
-* [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) (Ph.D.) Now Research Scientist at Baidu USA
-* [Zheng Zhang](https://secantzhang.github.io) (B.Sc.) Now Ph.D. student at Northwestern
-* [Hua Shen](https://ist.psu.edu/directory/hqs5468) (Ph.D.) Now Ph.D. student at Penn State
-* [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) (M.Sc.) Now Software Engineer at Amazon
-* [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) (M.Sc.) Now Ph.D. student at UC Irvine
-* [Chanh "Sam" Nguyen](https://www.linkedin.com/in/chanhnp) (M.Sc.) Now Technical Staff Member at Lawrence Livermore National Lab
-* [Georgi Georgiev](https://www.researchgate.net/profile/Georgi_Georgiev65) (M.Sc.) Now Ph.D. student at Stony Brook
-* [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (B.Sc.) Now M.Sc. student at CMU
+* [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) Now Research Scientist at Baidu USA
+* [Zheng Zhang](https://secantzhang.github.io) Now Ph.D. student at Northwestern
+* [Hua Shen](https://ist.psu.edu/directory/hqs5468) Now Ph.D. student at Penn State
+* [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) Now Software Engineer at Amazon
+* [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) Now Ph.D. student at UC Irvine
+* [Chanh "Sam" Nguyen](https://www.linkedin.com/in/chanhnp) Now Technical Staff Member at Lawrence Livermore National Lab
+* [Georgi Georgiev](https://www.researchgate.net/profile/Georgi_Georgiev65) Now Ph.D. student at Stony Brook
+* [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) Now Software Engineer at Bloomberg
 
 <hr>
 
