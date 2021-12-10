@@ -29,20 +29,20 @@ We follow the methodology of "*from practice, to theory and back to practice*". 
 
 I am fortunate to work and have worked with a group of wonderful students:
 
-* [Ren Pang](https://ain-soph.github.io/)
-* [Zhaohan Xi](https://ist.psu.edu/directory/zxx5113)
-* [Changjiang Li](https://ist.psu.edu/directory/cbl5583)
+* [Ren Pang](https://ain-soph.github.io/) [USENIX'22(1), USENIX'21(1), AAAI'21, KDD'20, CCS'20(1)]
+* [Zhaohan Xi](https://ist.psu.edu/directory/zxx5113) [USENIX'22(1), USENIX'21(1)]
+* [Changjiang Li](https://ist.psu.edu/directory/cbl5583) [TDSC'21]
 * [Zheng Fu](https://ist.psu.edu/directory/fjd5166)
 * [Suhang Cui](https://ist.psu.edu/directory/sxc6192) (co-supervision with Fenglong Ma)
 
 #### Alumni
 
 
-* [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) Now Research Scientist at Baidu USA
-* [Zheng Zhang](https://secantzhang.github.io) Now Ph.D. student at Northwestern
-* [Hua Shen](https://ist.psu.edu/directory/hqs5468) Now Ph.D. student at Penn State
-* [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) Now Software Engineer at Amazon
-* [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) Now Ph.D. student at UC Irvine
+* [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) [EuroS&P'21, AAAI'21, KDD'20, USENIX'20, CCS'18] Now Research Scientist at Baidu USA
+* [Zheng Zhang](https://secantzhang.github.io) [EuroS&P'21] Now Ph.D. student at Northwestern
+* [Hua Shen](https://ist.psu.edu/directory/hqs5468) [USENIX'20, CCS'20(1)] Now Ph.D. student at Penn State
+* [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) [CCS'18] Now Software Engineer at Amazon
+* [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) [USENIX'20(1)] Now Ph.D. student at UC Irvine
 * [Chanh "Sam" Nguyen](https://www.linkedin.com/in/chanhnp) Now Technical Staff Member at Lawrence Livermore National Lab
 * [Georgi Georgiev](https://www.researchgate.net/profile/Georgi_Georgiev65) Now Ph.D. student at Stony Brook
 * [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) Now Software Engineer at Bloomberg

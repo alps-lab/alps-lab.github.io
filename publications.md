@@ -39,7 +39,7 @@ permalink: /publications/index.html
 
 #### 2022
 
-*  **<font color="purple"> On the Security Risks of AutoML </font>** [[pdf](https://arxiv.org/pdf/2110.06018.pdf), [code](https://github.com/ain-soph/autovul)]<br>
+*  **<font color="purple"> On the Security Risks of AutoML </font>** [[pdf](https://arxiv.org/pdf/2110.06018.pdf)]<br>
 *<font color="black">Ren Pang, Zhaohan Xi, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
