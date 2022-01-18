@@ -21,11 +21,6 @@ permalink: /publications/index.html
 *<font color="black">Zhaohan Xi, Ren Pang, Changjiang Li, Shouling Ji, Xiapu Luo, Xusheng Xiao, Ting Wang</font>* <br>
 *<font color="blue">ArXiv e-prints, 2021</font>*
 
-*  **<font color="purple">TrojanZoo: Everything you ever wanted to know about neural backdoors (but were afraid to ask)</font>**
-[[pdf](https://arxiv.org/pdf/2012.09302.pdf), [code](https://github.com/alps-lab/Trojan-Zoo)] <br>
-*<font color="black">Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, Ting Wang</font>* <br>
-*<font color="blue">ArXiv e-prints, 2020</font>*
-
 <!-- *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
 *<font color="blue"> <a href="https://arxiv.org/abs/1808.00123">ArXiv e-prints, 2018</a> </font>* -->
@@ -60,6 +55,13 @@ permalink: /publications/index.html
 *<font color="black">Jianfeng Li, Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, Xian Zhan, Xiaobo Ma</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
+
+*  **<font color="purple">TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors  </font>**
+[[pdf](https://arxiv.org/pdf/2012.09302.pdf), [code](https://github.com/alps-lab/Trojan-Zoo)] <br>
+*<font color="black">Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, Ting Wang</font>* <br>
+*<font color="blue">The 7th IEEE European Symposium on Security and Privacy (EuroS&P '22)</font>*
+
+
 * **<font color="purple">TextHoaxer: Budgeted Hard-Label Adversarial Attacks on Text</font>** [[pdf]()]<br>
 *<font color="black">Muchao Ye, Chenglin Miao, Ting Wang, Fenglong Ma</font>* <br>
 *<font color="blue">The 36th AAAI Conference on Artificial Intelligence (AAAI '22)</font>*
@@ -67,6 +69,14 @@ permalink: /publications/index.html
 *  **<font color="purple">Uncovering Cross-Context Inconsistent Access Control Enforcement in Android</font>** [[pdf]()]<br>
 *<font color="black">Hao Zhou, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang</font>* <br>
 *<font color="blue">The 2022 Network and Distributed System Security Symposium (NDSS '22)</font>*
+
+*  **<font color="purple">Packet-Level Open-World App Fingerprinting on Wireless Traffic</font>** [[pdf]()]<br>
+*<font color="black">Jianfeng Li, Shuohan Wu, Hao Zhou, Xiapu Luo, Ting Wang, Yangyang Liu, Xiaobo Ma</font>* <br>
+*<font color="blue">The 2022 Network and Distributed System Security Symposium (NDSS '22)</font>*
+
+
+
+
 
 <hr>
 
