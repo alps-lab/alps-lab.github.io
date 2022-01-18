@@ -58,7 +58,7 @@ permalink: /publications/index.html
 
 *  **<font color="purple">TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors  </font>**
 [[pdf](https://arxiv.org/pdf/2012.09302.pdf), [code](https://github.com/alps-lab/Trojan-Zoo)] <br>
-*<font color="black">Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, Ting Wang</font>* <br>
+*<font color="black">Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 7th IEEE European Symposium on Security and Privacy (EuroS&P '22)</font>*
 
 
