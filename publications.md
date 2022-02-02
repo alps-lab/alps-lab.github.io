@@ -120,7 +120,7 @@ permalink: /publications/index.html
 *<font color="black">Hao Zhou, Haoyu Wang, Shuohan Wu, Xiapu Luo, Yajin Zhou, Ting Chen, Ting Wang</font>* <br>
 *<font color="blue">The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE '21)</font>*
 
-*  **<font color="purple">"Towards Certifying the Asymmetric Robustness for Neural Networks: Quantification and Applications</font>** [[pdf]()]<br>
+*  **<font color="purple">Towards Certifying the Asymmetric Robustness for Neural Networks: Quantification and Applications</font>** [[pdf]()]<br>
 *<font color="black">Changjiang Li, Shouling Ji, Haiqin Weng, Bo Li, Jie Shi, Raheem Beyah, Shanqing Guo, Zonghui Wang, Ting Wang</font>* <br>
 *<font color="blue">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>*
 

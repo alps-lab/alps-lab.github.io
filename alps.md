@@ -40,7 +40,6 @@ I am fortunate to work and have worked with a group of wonderful students:
 
 * [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7)  Now Research Scientist at Baidu USA
 * [Zheng Zhang](https://secantzhang.github.io) Now Ph.D. student at Northwestern
-* [Hua Shen](https://ist.psu.edu/directory/hqs5468) [Now Ph.D. student at Penn State
 * [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) Now Ph.D. student at UC Irvine
 * [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) Now Software Engineer at Amazon
 * [Chanh "Sam" Nguyen](https://www.linkedin.com/in/chanhnp) Now Technical Staff Member at Lawrence Livermore National Lab
