@@ -29,7 +29,7 @@ I joined Penn State in Fall 2019. Prior to that I was an assistant professor at 
 ### Recent News
 
 <ul>
-<li><label class="paper_label_style">Paper</label> Paper on <a href="">Neural Backdoor Evaluation</a> accepted by <em>EuroS&P '22</em>. </li>
+<li><label class="paper_label_style">Paper</label> Paper on <a href="">Neural Backdoor Evaluation</a> accepted by <em>Euro S&P '22</em>. </li>
 <li><label class="paper_label_style">Paper</label> Paper on <a href="">Hard-Label Adversarial Attack on Text</a> accepted by <em>AAAI '22</em>. </li>
 <li><label class="paper_label_style">Paper</label> Papers on (i) <a href="">AutoML</a>, (ii) <a href="">Vehicle Diagnostic Protocol</a>, (iii) <a href="">Label Inference Attack</a>, (iv) <a href="">Cyber Attack Causality Analysis</a>, and (v) <a href="">Android App Fingerprinting</a> accepted by <em>USENIX '22</em>. </li>
 <li><label class="paper_label_style">Paper</label> Papers on <a href="">Android Access Control</a> and <a href="">App Fingerprinting</a> accepted by <em>NDSS '22</em>. </li>
