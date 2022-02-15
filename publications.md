@@ -38,6 +38,12 @@ permalink: /publications/index.html
 *<font color="black">Ren Pang, Zhaohan Xi, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
+
+*  **<font color="purple"> Seeing is Living? Rethinking the Security of Facial Liveness Verification in the Deepfake Era </font>** [[pdf](https://arxiv.org/pdf/2110.06018.pdf)]<br>
+*<font color="black">Changjiang Li, Li Wang, Shouling Ji, Xuhong Zhang, Zhaohan Xi, Shanqing Guo, Ting Wang</font>* <br>
+*<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
+
+
 *  **<font color="purple"> Label Inference Attacks Against Vertical Federated Learning </font>** [[pdf](https://www.usenix.org/system/files/sec22summer_fu.pdf)]<br>
 *<font color="black">Chong Fu, Xuhong Zhang, Shouling Ji, Jinyin Chen, Jingzheng Wu, Shanqing Guo, Jun Zhou, Alex X. Liu, Ting Wang</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
