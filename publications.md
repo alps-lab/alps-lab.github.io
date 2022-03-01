@@ -68,6 +68,11 @@ permalink: /publications/index.html
 *<font color="blue">The 7th IEEE European Symposium on Security and Privacy (EuroS&P '22)</font>*
 
 
+*  **<font color="purple">Towards Fair and Robust Classifiers</font>**
+[[pdf]()] <br>
+*<font color="black">Haipei Sun, Kun Wu, Ting Wang, Wendy Hui Wang</font>* <br>
+*<font color="blue">The 7th IEEE European Symposium on Security and Privacy (EuroS&P '22)</font>*
+
 * **<font color="purple">TextHoaxer: Budgeted Hard-Label Adversarial Attacks on Text</font>** [[pdf]()]<br>
 *<font color="black">Muchao Ye, Chenglin Miao, Ting Wang, Fenglong Ma</font>* <br>
 *<font color="blue">The 36th AAAI Conference on Artificial Intelligence (AAAI '22)</font>*
