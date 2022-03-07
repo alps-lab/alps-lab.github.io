@@ -39,7 +39,7 @@ permalink: /publications/index.html
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
 
-*  **<font color="purple"> Seeing is Living? Rethinking the Security of Facial Liveness Verification in the Deepfake Era </font>** [[pdf](https://arxiv.org/pdf/2110.06018.pdf)]<br>
+*  **<font color="purple"> Seeing is Living? Rethinking the Security of Facial Liveness Verification in the Deepfake Era </font>** [[pdf](https://arxiv.org/pdf/2202.10673.pdf)]<br>
 *<font color="black">Changjiang Li, Li Wang, Shouling Ji, Xuhong Zhang, Zhaohan Xi, Shanqing Guo, Ting Wang</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
