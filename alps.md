@@ -41,8 +41,10 @@ I am fortunate to work and have worked with a group of wonderful students:
 * [Zheng Zhang](https://secantzhang.github.io) >> Ph.D. student at Northwestern
 * [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) >> Ph.D. student at UC Irvine
 * [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) >> Software Engineer at Amazon
+* [Hua Shen](https://ist.psu.edu/directory/hqs5468) >> Ph.D. student at Penn State
 * [Chanh "Sam" Nguyen](https://www.linkedin.com/in/chanhnp) >> Technical Staff Member at Lawrence Livermore National Lab
 * [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) >> Software Engineer at Bloomberg
+
 
 <hr>
 
