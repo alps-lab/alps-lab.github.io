@@ -35,8 +35,8 @@ I joined Penn State in Fall 2019. Prior to that I was an assistant professor at 
 <li><label class="paper_label_style">Paper</label> 2 papers on <a href="">Android Access Control</a> and <a href="">App Fingerprinting</a> accepted by <em>NDSS '22</em>. </li>
 <li><label class="fund_label_style">Grant</label> NSF Award for <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2119331">Extreme-Scale Edge Learning for Healthcare</a>. Thank you, NSF! </li>
 <li><label class="success_label_style">Award</label> Ting recognized with <a href="https://news.psu.edu/story/653278/2021/04/01/academics/information-sciences-and-technology-faculty-staff-recognized?utm_source=newswire&utm_medium=email&utm_term=653377_HTML&utm_content=04-01-2021-10-36&utm_campaign=IST%20newswire">Research Excellence Award</a>. Thank you, Penn State!</li>
-<li><label class="info_label_style">Graduation</label> Xinyang -> Baidu Research. Congrats! </li>
-<li><label class="info_label_style">Graduation</label> Zheng -> CS@Northwestern. Congrats! </li>
+<li><label class="info_label_style">Graduation</label> Xinyang >> Baidu Research. Congrats! </li>
+<li><label class="info_label_style">Graduation</label> Zheng >> CS@Northwestern. Congrats! </li>
 <li><label class="paper_label_style">Paper</label> 2 papers on (i) <a href="">RNN Certification</a> and (ii) <a href="">Transferable Backdoor Attack</a> accepted by <em>CCS '21</em>. </li>
 <li><label class="paper_label_style">Paper</label> 1 paper on <a href="https://arxiv.org/pdf/2008.00312.pdf">Language Model Backdoor</a> accepted by <em>Euro S&P '21</em>. </li>
 <li><label class="paper_label_style">Paper</label> 3 papers on (i) <a href="https://arxiv.org/pdf/2006.11890.pdf">Graph Backdoor</a>, (ii) <a href="https://arxiv.org/pdf/2010.01785.pdf">Fuzzing Evaluation</a>, and (iii) <a href="">Attacks on Lane Detection</a> accepted by <em>USENIX '21</em>. </li>
