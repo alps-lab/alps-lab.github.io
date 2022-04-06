@@ -32,7 +32,11 @@ permalink: /publications/index.html
 
 <hr>
 
-#### 2022
+
+#### Conferences and Journals
+
+
+<!-- #### 2022 -->
 
 *  **<font color="purple"> On the Security Risks of AutoML </font>** [[pdf](https://arxiv.org/pdf/2110.06018.pdf)]<br>
 *<font color="black">Ren Pang, Zhaohan Xi, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
@@ -61,6 +65,9 @@ permalink: /publications/index.html
 *<font color="black">Jianfeng Li, Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, Xian Zhan, Xiaobo Ma</font>* <br>
 *<font color="blue">The 31st USENIX Security Symposium (Security '22)</font>*
 
+*  **<font color="purple"> Transfer Attacks Revisited: A Large-Scale Empirical Study in Real Computer Vision Settings  </font>** [[pdf]()]<br>
+*<font color="black">Yuhao Mao, Chong Fu, Saizhuo Wang, Shouling Ji, Xuhong Zhang, Zhenguang Liu, Jun Zhou, Alex X. Liu, Raheem Beyah, and Ting Wang</font>* <br>
+*<font color="blue">The 43rd IEEE Symposium on Security and Privacy (S&P '22)</font>*
 
 *  **<font color="purple">TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors  </font>**
 [[pdf](https://arxiv.org/pdf/2012.09302.pdf), [code](https://github.com/alps-lab/Trojan-Zoo)] <br>
@@ -92,7 +99,7 @@ permalink: /publications/index.html
 <hr>
 
 
-#### 2021
+<!-- #### 2021 -->
 
 
 *  **<font color="purple"> Graph Backdoor </font>** [[pdf](https://arxiv.org/pdf/2006.11890.pdf)]<br>
@@ -155,7 +162,7 @@ permalink: /publications/index.html
 
 <hr>
 
-#### 2020
+<!-- #### 2020 -->
 
 
 *  **<font color="purple"> AdvMind: Inferring Adversary Intent of Black-Box Attacks </font>** [[pdf](https://arxiv.org/pdf/2006.09539.pdf)]  <br>
@@ -202,7 +209,7 @@ Ting Wang</font>* <br>
 
 <hr>
 
-#### 2019
+<!-- #### 2019 -->
 
 *  **<font color="purple">TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens</font>** [[pdf]({{ site.url }}/paper/chen-ccs19.pdf)]<br>
 *<font color="black">Ting Chen, Yufei Zhang, Zihao Li, Xiapu Luo, Ting Wang, Rong Cao, Xiuzhuo Xiao, Xiaosong Zhang </font>* <br>
@@ -232,7 +239,7 @@ Ting Wang</font>* <br>
 
 <hr>
 
-#### 2018 and Earlier
+<!-- #### 2018 and Earlier -->
 
 *  **<font color="purple">Model-Reuse Attacks on Deep Learning Systems</font>** [[pdf]({{ site.url }}/paper/Ji-ccs-2018.pdf)] <br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Shouling Ji, Xiapu Luo, Ting Wang</font>* <br>
