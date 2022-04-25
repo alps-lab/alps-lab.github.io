@@ -30,7 +30,9 @@ I joined Penn State in Fall 2019. Prior to that I was an assistant professor at 
 
 <ul>
 <li><label class="talk_label_style">Internship</label> Ren >> Meta, Zhaohan >> Uber, Changjiang >> JD. Enjoy your summer!</li>
-<li><label class="paper_label_style">Paper</label> 1 paper on <a href="">Transfer Adversarial Attack</a> accepted by <em>S&P '22</em>. </li>
+<li><label class="paper_label_style">Paper</label> 1 paper on <a href="">Stability of Deep Learning Interpretability</a> accepted by <em>CCS '22</em>. </li>
+<li><label class="paper_label_style">Paper</label> 1 paper on <a href="">Android App Analysis</a> accepted by <em>ISSTA '22</em>. </li>
+<li><label class="paper_label_style">Paper</label> 1 paper on <a href="">Transferable Adversarial Attack</a> accepted by <em>S&P '22</em>. </li>
 <li><label class="paper_label_style">Paper</label> 6 papers on (i) <a href="">AutoML</a>, (ii) <a href="">Deepfake</a>, (iii) <a href="">Vehicle Diagnostic Protocol</a>, (iv) <a href="">Label Inference Attack</a>, (v) <a href="">Cyber Attack Causality Analysis</a>, and (vi) <a href="">Android App Fingerprinting</a> accepted by <em>USENIX '22</em>. </li>
 <li><label class="paper_label_style">Paper</label> 2 papers on (i) <a href="">Neural Backdoor Evaluation</a> and (ii) <a href="">Fair and Robust Classification</a> accepted by <em>Euro S&P '22</em>. </li>
 <li><label class="paper_label_style">Paper</label> 1 paper on <a href="">Hard-Label Adversarial Attack on Text</a> accepted by <em>AAAI '22</em>. </li>
