@@ -33,17 +33,21 @@ I am fortunate to work and have worked with a group of wonderful students:
 * [Zhaohan Xi](https://ist.psu.edu/directory/zxx5113)
 * [Changjiang Li](https://ist.psu.edu/directory/cbl5583)
 * [Fuzheng Duan](https://ist.psu.edu/directory/fjd5166)
-* [Suhang Cui](https://ist.psu.edu/directory/sxc6192) (co-supervision with Fenglong Ma)
+* [Suhang Cui](https://ist.psu.edu/directory/sxc6192) (co-supervision with Prof. Fenglong Ma)
+* [Jiacheng Liang]() (incoming)
+* [Tanqiu Jiang]() (incoming, co-supervision with Prof. Dongwon Lee)
+* [Ziyi Yin]() (incoming, co-supervision with Prof. Fenglong Ma)
+
 
 #### Alumni
 
-* [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) >> Research Scientist at Baidu USA
-* [Zheng Zhang](https://secantzhang.github.io) >> Ph.D. student at Northwestern
-* [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) >> Ph.D. student at UC Irvine
-* [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) >> Software Engineer at Amazon
-* [Hua Shen](https://ist.psu.edu/directory/hqs5468) >> Ph.D. student at Penn State
-* [Chanh "Sam" Nguyen](https://www.linkedin.com/in/chanhnp) >> Technical Staff Member at Lawrence Livermore National Lab
-* [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) >> Software Engineer at Bloomberg
+* [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) >> Research Scientist@Baidu USA
+* [Zheng Zhang](https://secantzhang.github.io) >> Ph.D. student@Northwestern
+* [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) >> Ph.D. student@UC Irvine
+* [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) >> Software Engineer@Amazon
+* [Hua Shen](https://ist.psu.edu/directory/hqs5468) >> Ph.D. student@Penn State
+* [Sam Nguyen](https://www.linkedin.com/in/chanhnp) >> Machine Learning Engineer@LLNL
+* [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) >> Software Engineer@Bloomberg
 
 
 <hr>
