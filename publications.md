@@ -16,10 +16,10 @@ permalink: /publications/index.html
 
 #### Pre-print
 
-*  **<font color="purple">Towards Robust Reasoning over Knowledge Graphs</font>**
+<!-- *  **<font color="purple">Towards Robust Reasoning over Knowledge Graphs</font>**
 [[pdf](https://arxiv.org/pdf/2110.14693.pdf)]<br>
 **<font color="black">Zhaohan Xi, Ren Pang, Changjiang Li, Shouling Ji, Xiapu Luo, Xusheng Xiao, Ting Wang</font>** <br>
-**<font color="blue">ArXiv e-prints, 2021</font>**
+**<font color="blue">ArXiv e-prints, 2021</font>** -->
 
 <!-- *  **<font color="purple"> EagleEye: Attack-Agnostic Defense against Adversarial Inputs </font>**<br>
 *<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>* <br>
@@ -68,7 +68,7 @@ permalink: /publications/index.html
 **<font color="blue">The 29th ACM Conference on Computer and Communications Security (CCS '22)</font>**
 
 *  **<font color="purple"> Transfer Attacks Revisited: A Large-Scale Empirical Study in Real Computer Vision Settings  </font>** [[pdf]()]<br>
-**<font color="black">Yuhao Mao, Chong Fu, Saizhuo Wang, Shouling Ji, Xuhong Zhang, Zhenguang Liu, Jun Zhou, Alex X. Liu, Raheem Beyah, and Ting Wang</font>** <br>
+**<font color="black">Yuhao Mao, Chong Fu, Saizhuo Wang, Shouling Ji, Xuhong Zhang, Zhenguang Liu, Jun Zhou, Alex X. Liu, Raheem Beyah, Ting Wang</font>** <br>
 **<font color="blue">The 43rd IEEE Symposium on Security and Privacy (S&P '22)</font>**
 
 *  **<font color="purple">TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors  </font>**

@@ -15,7 +15,7 @@ permalink: /about/index.html
 
 ### About Me
 
-I am Assistant Professor in the College of Information Sciences and Technology at Penn State and a part-time research scientist at Meta. I conduct research at the intersection of machine learning, privacy, and security. I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
+I am Associate Professor of Information Sciences and Technology at Penn State and a part-time research scientist at Meta. I conduct research at the intersection of machine learning, privacy, and security. I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
 My ongoing work focuses on making AI systems practically useful via providing
  * Security Assurance -- *resilient against malicious manipulations*
  * Privacy Preservation -- *respectful for individual privacy*
@@ -29,6 +29,7 @@ I joined Penn State in Fall 2019. Prior to that I was an assistant professor at 
 ### Recent News
 
 <ul>
+<li><label class="success_label_style">Promotion</label> Ting is tenured and promoted. Thank you, Penn State!</li>
 <li><label class="talk_label_style">Internship</label> Ren >> Meta, Zhaohan >> Uber, Changjiang >> JD. Enjoy your summer!</li>
 <li><label class="paper_label_style">Paper</label> 1 paper on <a href="">Stability of Deep Learning Interpretability</a> accepted by <em>CCS '22</em>. </li>
 <li><label class="paper_label_style">Paper</label> 1 paper on <a href="">Android App Analysis</a> accepted by <em>ISSTA '22</em>. </li>

@@ -1,6 +1,6 @@
 # main text of home
 name: 'Ting WANG'
-bio: 'Assistant Professor <br> @Penn State'
+bio: 'Associate Professor <br> @Penn State'
 
 # twitter summary info
 description: Homepage of Ting Wang
@@ -33,7 +33,7 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
+google: citations?user=cwcBTegAAAAJ&hl=en
 twitter: heac_ting
 # linkedin: ting-wang-a0a0aa119
 github: alps-lab
