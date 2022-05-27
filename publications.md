@@ -82,6 +82,12 @@ permalink: /publications/index.html
 **<font color="black">Haipei Sun, Kun Wu, Ting Wang, Wendy Hui Wang</font>** <br>
 **<font color="blue">The 7th IEEE European Symposium on Security and Privacy (EuroS&P '22)</font>**
 
+
+*  **<font color="purple">LeapAttack: Hard-Label Adversarial Attack on Text via Gradient-Based Optimization</font>**
+[[pdf]()] <br>
+**<font color="black">Muchao Ye, Jinghui Chen, Chenglin Miao, Ting Wang, Fenglong Ma</font>** <br>
+**<font color="blue">The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '22)</font>**
+
 * **<font color="purple">TextHoaxer: Budgeted Hard-Label Adversarial Attacks on Text</font>** [[pdf]()]<br>
 **<font color="black">Muchao Ye, Chenglin Miao, Ting Wang, Fenglong Ma</font>** <br>
 **<font color="blue">The 36th AAAI Conference on Artificial Intelligence (AAAI '22)</font>**
