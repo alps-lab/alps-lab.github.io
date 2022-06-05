@@ -29,7 +29,7 @@ I joined Penn State in Fall 2019. Prior to that I was an assistant professor at 
 ### Recent News
 
 <ul>
-<li><label class="paper_label_style">Paper</label> 1 paper on <a href="">Adversarial Text Attack</a> accepted by <em>KDD '22</em>. </li>
+<li><label class="paper_label_style">Paper</label> 1 paper on <a href="">Adversarial Attack on Text</a> accepted by <em>KDD '22</em>. </li>
 <li><label class="talk_label_style">Internship</label> Ren >> Meta, Zhaohan >> Uber, Changjiang >> JD. Enjoy your summer!</li>
 <li><label class="success_label_style">Promotion</label> Ting is tenured and promoted. Thank you, Penn State!</li>
 <li><label class="paper_label_style">Paper</label> 1 paper on <a href="">Stability of Deep Learning Interpretability</a> accepted by <em>CCS '22</em>. </li>
