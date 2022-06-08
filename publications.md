@@ -104,6 +104,11 @@ permalink: /publications/index.html
 **<font color="black">Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, Yajin Zhou, Chao Zhang, Haipeng Cai</font>** <br>
 **<font color="blue">The 2022 International Symposium on Software Testing and Analysis (ISSTA '22)</font>**
 
+
+* **<font color="purple">Fraud-agents Detection in Online Microfinance: A Large-scale Empirical Study</font>** [[pdf]()]<br>
+**<font color="black">Yiming Wu, Zhiyuan Xie, Shouling Ji, Zhenguang Liu, Xuhong Zhang, Changting Lin, Shuiguang Deng, Jun Zhou, Ting Wang, Raheem A Beyah</font>** <br>
+**<font color="blue">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>**
+
 <hr>
 
 
