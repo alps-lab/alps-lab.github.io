@@ -71,6 +71,12 @@ permalink: /publications/index.html
 **<font color="black">Yuhao Mao, Chong Fu, Saizhuo Wang, Shouling Ji, Xuhong Zhang, Zhenguang Liu, Jun Zhou, Alex X. Liu, Raheem Beyah, Ting Wang</font>** <br>
 **<font color="blue">The 43rd IEEE Symposium on Security and Privacy (S&P '22)</font>**
 
+
+*  **<font color="purple"> An Invisible Black-box Backdoor Attack through Frequency Domain  </font>** [[pdf]()]<br>
+**<font color="black"> Tong Wang, Yuan Yao, Feng Xu, Shengwei An, Hanghang Tong, Ting Wang</font>** <br>
+**<font color="blue">The 17th European Conference on Computer Vision (ECCV '22)</font>**
+
+
 *  **<font color="purple">TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors  </font>**
 [[pdf](https://arxiv.org/pdf/2012.09302.pdf), [code](https://github.com/alps-lab/Trojan-Zoo)] <br>
 **<font color="black">Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, Xiapu Luo, Ting Wang</font>** <br>
