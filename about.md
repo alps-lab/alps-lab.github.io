@@ -16,7 +16,7 @@ permalink: /about/index.html
 ### About Me
 
 I am Associate Professor of Information Sciences and Technology at Penn State and a part-time research scientist at Meta. I conduct research at the intersection of machine learning, privacy, and security. I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
-My ongoing work focuses on making AI systems practically useful via providing
+My ongoing work focuses on making AI systems practically usable via providing
  * Security Assurance -- *resilient against malicious manipulations*
  * Privacy Preservation -- *respectful for individual privacy*
  * Decision-Making Transparency -- *interpretable to human perception*
