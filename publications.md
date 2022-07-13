@@ -108,8 +108,8 @@ permalink: /publications/index.html
 
 *  **<font color="purple">NCScope: Hardware-Assisted Analyzer for Native Code in Android Apps</font>** [[pdf]()]<br>
 **<font color="black">Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, Yajin Zhou, Chao Zhang, Haipeng Cai</font>** <br>
-**<font color="blue">The 2022 International Symposium on Software Testing and Analysis (ISSTA '22)</font>**
-
+**<font color="blue">The 2022 International Symposium on Software Testing and Analysis (ISSTA '22)</font>** <br>
+🏅**<font color="red">ACM SIGSOFT Distinguished Paper Award</font>**
 
 * **<font color="purple">Fraud-agents Detection in Online Microfinance: A Large-scale Empirical Study</font>** [[pdf]()]<br>
 **<font color="black">Yiming Wu, Zhiyuan Xie, Shouling Ji, Zhenguang Liu, Xuhong Zhang, Changting Lin, Shuiguang Deng, Jun Zhou, Ting Wang, Raheem A Beyah</font>** <br>
@@ -249,7 +249,7 @@ Ting Wang</font>** <br>
 * **<font color="purple">A Large-Scale Empirical Study on Control Flow Identification of Smart Contracts</font>** [[pdf](https://ieeexplore.ieee.org/abstract/document/8870156)]<br>
 **<font color="black">Ting Chen, Zihao Li, Yufei Zhang, Xiapu Luo, Ting Wang, Teng Hu, Xiuzhuo Xiao, Dong Wang, Jin Huang, Xiaosong Zhang</font>** <br>
 **<font color="blue">The 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '19)</font>** <br>
-🏅<font color="red">Best paper runner-up award</font>
+🏅**<font color="red">Best Paper Runner-up Award</font>**
 
 * **<font color="purple">Fast-RCM: Fast Tree based Unsupersived Rare Class Mining</font>** [[pdf](https://ieeexplore.ieee.org/document/8764592)]<br>
 **<font color="black">Haiqin Weng, Shouling Ji, Changchang Liu, Ting Wang, Qinming He</font>** <br>
@@ -271,7 +271,7 @@ Ting Wang</font>** <br>
 *  **<font color="purple">Integration of Static and Dynamic Code Stylometry Analysis for Programmer De-anonymization</font>** [[pdf]({{ site.url }}/paper/wang-aisec-2018.pdf)]<br>
 **<font color="black">Ningfei Wang, Shouling Ji, Ting Wang</font>** <br>
 **<font color="blue">The 11th ACM Workshop on Artificial Intelligence and Security (AISec '18)</font>**<br>
-🏅<font color="red">Best paper award</font>
+🏅**<font color="red">Best Paper Award</font>**
 
 *  **<font color="purple">Towards Evaluating the Security of Image CAPTCHA in The Wild</font>** [[pdf]({{ site.url }}/paper/Zhao-aisec-2018.pdf)]<br>
 **<font color="black">Binbin Zhao, Haiqin Weng, Shouling Ji, Jianhai Chen, Ting Wang, Qinming He, Raheem Beyah</font>** <br>
@@ -295,7 +295,7 @@ Ting Wang</font>** <br>
 * **<font color="purple">Backdoor Attacks against Learning Systems</font>** [[pdf]({{ site.url }}/paper/ji-cns-2017.pdf), [bibtex]({{ site.url }}/references.html#Ji:2017:cns)]<br>
 **<font color="black">Yujie Ji, Xinyang Zhang, Ting Wang</font>** <br>
 **<font color="blue">The 5th IEEE Conference on Communications and Network Security (CNS '17)</font>** <br>
-🏅<font color="red">Best paper award</font>
+🏅**<font color="red">Best Paper Award</font>**
 
 * **<font color="purple">Private, yet Practical, Multiparty Deep Learning</font>** [[pdf]({{ site.url }}/paper/zhang-icdcs-2017.pdf), [bibtex]({{ site.url }}/references.html#Zhang:2017:icdcs)]<br>
 **<font color="black">Xinyang Zhang, Shouling Ji, Hui Wang, Ting Wang</font>** <br>
@@ -418,7 +418,7 @@ Ting Wang</font>** <br>
 * **<font color="purple">Spatio-Temporal Patterns in Network Events</font>** [[pdf]({{ site.url }}/paper/wang-conext-2010.pdf), [bibtex]({{ site.url }}/references.html#Wang:2010:conext)]<br>
 **<font color="black">Ting Wang, Mudhakar Srivatsa, Dakshi Agrawal, Ling Liu</font>** <br>
 **<font color="blue">The 6th ACM International Conference on Emerging Networking Experiments and Technologies (CoNEXT '10)</font>** <br>
-🏅<font color="red">Best paper award finalist</font>
+🏅**<font color="red">Best Paper Award Finalist</font>**
 
 
 * **<font color="purple">Monitoring Continuous State Violation in Datacenters: Exploring the Time Dimension</font>** [[pdf]({{ site.url }}/paper/meng-icde-2010.pdf), [bibtex]({{ site.url }}/references.html#Meng:2010:icde)]<br>
@@ -433,7 +433,7 @@ Ting Wang</font>** <br>
 * **<font color="purple">Learning, Indexing, and Detecting Network Faults</font>** [[pdf]({{ site.url }}/paper/wang-kdd-2009.pdf), [bibtex]({{ site.url }}/references.html#Wang:2009:kdd)]<br>
 **<font color="black">Ting Wang, Mudhakar Srivatsa, Dakshi Agrawal, Ling Liu</font>** <br>
 **<font color="blue">The 15th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '09)</font>** <br>
-🏅<font color="red">Integrated as key technology in IBM big data products</font>
+🏅**<font color="red">Integrated as key technology in IBM big data products</font>**
 
 
 * **<font color="purple">Privacy-Aware Mobile Services over Road Networks</font>** [[pdf]({{ site.url }}/paper/wang-pvldb-2009.pdf), [bibtex]({{ site.url }}/references.html#Wang:2009:vldb)] <br>
