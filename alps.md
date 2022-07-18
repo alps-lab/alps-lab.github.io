@@ -27,16 +27,22 @@ We follow the methodology of "*from practice, to theory and back to practice*". 
 
 ### People
 
-I am fortunate to work and have worked with a group of wonderful students:
+I am fortunate to work and have worked with a group of wonderful people:
+
+#### Post-doc
+
+* [Tianyu Du](https://nesa.zju.edu.cn/webpage/crew/dty.html)
+
+#### PhD
 
 * [Ren Pang](https://ain-soph.github.io/)
 * [Zhaohan Xi](https://ist.psu.edu/directory/zxx5113)
 * [Changjiang Li](https://ist.psu.edu/directory/cbl5583)
 * [Fuzheng Duan](https://ist.psu.edu/directory/fjd5166)
 * [Suhang Cui](https://ist.psu.edu/directory/sxc6192) (co-supervision with Prof. Fenglong Ma)
-* [Jiacheng Liang]() (incoming)
-* [Tanqiu Jiang]() (incoming, co-supervision with Prof. Dongwon Lee)
-* [Ziyi Yin]() (incoming, co-supervision with Prof. Fenglong Ma)
+* [Jiacheng Liang]()
+* [Tanqiu Jiang](https://tanqiujiang.github.io/) (co-supervision with Prof. Dongwon Lee)
+* [Ziyi Yin]() (co-supervision with Prof. Fenglong Ma)
 
 
 #### Alumni
@@ -45,7 +51,6 @@ I am fortunate to work and have worked with a group of wonderful students:
 * [Zheng Zhang](https://secantzhang.github.io) >> Ph.D. student@Northwestern
 * [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) >> Ph.D. student@UC Irvine
 * [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) >> Software Engineer@Amazon
-* [Hua Shen](https://ist.psu.edu/directory/hqs5468) >> Ph.D. student@Penn State
 * [Sam Nguyen](https://www.linkedin.com/in/chanhnp) >> Machine Learning Engineer@LLNL
 * [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) >> Software Engineer@Bloomberg
 
