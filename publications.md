@@ -67,12 +67,12 @@ permalink: /publications/index.html
 **<font color="black">Yuyou Gan, Yuhao Mao, Xuhong Zhang, Shouling Ji, Yuwen Pu, Meng Han, Jianwei Yin, Ting Wang</font>** <br>
 **<font color="blue">The 29th ACM Conference on Computer and Communications Security (CCS '22)</font>**
 
-*  **<font color="purple"> Transfer Attacks Revisited: A Large-Scale Empirical Study in Real Computer Vision Settings  </font>** [[pdf]()]<br>
+*  **<font color="purple"> Transfer Attacks Revisited: A Large-Scale Empirical Study in Real Computer Vision Settings  </font>** [[pdf](https://arxiv.org/pdf/2204.04063)]<br>
 **<font color="black">Yuhao Mao, Chong Fu, Saizhuo Wang, Shouling Ji, Xuhong Zhang, Zhenguang Liu, Jun Zhou, Alex X. Liu, Raheem Beyah, Ting Wang</font>** <br>
 **<font color="blue">The 43rd IEEE Symposium on Security and Privacy (S&P '22)</font>**
 
 
-*  **<font color="purple"> An Invisible Black-box Backdoor Attack through Frequency Domain  </font>** [[pdf]()]<br>
+*  **<font color="purple"> An Invisible Black-box Backdoor Attack through Frequency Domain  </font>** [[pdf](https://arxiv.org/pdf/2111.10991)]<br>
 **<font color="black"> Tong Wang, Yuan Yao, Feng Xu, Shengwei An, Hanghang Tong, Ting Wang</font>** <br>
 **<font color="blue">The 17th European Conference on Computer Vision (ECCV '22)</font>**
 
@@ -94,24 +94,24 @@ permalink: /publications/index.html
 **<font color="black">Muchao Ye, Jinghui Chen, Chenglin Miao, Ting Wang, Fenglong Ma</font>** <br>
 **<font color="blue">The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '22)</font>**
 
-* **<font color="purple">TextHoaxer: Budgeted Hard-Label Adversarial Attacks on Text</font>** [[pdf]()]<br>
+* **<font color="purple">TextHoaxer: Budgeted Hard-Label Adversarial Attacks on Text</font>** [[pdf](https://www.aaai.org/AAAI22Papers/AAAI-4844.YeM.pdf)]<br>
 **<font color="black">Muchao Ye, Chenglin Miao, Ting Wang, Fenglong Ma</font>** <br>
 **<font color="blue">The 36th AAAI Conference on Artificial Intelligence (AAAI '22)</font>**
 
-*  **<font color="purple">Uncovering Cross-Context Inconsistent Access Control Enforcement in Android</font>** [[pdf]()]<br>
+*  **<font color="purple">Uncovering Cross-Context Inconsistent Access Control Enforcement in Android</font>** [[pdf](https://www.ndss-symposium.org/wp-content/uploads/2022-166-paper.pdf)]<br>
 **<font color="black">Hao Zhou, Haoyu Wang, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang</font>** <br>
 **<font color="blue">The 2022 Network and Distributed System Security Symposium (NDSS '22)</font>**
 
-*  **<font color="purple">Packet-Level Open-World App Fingerprinting on Wireless Traffic</font>** [[pdf]()]<br>
+*  **<font color="purple">Packet-Level Open-World App Fingerprinting on Wireless Traffic</font>** [[pdf](https://www.ndss-symposium.org/ndss-paper/auto-draft-218/)]<br>
 **<font color="black">Jianfeng Li, Shuohan Wu, Hao Zhou, Xiapu Luo, Ting Wang, Yangyang Liu, Xiaobo Ma</font>** <br>
 **<font color="blue">The 2022 Network and Distributed System Security Symposium (NDSS '22)</font>**
 
-*  **<font color="purple">NCScope: Hardware-Assisted Analyzer for Native Code in Android Apps</font>** [[pdf]()]<br>
+*  **<font color="purple">NCScope: Hardware-Assisted Analyzer for Native Code in Android Apps</font>** [[pdf](https://dl.acm.org/doi/10.1145/3533767.3534410)]<br>
 **<font color="black">Hao Zhou, Shuohan Wu, Xiapu Luo, Ting Wang, Yajin Zhou, Chao Zhang, Haipeng Cai</font>** <br>
 **<font color="blue">The 2022 International Symposium on Software Testing and Analysis (ISSTA '22)</font>** <br>
 🏅**<font color="red">ACM SIGSOFT Distinguished Paper Award</font>**
 
-* **<font color="purple">Fraud-agents Detection in Online Microfinance: A Large-scale Empirical Study</font>** [[pdf]()]<br>
+* **<font color="purple">Fraud-agents Detection in Online Microfinance: A Large-scale Empirical Study</font>** [[pdf](https://ieeexplore.ieee.org/document/9713669/)]<br>
 **<font color="black">Yiming Wu, Zhiyuan Xie, Shouling Ji, Zhenguang Liu, Xuhong Zhang, Changting Lin, Shuiguang Deng, Jun Zhou, Ting Wang, Raheem A Beyah</font>** <br>
 **<font color="blue">IEEE Transactions on Dependable and Secure Computing (TDSC)</font>**
 
