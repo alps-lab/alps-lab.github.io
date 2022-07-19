@@ -25,7 +25,7 @@ We follow the methodology of "*from practice, to theory and back to practice*". 
 
 <hr>
 
-### People
+### Team
 
 I am fortunate to work and have worked with a group of wonderful people:
 
