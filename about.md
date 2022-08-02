@@ -29,6 +29,7 @@ I joined Penn State in Fall 2019. Prior to that I was an assistant professor at 
 ### Recent News
 
 <ul>
+<li><label class="fund_label_style">Grant</label> NSF Award to support our research on <a href="">Security Risks of AutoML</a>. Thank you, NSF! </li>
 <li><label class="info_label_style">Award</label> <a href="https://dl.acm.org/doi/10.1145/3533767.3534410">Android App Analysis</a> received the ACM SIGSOFT Distinguished Paper award! </li>
 <li><label class="paper_label_style">Paper</label> <a href="https://arxiv.org/pdf/2111.10991">Spectral Backdoor Attack</a> accepted by ECCV '22. </li>
 <li><label class="paper_label_style">Paper</label> <a href="">Adversarial Attack on Text</a> accepted by KDD '22. </li>
