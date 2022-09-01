@@ -15,8 +15,8 @@ permalink: /about/index.html
 
 ### About Me
 
-I am Associate Professor of Information Sciences and Technology at Penn State and a part-time research scientist at Meta. I conduct research at the intersection of machine learning, privacy, and security. I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
-My ongoing work focuses on making AI systems practically usable via providing
+I am Associate Professor of Information Sciences and Technology at Penn State and a part-time research scientist at Meta. I conduct research at the interface of machine learning, privacy, and security. I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
+My ongoing work focuses on making AI systems more practically usable by improving
  * Security Assurance -- *resilient against malicious manipulations*
  * Privacy Preservation -- *respectful for individual privacy*
  * Decision-Making Transparency -- *interpretable to human perception*
@@ -29,6 +29,7 @@ I joined Penn State in Fall 2019. Prior to that I was an assistant professor at 
 ### Recent News
 
 <ul>
+<li><label class="paper_label_style">Paper</label> <a href="">Health Risk Prediction</a> accepted by ICDM '22. </li>
 <li><label class="fund_label_style">Grant</label> NSF award to support our research on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212323">Security Risks of AutoML</a>. Thank you, NSF! </li>
 <li><label class="info_label_style">Award</label> <a href="https://dl.acm.org/doi/10.1145/3533767.3534410">Android App Analysis</a> received the ACM SIGSOFT Distinguished Paper award! </li>
 <li><label class="paper_label_style">Paper</label> <a href="https://arxiv.org/pdf/2111.10991">Spectral Backdoor Attack</a> accepted by ECCV '22. </li>

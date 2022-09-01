@@ -94,6 +94,12 @@ permalink: /publications/index.html
 **<font color="black">Muchao Ye, Jinghui Chen, Chenglin Miao, Ting Wang, Fenglong Ma</font>** <br>
 **<font color="blue">The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '22)</font>**
 
+*  **<font color="purple">MedSkim: Denoised Health Risk Prediction via Skimming Medical Claims Data</font>**
+[[pdf]()] <br>
+**<font color="black">Suhan Cui, Junyu Luo, Muchao Ye, Jiaqi Wang, Ting Wang, Fenglong Ma</font>** <br>
+**<font color="blue">The 22nd IEEE International Conference on Data Mining (ICDM '22)</font>**
+
+
 * **<font color="purple">TextHoaxer: Budgeted Hard-Label Adversarial Attacks on Text</font>** [[pdf](https://www.aaai.org/AAAI22Papers/AAAI-4844.YeM.pdf)]<br>
 **<font color="black">Muchao Ye, Chenglin Miao, Ting Wang, Fenglong Ma</font>** <br>
 **<font color="blue">The 36th AAAI Conference on Artificial Intelligence (AAAI '22)</font>**
