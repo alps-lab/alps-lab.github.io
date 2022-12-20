@@ -32,6 +32,13 @@ permalink: /publications/index.html
 
 <hr>
 
+#### 2023
+
+*  **<font color="purple"> AIRS: Explanation for Deep Reinforcement Learning based Security Applications</font>** [[pdf]()]<br>
+**<font color="black">Jiahao Yu, Wenbo Guo, Qi Qin, Gang Wang, Ting Wang, Xinyu Xing</font>** <br>
+**<font color="blue">The 32nd USENIX Security Symposium (Security '23)</font>**
+
+
 
 #### 2022
 

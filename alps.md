@@ -38,16 +38,15 @@ I am fortunate to work and have worked with a group of wonderful people:
 * [Ren Pang](https://ain-soph.github.io/)
 * [Zhaohan Xi](https://ist.psu.edu/directory/zxx5113)
 * [Changjiang Li](https://ist.psu.edu/directory/cbl5583)
-* [Fuzheng Duan](https://ist.psu.edu/directory/fjd5166)
 * [Suhang Cui](https://ist.psu.edu/directory/sxc6192) (co-supervision with Prof. Fenglong Ma)
-* [Jiacheng Liang]()
+* [Jiacheng Liang](https://ist.psu.edu/directory/jkl6486)
 * [Tanqiu Jiang](https://tanqiujiang.github.io/) (co-supervision with Prof. Dongwon Lee)
-* [Ziyi Yin]() (co-supervision with Prof. Fenglong Ma)
+* [Ziyi Yin](https://ist.psu.edu/directory/zmy5171) (co-supervision with Prof. Fenglong Ma)
 
 
 #### Alumni
 
-* [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) >> Research Scientist@Baidu USA
+* [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) >> Research Scientist@Adobe
 * [Zheng Zhang](https://secantzhang.github.io) >> Ph.D. student@Northwestern
 * [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) >> Ph.D. student@UC Irvine
 * [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) >> Software Engineer@Amazon
