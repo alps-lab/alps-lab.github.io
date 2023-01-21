@@ -27,7 +27,7 @@ We follow the methodology of "*from practice, to theory and back to practice*". 
 
 ### Team
 
-I am fortunate to work and have worked with a group of wonderful people:
+I am fortunate to work and have worked with a group of talended individuals:
 
 #### Post-doc
 

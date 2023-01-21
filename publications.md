@@ -34,6 +34,14 @@ permalink: /publications/index.html
 
 #### 2023
 
+*  **<font color="purple"> The Dark Side of AutoML: Towards Architectural Backdoor Search</font>** [[pdf]()]<br>
+**<font color="black">Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, Ting Wang</font>** <br>
+**<font color="blue">The 11th International Conference on Learning Representations (ICLR '23)</font>**
+
+*  **<font color="purple"> AutoML in the Wild: Obstacles, Workarounds, and Expectations</font>** [[pdf]()]<br>
+**<font color="black">Yuan Sun, Qiurong Song, Xinning Gui, Fenglong Ma, Ting Wang</font>** <br>
+**<font color="blue">The 2023 ACM CHI Conference on Human Factors in Computing Systems (CHI '23)</font>**
+
 *  **<font color="purple"> AIRS: Explanation for Deep Reinforcement Learning based Security Applications</font>** [[pdf]()]<br>
 **<font color="black">Jiahao Yu, Wenbo Guo, Qi Qin, Gang Wang, Ting Wang, Xinyu Xing</font>** <br>
 **<font color="blue">The 32nd USENIX Security Symposium (Security '23)</font>**

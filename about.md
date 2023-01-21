@@ -16,20 +16,20 @@ permalink: /about/index.html
 ### About Me
 
 I am Associate Professor of Information Sciences and Technology at Penn State and a part-time research scientist at Meta. I conduct research at the interface of machine learning, privacy, and security. I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/alps) (ALPS) Lab.
-My ongoing work focuses on making AI technologies more practically usable by improving their
+My ongoing work focuses on making AI technologies practically usable by improving their
  * Security Assurance -- *resilient against malicious manipulations*
  * Privacy Preservation -- *respectful for individual privacy*
  * Decision-Making Transparency -- *interpretable to human perception*
  
-I joined Penn State in Fall 2019. Prior to that I was an assistant professor at Lehigh. I received my doctoral degree from Georgia Tech and finished my undergrad study at Zhejiang University (China).
+I joined Penn State in Fall 2019. I received my doctoral degree from Georgia Tech and finished my undergrad study at Zhejiang University (China).
 
 <hr>
 
 ### Recent News
 
 <ul>
+<li><label class="paper_label_style">Paper</label> (i) <a href="">AutoML in the Wild</a> (CHI '23) conducted interviews with real-world AutoML users to understand their concerns, workarounds, and expectations; (ii) <a href="">The Dark Side of AutoML</a> (ICLR '23) explored the risks of exploiting AutoML as an attack vector to launch previously improbable attacks.  </li>
 <li><label class="paper_label_style">Paper</label> <a href="">Interpretability of Reinforcement Learning</a> accepted by USENIX '23. </li>
-<li><label class="paper_label_style">Paper</label> <a href="">Health Risk Prediction</a> accepted by ICDM '22. </li>
 <li><label class="fund_label_style">Grant</label> NSF award to support our research on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212323">the Security Risks of AutoML</a>. Thank you, NSF! </li>
 <li><label class="info_label_style">Award</label> <a href="https://dl.acm.org/doi/10.1145/3533767.3534410">Android App Analysis</a> received the ACM SIGSOFT Distinguished Paper award! </li>
 <li><label class="paper_label_style">Paper</label> <a href="https://arxiv.org/pdf/2111.10991">Spectral Backdoor Attack</a> accepted by ECCV '22. </li>
@@ -41,7 +41,6 @@ I joined Penn State in Fall 2019. Prior to that I was an assistant professor at 
 <li><label class="paper_label_style">Paper</label> (i) <a href="https://arxiv.org/pdf/2110.06018.pdf">AutoML</a>, (ii) <a href="https://arxiv.org/pdf/2202.10673.pdf">Deepfake</a>, (iii) <a href="https://www.usenix.org/system/files/sec22summer_yu-le.pdf">Vehicle Diagnostic Protocol</a>, (iv) <a href="https://www.usenix.org/system/files/sec22summer_fu.pdf">Label Inference Attack</a>, (v) <a href="https://www.usenix.org/system/files/sec22summer_fang.pdf">Cyber Attack Causality Analysis</a>, and (vi) <a href="https://www.usenix.org/system/files/sec22summer_li-jianfeng.pdf">Android App Fingerprinting</a> accepted by USENIX '22. </li>
 <li><label class="paper_label_style">Paper</label> (i) <a href="https://arxiv.org/pdf/2012.09302.pdf">Neural Backdoor Evaluation</a> and (ii) <a href="">Fair and Robust Classification</a> accepted by EuroS&P '22. </li>
 <li><label class="paper_label_style">Paper</label> <a href="">Hard-Label Adversarial Attack on Text</a> accepted by AAAI '22. </li>
-<li><label class="paper_label_style">Paper</label> (i) <a href="https://www.ndss-symposium.org/wp-content/uploads/2022-166-paper.pdf">Android Access Control</a> and (ii) <a href="https://www.ndss-symposium.org/ndss-paper/auto-draft-218/">App Fingerprinting</a> accepted by NDSS '22. </li>
 <!-- <li><label class="fund_label_style">Grant</label> NSF Award for <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2119331">Extreme-Scale Edge Learning for Healthcare</a>. Thank you, NSF! </li>
 <li><label class="success_label_style">Award</label> Ting recognized with <a href="https://news.psu.edu/story/653278/2021/04/01/academics/information-sciences-and-technology-faculty-staff-recognized?utm_source=newswire&utm_medium=email&utm_term=653377_HTML&utm_content=04-01-2021-10-36&utm_campaign=IST%20newswire">Research Excellence Award</a>. Thank you, Penn State!</li>
 <li><label class="info_label_style">Graduation</label> Xinyang >> Baidu Research. Congrats! </li>
