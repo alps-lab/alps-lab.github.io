@@ -28,7 +28,7 @@ I joined Penn State in Fall 2019. I received my doctoral degree from Georgia Tec
 ### Recent News
 
 <ul>
-<li><label class="paper_label_style">Paper</label> (i) <a href="">AutoML in the Wild</a> (CHI '23) conducted interviews with real-world AutoML users to understand their concerns, workarounds, and expectations; (ii) <a href="">The Dark Side of AutoML</a> (ICLR '23) explored the risks of exploiting AutoML as an attack vector to launch previously improbable attacks.  </li>
+<li><label class="paper_label_style">Paper</label> New work on AutoML: (i) <a href="">AutoML in the Wild</a> (CHI '23) interviews real-world users to understand the limitations they face in using AutoML, how they work around such obstacles, and their expectations for future advances of AutoML; (ii) <a href="">The Dark Side of AutoML</a> (ICLR '23) explores the possibility of exploiting AutoML as a new attack vector to launch previously improbable attacks (i.e., backdoors hidden in neural network architectures).  </li>
 <li><label class="paper_label_style">Paper</label> <a href="">Interpretability of Reinforcement Learning</a> accepted by USENIX '23. </li>
 <li><label class="fund_label_style">Grant</label> NSF award to support our research on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212323">the Security Risks of AutoML</a>. Thank you, NSF! </li>
 <li><label class="info_label_style">Award</label> <a href="https://dl.acm.org/doi/10.1145/3533767.3534410">Android App Analysis</a> received the ACM SIGSOFT Distinguished Paper award! </li>
