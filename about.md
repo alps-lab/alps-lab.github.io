@@ -20,7 +20,7 @@ My ongoing work focuses on making AI technologies practically usable by improvin
  * Security Assurance -- *resilient against malicious manipulations*
  * Privacy Preservation -- *respectful for individual privacy*
  * Decision-Making Transparency -- *interpretable to human perception*
- 
+
 I joined Penn State in Fall 2019. I received my doctoral degree from Georgia Tech and finished my undergrad study at Zhejiang University (China).
 
 <hr>
@@ -28,11 +28,12 @@ I joined Penn State in Fall 2019. I received my doctoral degree from Georgia Tec
 ### Recent News
 
 <ul>
-<li><label class="paper_label_style">Paper</label> New work on AutoML: (i) <a href="">AutoML in the Wild</a> (CHI '23) interviews real-world users to understand the limitations they face in using AutoML, how they work around such obstacles, and their expectations for future advances of AutoML; (ii) <a href="">The Dark Side of AutoML</a> (ICLR '23) explores the possibility of exploiting AutoML as a new attack vector to launch previously improbable attacks (i.e., backdoors hidden in neural network architectures).  </li>
-<li><label class="paper_label_style">Paper</label> <a href="">Interpretability of Reinforcement Learning</a> accepted by USENIX '23. </li>
+<li><label class="paper_label_style">Paper</label> <a href="">AutoML in the Wild</a> (CHI '23) interviews real-world users to understand the limitations they face in using AutoML, how they work around such obstacles, and their expectations for future advances of AutoML. </li>
+<li><label class="paper_label_style">Paper</label> <a href="">The Dark Side of AutoML</a> (ICLR '23) explores the possibility of exploiting AutoML as a new attack vector to launch previously improbable attacks (i.e., backdoors hidden in neural network architectures).  </li>
+<li><label class="paper_label_style">Paper</label> <a href="">AIRS</a> (USENIX '23) faithfully explains the most critical steps in deep reinforcement learning with a range of security applications (e.g., autonomous driving). </li>
 <li><label class="fund_label_style">Grant</label> NSF award to support our research on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212323">the Security Risks of AutoML</a>. Thank you, NSF! </li>
 <li><label class="info_label_style">Award</label> <a href="https://dl.acm.org/doi/10.1145/3533767.3534410">Android App Analysis</a> received the ACM SIGSOFT Distinguished Paper award! </li>
-<li><label class="paper_label_style">Paper</label> <a href="https://arxiv.org/pdf/2111.10991">Spectral Backdoor Attack</a> accepted by ECCV '22. </li>
+<!-- <li><label class="paper_label_style">Paper</label> <a href="https://arxiv.org/pdf/2111.10991">Spectral Backdoor Attack</a> accepted by ECCV '22. </li>
 <li><label class="paper_label_style">Paper</label> <a href="">Adversarial Attack on Text</a> accepted by KDD '22. </li>
 <li><label class="talk_label_style">Internship</label> Ren >> Meta, Zhaohan >> Uber, Changjiang >> JD. Enjoy your summer!</li>
 <li><label class="success_label_style">Promotion</label> Ting is tenured and promoted. Thank you, Penn State!</li>
@@ -40,7 +41,7 @@ I joined Penn State in Fall 2019. I received my doctoral degree from Georgia Tec
 <li><label class="paper_label_style">Paper</label> <a href="https://arxiv.org/pdf/2204.04063">Transferable Adversarial Attack</a> accepted by S&P '22. </li>
 <li><label class="paper_label_style">Paper</label> (i) <a href="https://arxiv.org/pdf/2110.06018.pdf">AutoML</a>, (ii) <a href="https://arxiv.org/pdf/2202.10673.pdf">Deepfake</a>, (iii) <a href="https://www.usenix.org/system/files/sec22summer_yu-le.pdf">Vehicle Diagnostic Protocol</a>, (iv) <a href="https://www.usenix.org/system/files/sec22summer_fu.pdf">Label Inference Attack</a>, (v) <a href="https://www.usenix.org/system/files/sec22summer_fang.pdf">Cyber Attack Causality Analysis</a>, and (vi) <a href="https://www.usenix.org/system/files/sec22summer_li-jianfeng.pdf">Android App Fingerprinting</a> accepted by USENIX '22. </li>
 <li><label class="paper_label_style">Paper</label> (i) <a href="https://arxiv.org/pdf/2012.09302.pdf">Neural Backdoor Evaluation</a> and (ii) <a href="">Fair and Robust Classification</a> accepted by EuroS&P '22. </li>
-<li><label class="paper_label_style">Paper</label> <a href="">Hard-Label Adversarial Attack on Text</a> accepted by AAAI '22. </li>
+<li><label class="paper_label_style">Paper</label> <a href="">Hard-Label Adversarial Attack on Text</a> accepted by AAAI '22. </li> -->
 <!-- <li><label class="fund_label_style">Grant</label> NSF Award for <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2119331">Extreme-Scale Edge Learning for Healthcare</a>. Thank you, NSF! </li>
 <li><label class="success_label_style">Award</label> Ting recognized with <a href="https://news.psu.edu/story/653278/2021/04/01/academics/information-sciences-and-technology-faculty-staff-recognized?utm_source=newswire&utm_medium=email&utm_term=653377_HTML&utm_content=04-01-2021-10-36&utm_campaign=IST%20newswire">Research Excellence Award</a>. Thank you, Penn State!</li>
 <li><label class="info_label_style">Graduation</label> Xinyang >> Baidu Research. Congrats! </li>
