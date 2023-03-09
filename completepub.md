@@ -44,7 +44,7 @@ permalink: /completepub/index.html
 **<font color="blue">The 2023 ACM CHI Conference on Human Factors in Computing Systems (CHI '23)</font>**
 
 *  **<font color="purple">FreeEagle: Detecting Complex Neural Trojans in Data-Free Cases</font>** [[pdf]()]<br>
-**<font color="black">Chong Fu, Xuhong Zhang, Shouling Ji, Ting Wang, Peng Lin, Yanghe Feng Jianwei Yin</font>** <br>
+**<font color="black">Chong Fu, Xuhong Zhang, Shouling Ji, Ting Wang, Peng Lin, Yanghe Feng, Jianwei Yin</font>** <br>
 **<font color="blue">The 32nd USENIX Security Symposium (Security '23)</font>**
 
 *  **<font color="purple"> AIRS: Explanation for Deep Reinforcement Learning based Security Applications</font>** [[pdf]()]<br>
