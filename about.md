@@ -27,10 +27,10 @@ I joined Penn State in Fall 2019. I received my doctoral degree from Georgia Tec
 ### Recent News
 
 <ul>
-<li><label class="paper_label_style">Paper</label> <a href="">FreeEagle</a> (USENIX '23) detects complex backdoors in deep learning models without requiring access to clean or poisoning data. </li>
-<li><label class="paper_label_style">Paper</label> <a href="">AutoML in the Wild</a> (CHI '23) interviews real-world users to understand the limitations they face in using AutoML, how they work around such obstacles, and their expectations for future advances of AutoML. </li>
-<li><label class="paper_label_style">Paper</label> <a href="">The Dark Side of AutoML</a> (ICLR '23) explores the possibility of exploiting AutoML as a new attack vector to launch previously improbable attacks (i.e., backdoors hidden in neural network architectures).  </li>
-<li><label class="paper_label_style">Paper</label> <a href="">AIRS</a> (USENIX '23) faithfully explains the most critical steps in deep reinforcement learning, supporting a range of security applications. </li>
+<li><label class="paper_label_style">Paper</label> <a href="">FreeEagle</a> (to appear in USENIX '23) detects complex backdoors in deep learning models without requiring access to clean or poisoning data. </li>
+<li><label class="paper_label_style">Paper</label> <a href="https://arxiv.org/pdf/2302.10827">AutoML in the Wild</a> (CHI '23) interviews real-world users to understand the limitations they face in using AutoML, how they work around such obstacles, and their expectations for future advances of AutoML. </li>
+<li><label class="paper_label_style">Paper</label> <a href="https://openreview.net/pdf?id=bsZULlDGXe">Dark Side of AutoML</a> (ICLR '23) explores the possibility of exploiting AutoML as a new attack vector to launch previously improbable attacks (i.e., backdoors hidden in neural network architectures).  </li>
+<li><label class="paper_label_style">Paper</label> <a href="">AIRS</a> (to appear in USENIX '23) faithfully explains the most critical steps in deep reinforcement learning, supporting a range of security applications. </li>
 <li><label class="fund_label_style">Grant</label> NSF award to support our research on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212323">the Security Risks of AutoML</a>. Thank you, NSF! </li>
 <li><label class="info_label_style">Award</label> <a href="https://dl.acm.org/doi/10.1145/3533767.3534410">Android App Analysis</a> received the ACM SIGSOFT Distinguished Paper award! </li>
 <!-- <li><label class="paper_label_style">Paper</label> <a href="https://arxiv.org/pdf/2111.10991">Spectral Backdoor Attack</a> accepted by ECCV '22. </li>
