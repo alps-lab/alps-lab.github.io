@@ -13,7 +13,7 @@ permalink: /publications/index.html
 
 
 
-### Selected Publications <font color="grey">(some of my personal favorite, here is </font> [a complete list]({{ site.baseurl }}/completepub)<font color="grey">)</font>
+### Selected Publications <font color="grey">(some personal favorite, here is </font> [a complete list]({{ site.baseurl }}/completepub)<font color="grey">)</font>
 
 <hr>
 
