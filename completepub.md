@@ -10,7 +10,9 @@ permalink: /completepub/index.html
 
 
 
-## List of Publications
+
+### List of Publications <font color="grey">(</font>[selected]({{ site.baseurl }}/publications)<font color="grey">|full)</font>
+
 
 
 <hr>

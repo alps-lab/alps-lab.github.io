@@ -13,7 +13,7 @@ permalink: /publications/index.html
 
 
 
-### Selected Publications <font color="grey">(some personal favorite; a complete list is </font> [here]({{ site.baseurl }}/completepub)<font color="grey">)</font>
+### List of Publications <font color="grey">(selected|</font>[full]({{ site.baseurl }}/completepub)<font color="grey">)</font>
 
 <hr>
 
@@ -24,7 +24,8 @@ permalink: /publications/index.html
 
 *  **<font color="purple"> AutoML in the Wild: Obstacles, Workarounds, and Expectations</font>** [[pdf](https://arxiv.org/pdf/2302.10827)]<br>
 **<font color="black">Yuan Sun, Qiurong Song, Xinning Gui, Fenglong Ma, Ting Wang</font>** <br>
-**<font color="blue">The 2023 ACM CHI Conference on Human Factors in Computing Systems (CHI '23)</font>**
+**<font color="blue">The 2023 ACM CHI Conference on Human Factors in Computing Systems (CHI '23)</font>** <br>
+🏅**<font color="red">Honorable Mention Award</font>**
 
 *  **<font color="purple">FreeEagle: Detecting Complex Neural Trojans in Data-Free Cases</font>** [[pdf]()]<br>
 **<font color="black">Chong Fu, Xuhong Zhang, Shouling Ji, Ting Wang, Peng Lin, Yanghe Feng, Jianwei Yin</font>** <br>
