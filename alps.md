@@ -27,11 +27,8 @@ We follow the methodology of "*from practice, to theory and back to practice*". 
 
 ### Team
 
-I am fortunate to work and have worked with a group of talended individuals:
+I am fortunate to work and have worked with a group of talented individuals:
 
-#### Post-doc
-
-* [Tianyu Du](https://nesa.zju.edu.cn/webpage/crew/dty.html)
 
 #### PhD
 
@@ -46,9 +43,10 @@ I am fortunate to work and have worked with a group of talended individuals:
 
 #### Alumni
 
+* [Tianyu Du](https://github.com/tydusky) >> Assistant Professor@Zhejiang University
 * [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) >> Research Scientist@Adobe
-* [Zheng Zhang](https://secantzhang.github.io) >> Ph.D. student@Northwestern
-* [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) >> Ph.D. student@UC Irvine
+* [Zheng Zhang](https://secantzhang.github.io) >> PhD@Northwestern
+* [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) >> PhD@UC Irvine
 * [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) >> Software Engineer@Amazon
 * [Sam Nguyen](https://www.linkedin.com/in/chanhnp) >> Machine Learning Engineer@LLNL
 * [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) >> Software Engineer@Bloomberg
