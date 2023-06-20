@@ -43,7 +43,7 @@ I am fortunate to work and have worked with a group of talented individuals:
 
 #### Alumni
 
-* [Tianyu Du](https://github.com/tydusky) >> Assistant Professor@Zhejiang University
+* [Tianyu Du](https://tydusky.github.io/) >> Assistant Professor@Zhejiang University
 * [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) >> Research Scientist@Adobe
 * [Zheng Zhang](https://secantzhang.github.io) >> PhD@Northwestern
 * [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) >> PhD@UC Irvine
