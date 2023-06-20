@@ -19,8 +19,7 @@ I am Associate Professor of Information Sciences and Technology at Penn State an
  * Security Assurance -- *resilient against malicious manipulations*
  * Privacy Preservation -- *respectful for individual privacy*
  * Decision-Making Transparency -- *interpretable to human perception*
-
-I joined Penn State in Fall 2019. I received my doctoral degree from Georgia Tech and finished my undergrad study at Zhejiang University (China).
+I received my doctoral degree from Georgia Tech and finished my undergrad study at Zhejiang University (China).
 
 Starting from Fall 2023, I will join Stony Brook as Empire Innovation Associate Professor.
 
