@@ -28,7 +28,7 @@ I received my doctoral degree from Georgia Tech and finished my undergrad study 
 ### Recent News
 
 <ul>
-<li><label class="paper_label_style">Paper</label> <a href="https://arxiv.org/pdf/2305.02383.pdf">ROAR</a> (USENIX'23) represents the first systematic study on the security vulnerabilities of knowledge graph reasoning systems. </li>
+<li><label class="paper_label_style">Paper</label> <a href="https://arxiv.org/pdf/2305.02383.pdf">ROAR</a> (USENIX'23) systematically studies the security vulnerabilities of knowledge graph-based reasoning systems. </li>
 <li><label class="info_label_style">Award</label>  <a href="https://arxiv.org/pdf/2302.10827">AutoML in the Wild</a> (CHI'23 Honorable Mention) interviews real-world users to understand the limitations they face in using AutoML, how they work around such obstacles, and their expectations for future advances of AutoML. </li>
 <li><label class="paper_label_style">Paper</label> <a href="https://www.usenix.org/system/files/sec23fall-prepub-85-fu-chong.pdf">FreeEagle</a> (USENIX'23) detects complex backdoors in deep learning models without requiring access to clean or poisoning data. </li>
 <li><label class="paper_label_style">Paper</label> <a href="https://openreview.net/pdf?id=bsZULlDGXe">Dark Side of AutoML</a> (ICLR'23) explores the possibility of exploiting AutoML as a new attack vector to launch previously improbable attacks (i.e., backdoors hidden in neural network architectures).  </li>
