@@ -37,20 +37,24 @@ permalink: /completepub/index.html
 
 #### 2023
 
+*  **<font color="purple">An Embarrassingly Simple Backdoor Attack against Self-supervised Learning</font>** [[pdf]()]<br>
+**<font color="black">Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Shouling Ji, Yuan Yao, Ting Wang</font>** <br>
+**<font color="blue">The 2023 International Conference on Computer Vision (ICCV '23)</font>**
 
-*  **<font color="purple"> The Dark Side of AutoML: Towards Architectural Backdoor Search</font>** [[pdf]()]<br>
-**<font color="black">Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, Ting Wang</font>** <br>
-**<font color="blue">The 11th International Conference on Learning Representations (ICLR '23)</font>**
-
-*  **<font color="purple"> AutoML in the Wild: Obstacles, Workarounds, and Expectations</font>** [[pdf]()]<br>
-**<font color="black">Yuan Sun, Qiurong Song, Xinning Gui, Fenglong Ma, Ting Wang</font>** <br>
-**<font color="blue">The 2023 ACM CHI Conference on Human Factors in Computing Systems (CHI '23)</font>**
-
-*  **<font color="purple">On the Security Risks of Knowledge Graph Reasoning</font>** [[pdf]()]<br>
+*  **<font color="purple">On the Security Risks of Knowledge Graph Reasoning</font>** [[pdf](https://arxiv.org/pdf/2305.02383.pdf)]<br>
 **<font color="black">Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang</font>** <br>
 **<font color="blue">The 32nd USENIX Security Symposium (Security '23)</font>**
 
-*  **<font color="purple">FreeEagle: Detecting Complex Neural Trojans in Data-Free Cases</font>** [[pdf]()]<br>
+*  **<font color="purple"> The Dark Side of AutoML: Towards Architectural Backdoor Search</font>** [[pdf](https://openreview.net/pdf?id=bsZULlDGXe)]<br>
+**<font color="black">Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, Ting Wang</font>** <br>
+**<font color="blue">The 11th International Conference on Learning Representations (ICLR '23)</font>**
+
+*  **<font color="purple"> AutoML in the Wild: Obstacles, Workarounds, and Expectations</font>** [[pdf](https://arxiv.org/pdf/2302.10827)]<br>
+**<font color="black">Yuan Sun, Qiurong Song, Xinning Gui, Fenglong Ma, Ting Wang</font>** <br>
+**<font color="blue">The 2023 ACM CHI Conference on Human Factors in Computing Systems (CHI '23)</font>** <br>
+🏅**<font color="red">Honorable Mention Award</font>**
+
+*  **<font color="purple">FreeEagle: Detecting Complex Neural Trojans in Data-Free Cases</font>** [[pdf](https://www.usenix.org/system/files/sec23fall-prepub-85-fu-chong.pdf)]<br>
 **<font color="black">Chong Fu, Xuhong Zhang, Shouling Ji, Ting Wang, Peng Lin, Yanghe Feng, Jianwei Yin</font>** <br>
 **<font color="blue">The 32nd USENIX Security Symposium (Security '23)</font>**
 

@@ -17,6 +17,10 @@ permalink: /publications/index.html
 
 <hr>
 
+*  **<font color="purple">An Embarrassingly Simple Backdoor Attack against Self-supervised Learning</font>** [[pdf]()]<br>
+**<font color="black">Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Shouling Ji, Yuan Yao, Ting Wang</font>** <br>
+**<font color="blue">The 2023 International Conference on Computer Vision (ICCV '23)</font>**
+
 
 *  **<font color="purple">On the Security Risks of Knowledge Graph Reasoning</font>** [[pdf](https://arxiv.org/pdf/2305.02383.pdf)]<br>
 **<font color="black">Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang</font>** <br>
