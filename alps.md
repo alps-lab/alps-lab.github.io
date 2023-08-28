@@ -45,6 +45,7 @@ I am fortunate to work and have worked with a group of talented individuals:
 
 * [Tianyu Du](https://tydusky.github.io/) >> Assistant Professor@Zhejiang University
 * [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) >> Research Scientist@Adobe
+* [Tinghao Xie](https://tinghaoxie.com/) >> PhD@Princeton
 * [Zheng Zhang](https://secantzhang.github.io) >> PhD@Northwestern
 * [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) >> PhD@UC Irvine
 * [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) >> Software Engineer@Amazon

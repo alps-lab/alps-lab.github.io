@@ -17,7 +17,7 @@ permalink: /publications/index.html
 
 <hr>
 
-*  **<font color="purple">An Embarrassingly Simple Backdoor Attack against Self-supervised Learning</font>** [[pdf]()]<br>
+*  **<font color="purple">An Embarrassingly Simple Backdoor Attack on Self-supervised Learning</font>** [[pdf]()]<br>
 **<font color="black">Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Shouling Ji, Yuan Yao, Ting Wang</font>** <br>
 **<font color="blue">The 2023 International Conference on Computer Vision (ICCV '23)</font>**
 

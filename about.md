@@ -15,12 +15,12 @@ permalink: /about/index.html
 
 ### About Me
 
-I am Associate Professor of Information Sciences and Technology at Penn State and a part-time research scientist at Meta (Starting from Fall 2023, I will join Stony Brook as Empire Innovation Associate Professor). I conduct research at the interface of machine learning, privacy, and security. I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/alps) (ALPS) Lab. The overarching goal of my research is to maximize the practical impact of artificial intelligence (AI) by bridging technological advances and transformative applications. To this end, my recent work focuses on improving AI technologies along three major thrusts:
+I am Empire Innovation Associate Professor in the Department of Computer Science at Stony Brook University. I conduct research at the interface of machine learning, privacy, and security. I direct the [Algorithmic Learning, Privacy, and Security]({{ site.baseurl }}/alps) (ALPS) Lab. The overarching goal of my research is to maximize the practical impact of artificial intelligence (AI) by bridging technological advances and transformative applications. To this end, my recent work focuses on improving AI technologies along three major thrusts:
  * Security Assurance -- *resilient against malicious manipulations*
  * Privacy Preservation -- *respectful for individual privacy*
  * Decision-Making Transparency -- *interpretable to human perception*
 
-I received my doctoral degree from Georgia Tech and finished my undergrad study at Zhejiang University (China).
+I obtained my doctoral degree from Georgia Tech and completed my undergrad study at Zhejiang University (China).
 
 
 <hr>
@@ -93,8 +93,8 @@ I received my doctoral degree from Georgia Tech and finished my undergrad study 
 ### Contact Information
 
 <ul style="list-style-type:none">
-	<li>📩 ting@psu.edu (or inbox.ting@gmail.com)</li>
-	<li>📞 1 (814) 865-0988 </li>
+	<li>📩 twang@cs.stonybrook.edu (or inbox.ting@gmail.com)</li>
+	<li>📞 TBA </li>
 	<li>📪 E369 Westgate Building, University Park, PA 16802</li>
 </ul>
 
