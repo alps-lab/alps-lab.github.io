@@ -95,7 +95,7 @@ I obtained my doctoral degree from Georgia Tech and completed my undergrad study
 <ul style="list-style-type:none">
 	<li>📩 twang@cs.stonybrook.edu (or inbox.ting@gmail.com)</li>
 	<li>📞 TBA </li>
-	<li>📪 E369 Westgate Building, University Park, PA 16802</li>
+	<li>📪 New Computer Science Building Room 154, Stony Brook University, NY 11794 </li>
 </ul>
 
 <hr>
