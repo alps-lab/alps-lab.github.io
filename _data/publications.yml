@@ -1,0 +1,99 @@
+main:
+
+
+  - title: "Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks"
+    authors: Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang
+    conference_short: NeurIPS
+    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://neurips.cc/virtual/2023/poster/72193
+    image: ./assets/img/teaser-mdp.png
+
+  - title: "Do Imperceptible Perturbations Really Prevent Unauthorized Data Usage in Diffusion-based Image Generation Systems?"
+    authors: Bochuan Cao, Changjiang Li, Ting Wang, Jinyuan Jia, Bo Li, Jinghui Chen
+    conference_short: NeurIPS
+    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://neurips.cc/virtual/2023/poster/71661
+    image: ./assets/img/teaser-impress.png
+
+  - title: "UniT: A Unified Look at Certified Robust Training against Text Adversarial Perturbation"
+    authors: Muchao Ye, Ziyi Yin, Tianrong Zhang, Tianyu Du, Jinghui Chen, Ting Wang, Fenglong Ma
+    conference_short: NeurIPS
+    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://neurips.cc/virtual/2023/poster/70465
+    image: ./assets/img/teaser-unit.png
+
+
+  - title: "VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models"
+    authors: Ziyi Yin, Muchao Ye, Tianrong Zhang, Tianyu Du, Jinguo Zhu, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma
+    conference_short: NeurIPS
+    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://neurips.cc/virtual/2023/poster/70371
+    image: ./assets/img/teaser-vlattack.png
+
+
+  - title: "An Embarrassingly Simple Backdoor Attack on Self-supervised Learning"
+    authors: Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Shouling Ji, Yuan Yao, Ting Wang
+    conference_short: ICCV
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2210.07346.pdf
+    code: https://github.com/meet-cjli/CTRL
+    image: ./assets/img/teaser-ctrl.png
+
+  - title: "The Dark Side of AutoML: Towards Architectural Backdoor Search"
+    authors: Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, Ting Wang
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.
+    pdf: https://openreview.net/pdf?id=bsZULlDGXe
+    code: https://github.com/ain-soph/nas_backdoor
+    image: ./assets/img/teaser-evas.png
+
+  - title: "AutoML in the Wild: Obstacles, Workarounds, and Expectations"
+    authors: Yuan Sun, Qiurong Song, Xinning Gui, Fenglong Ma, Ting Wang
+    conference_short: CHI
+    conference: ACM CHI Conference on Human Factors in Computing Systems <strong>(CHI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2302.10827
+    notes: Best Paper Honorable Mention Award
+    image: ./assets/img/teaser-wild.png
+
+  - title: "On the Security Risks of Knowledge Graph Reasoning"
+    authors: Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang
+    conference_short: USENIX
+    conference: USENIX Security Symposium <strong>(Security)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2305.02383.pdf
+    code: https://github.com/zhaohan-xi/security-risk-KG-reasoning
+    image: ./assets/img/teaser-roar.png
+
+  - title: "FreeEagle: Detecting Complex Neural Trojans in Data-Free Cases"
+    authors: Chong Fu, Xuhong Zhang, Shouling Ji, Ting Wang, Peng Lin, Yanghe Feng, Jianwei Yin
+    conference_short: USENIX
+    conference: USENIX Security Symposium <strong>(Security)</strong>, 2023.
+    pdf: https://www.usenix.org/system/files/sec23fall-prepub-85-fu-chong.pdf
+    code: https://github.com/FuChong-cyber/Data-Free-Neural-Backdoor-Detector-FreeEagle
+    image: ./assets/img/teaser-freeagle.png
+
+  - title: "AIRS: Explanation for Deep Reinforcement Learning based Security Applications"
+    authors: Jiahao Yu, Wenbo Guo, Qi Qin, Gang Wang, Ting Wang, Xinyu Xing
+    conference_short: USENIX
+    conference: USENIX Security Symposium  <strong>(Security)</strong>, 2023.
+    pdf: https://www.usenix.org/system/files/usenixsecurity23-yu-jiahao.pdf
+    image: ./assets/img/teaser-airs.png
+
+  - title: "Demystifying DeFi MEV Activities in Flashbots Bundle"
+    authors: Zihao Li, Jianfeng Li, Zheyuan He, Xiapu Luo, Ting Wang, Xiaoze Ni, Wenwu Yang, Xi Chen, Ting Chen
+    conference_short: CCS
+    conference: ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2023.
+    image: ./assets/img/teaser-actcluster.png
+
+  - title: "Certified Edge Unlearning for Graph Neural Networks"
+    authors: Kun Wu, Jie Shen, Yue Ning, Ting Wang, Wendy Hui Wang
+    conference_short: KDD
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3580305.3599271
+    image: ./assets/img/teaser-ceu.png
+
+  - title: "PAT: Geometry-Aware Hard-Label Black-Box Adversarial Attacks on Text"
+    authors: Muchao Ye, Jinghui Chen, Chenglin Miao, Han Liu, Ting Wang, Fenglong Ma
+    conference_short: KDD
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3580305.3599461
+    image: ./assets/img/teaser-pat.png
