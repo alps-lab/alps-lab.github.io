@@ -28,7 +28,7 @@ ArXiv e-prints, 2018
 Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang <br>
 The 2023 Annual Conference on Neural Information Processing Systems *(NeurIPS)*
 
-* [Do Imperceptible Perturbations Really Prevent Unauthorized Data Usage in Diffusion-based Image Generation Systems?](https://neurips.cc/virtual/2023/poster/71661) <br>
+* [IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI](https://neurips.cc/virtual/2023/poster/71661) <br>
 Bochuan Cao, Changjiang Li, Ting Wang, Jinyuan Jia, Bo Li, Jinghui Chen <br>
 The 2023 Annual Conference on Neural Information Processing Systems *(NeurIPS)*
 
