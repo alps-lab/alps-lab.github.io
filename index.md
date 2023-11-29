@@ -6,9 +6,9 @@ layout: homepage
 
 I am Associate Professor and Empire Innovation Scholar in the Department of Computer Science at Stony Brook University. I conduct research at the interface of machine learning, privacy, and security. My overarching goal is to amplify the real-world impact of artificial intelligence (AI) by bridging technological advances with transformative applications. To this end, my recent work focuses on improving AI technologies along three major thrusts:
 
-* *Security Assurance* -- resilient against malicious manipulations
-* *Privacy Preservation* -- respectful for individual privacy
-* *Decision-Making Transparency* -- interpretable to human perception
+* Security Assurance -- resilient against malicious manipulations
+* Privacy Preservation -- respectful for individual privacy
+* Decision-Making Transparency -- interpretable to human perception
 
 Before joining Stony Brook, I was Associate Professor in the College of IST at Penn State. I finished my Ph.D. at Georgia Tech and my undergrad study at Zhejiang University.
 
