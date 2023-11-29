@@ -41,7 +41,7 @@ The 2023 Annual Conference on Neural Information Processing Systems *(NeurIPS)*
 Ziyi Yin, Muchao Ye, Tianrong Zhang, Tianyu Du, Jinguo Zhu, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma <br>
 The 2023 Annual Conference on Neural Information Processing Systems *(NeurIPS)*
 
-*  [An Embarrassingly Simple Backdoor Attack on Self-supervised Learning](https://arxiv.org/pdf/2210.07346.pdf)<br>
+* [An Embarrassingly Simple Backdoor Attack on Self-supervised Learning](https://arxiv.org/pdf/2210.07346.pdf)<br>
 Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Shouling Ji, Yuan Yao, Ting Wang<br>
 The 2023 International Conference on Computer Vision *(ICCV)*
 
@@ -114,12 +114,12 @@ The 31st USENIX Security Symposium *(USENIX)*
 Yuyou Gan, Yuhao Mao, Xuhong Zhang, Shouling Ji, Yuwen Pu, Meng Han, Jianwei Yin, Ting Wang<br>
 The 29th ACM Conference on Computer and Communications Security *(CCS)*
 
-* [Transfer Attacks Revisited: A Large-Scale Empirical Study in Real Computer Vision Settings](https://arxiv.org/pdf/2204.04063)]<br>
+* [Transfer Attacks Revisited: A Large-Scale Empirical Study in Real Computer Vision Settings](https://arxiv.org/pdf/2204.04063)<br>
 Yuhao Mao, Chong Fu, Saizhuo Wang, Shouling Ji, Xuhong Zhang, Zhenguang Liu, Jun Zhou, Alex X. Liu, Raheem Beyah, Ting Wang<br>
 The 43rd IEEE Symposium on Security and Privacy *(S&P)*
 
 
-* [An Invisible Black-box Backdoor Attack through Frequency Domain](https://arxiv.org/pdf/2111.10991)]<br>
+* [An Invisible Black-box Backdoor Attack through Frequency Domain](https://arxiv.org/pdf/2111.10991)<br>
  Tong Wang, Yuan Yao, Feng Xu, Shengwei An, Hanghang Tong, Ting Wang<br>
 The 17th European Conference on Computer Vision *(ECCV)*
 
