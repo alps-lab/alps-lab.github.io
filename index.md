@@ -31,7 +31,7 @@ I lead the <ins>A</ins>lgorithmic <ins>L</ins>earning, <ins>P</ins>rivacy, and <
 **Alumni --** [Tianyu Du](https://tydusky.github.io/) (>> Assistant Professor@Zhejiang University), [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) (>> Research Scientist@Adobe), [Tinghao Xie](https://tinghaoxie.com/) (>> Ph.D.@Princeton), [Zheng Zhang](https://secantzhang.github.io) (>> Ph.D.@Northwestern), [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) (>> Ph.D.@UC Irvine), [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) (>> Software Engineer@Amazon), [Sam Nguyen](https://www.linkedin.com/in/chanhnp) (>> Machine Learning Engineer@LLNL), [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (>> Software Engineer@Bloomberg)
 
 
-**<font color="Red">Join Us!</font>**  We are ALWAYS looking for motivated and bright (under)grad students and postdocs. If you know how to build/hack AI systems, we should talk! Please email me your resume and set up a time to discuss your potential fit to our team.
+**Join Us! --**  We are ALWAYS looking for motivated and bright (under)grad students and postdocs. If you know how to build/hack AI systems, we should talk! Please email me your resume and set up a time to discuss your potential fit to our team.
 
 
 {% include_relative _includes/publications.md %}
