@@ -8,7 +8,7 @@ main:
     pdf: https://neurips.cc/virtual/2023/poster/72193
     image: ./assets/img/teaser-mdp.png
 
-  - title: "Do Imperceptible Perturbations Really Prevent Unauthorized Data Usage in Diffusion-based Image Generation Systems?"
+  - title: "IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI"  
     authors: Bochuan Cao, Changjiang Li, Ting Wang, Jinyuan Jia, Bo Li, Jinghui Chen
     conference_short: NeurIPS
     conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
