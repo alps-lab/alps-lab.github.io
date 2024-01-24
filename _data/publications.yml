@@ -1,6 +1,47 @@
 main:
 
+  - title: "On the Difficulty of Defending Contrastive Learning against Backdoor Attacks"
+    authors: Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang
+    conference_short: USENIX
+    conference: USENIX Security Symposium <strong>(Security)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2312.09057.pdf
 
+  - title: "Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention"
+    authors: Lujia Shen, Yuwen Pu, Shouling Ji, Changjiang Li, Xuhong Zhang, Chunpeng Ge, Ting Wang
+    conference_short: NDSS
+    conference: USENIX Security Symposium <strong>(NDSS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2311.17400.pdf
+
+  - title: "Generative AI in the Wild: Prospects, Challenges, and Strategies"
+    authors: Yuan Sun, Eunchae Jang, Fenglong Ma, Ting Wang
+    conference_short: CHI
+    conference: ACM CHI Conference on Human Factors in Computing Systems <strong>(CHI)</strong>, 2024.
+    pdf: 
+
+  - title: "ReMasker: Imputing Tabular Data with Masked Autoencoding"
+    authors: Tianyu Du, Luca Melis, Ting Wang
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2309.13793.pdf
+    code: https://github.com/tydusky/remasker
+
+  - title: "Backdoor Contrastive Learning via Bi-level Trigger Optimization"
+    authors: Weiyu Sun, Xinyu Zhang, Hao Lu, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://openreview.net/pdf?id=oxjeePpgSP
+
+  - title: "VQAttack: Transferable Adversarial Attacks on Visual Question Answering via Pre-trained Models"
+    authors: Ziyi Yin, Muchao Ye, Tianrong Zhang, Jiaqi Wang, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    pdf: 
+
+  - title: "Inspecting Prediction Confidence for Detecting Black-box Backdoor Attacks"
+    authors: Tong Wang, Yuan Yao, Feng Xu, Miao Xu, Shengwei An, Ting Wang
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    pdf: 
   - title: "Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks"
     authors: Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang
     conference_short: NeurIPS
