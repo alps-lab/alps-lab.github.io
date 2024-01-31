@@ -51,60 +51,58 @@ AAAI Conference on Artificial Intelligence  (AAAI'24)
 
 #### 2023
 
-
 * [Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks](https://neurips.cc/virtual/2023/poster/72193) <br>
 Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang <br>
-The 2023 Annual Conference on Neural Information Processing Systems *(NeurIPS)*
+Annual Conference on Neural Information Processing Systems (NeurIPS'23)
 
 * [IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI](https://neurips.cc/virtual/2023/poster/71661) <br>
 Bochuan Cao, Changjiang Li, Ting Wang, Jinyuan Jia, Bo Li, Jinghui Chen <br>
-The 2023 Annual Conference on Neural Information Processing Systems *(NeurIPS)*
-
+Annual Conference on Neural Information Processing Systems (NeurIPS'23)
 
 * [UniT: A Unified Look at Certified Robust Training against Text Adversarial Perturbation](https://neurips.cc/virtual/2023/poster/70465) <br>
 Muchao Ye, Ziyi Yin, Tianrong Zhang, Tianyu Du, Jinghui Chen, Ting Wang, Fenglong Ma <br>
-The 2023 Annual Conference on Neural Information Processing Systems *(NeurIPS)*
+Annual Conference on Neural Information Processing Systems (NeurIPS'23)
 
 * [VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models](https://neurips.cc/virtual/2023/poster/70371) <br>
 Ziyi Yin, Muchao Ye, Tianrong Zhang, Tianyu Du, Jinguo Zhu, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma <br>
-The 2023 Annual Conference on Neural Information Processing Systems *(NeurIPS)*
+Annual Conference on Neural Information Processing Systems (NeurIPS'23)
 
 * [An Embarrassingly Simple Backdoor Attack on Self-supervised Learning](https://arxiv.org/pdf/2210.07346.pdf)<br>
 Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Shouling Ji, Yuan Yao, Ting Wang<br>
-The 2023 International Conference on Computer Vision *(ICCV)*
+International Conference on Computer Vision (ICCV'23)
 
 *  [The Dark Side of AutoML: Towards Architectural Backdoor Search](https://openreview.net/pdf?id=bsZULlDGXe)<br>
 Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, Ting Wang<br>
-The 11th International Conference on Learning Representations *(ICLR)*
+International Conference on Learning Representations (ICLR'23)
 
 * [AutoML in the Wild: Obstacles, Workarounds, and Expectations](https://arxiv.org/pdf/2302.10827)<br>
 Yuan Sun, Qiurong Song, Xinning Gui, Fenglong Ma, Ting Wang<br>
-The 2023 ACM CHI Conference on Human Factors in Computing Systems *(CHI)*<br>
+ACM CHI Conference on Human Factors in Computing Systems (CHI'23)<br>
 🏅<font color="red">Honorable Mention Award
 
 *  [On the Security Risks of Knowledge Graph Reasoning](https://arxiv.org/pdf/2305.02383.pdf)<br>
 Zhaohan Xi, 'Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Xiapu Luo, Xusheng Xiao, Fenglong Ma, Ting Wang<br>
-The 32nd USENIX Security Symposium *(USENIX)*
+USENIX Security Symposium (USENIX'23)
 
 *  [FreeEagle: Detecting Complex Neural Trojans in Data-Free Cases](https://www.usenix.org/system/files/sec23fall-prepub-85-fu-chong.pdf)<br>
 Chong Fu, Xuhong Zhang, Shouling Ji, Ting Wang, Peng Lin, Yanghe Feng, Jianwei Yin<br>
-The 32nd USENIX Security Symposium *(USENIX)*
+USENIX Security Symposium (USENIX'23)
 
 *  [AIRS: Explanation for Deep Reinforcement Learning based Security Applications](https://www.usenix.org/system/files/usenixsecurity23-yu-jiahao.pdf)<br>
 Jiahao Yu, Wenbo Guo, Qi Qin, Gang Wang, Ting Wang, Xinyu Xing<br>
-The 32nd USENIX Security Symposium *(USENIX)*
+USENIX Security Symposium (USENIX'23)
 
 *  [Certified Edge Unlearning for Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3580305.3599271) <br>
 Kun Wu, Jie Shen, Yue Ning, Ting Wang, Wendy Hui Wang<br>
-The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining *(KDD)*
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23)
 
 *  [PAT: Geometry-Aware Hard-Label Black-Box Adversarial Attacks on Text](https://dl.acm.org/doi/pdf/10.1145/3580305.3599461) <br>
 Muchao Ye, Jinghui Chen, Chenglin Miao, Han Liu, Ting Wang, Fenglong Ma<br>
-The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining *(KDD)*
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23)
 
 *  [Demystifying DeFi MEV Activities in Flashbots Bundle]()<br>
 Zihao Li, Jianfeng Li, Zheyuan He, Xiapu Luo, Ting Wang, Xiaoze Ni, Wenwu Yang, Xi Chen, Ting Chen<br>
-The 30th ACM Conference on Computer and Communications Security *(CCS)*
+ACM Conference on Computer and Communications Security (CCS'23)
 
 <hr>
 
