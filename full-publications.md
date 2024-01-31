@@ -11,13 +11,41 @@ layout: homepage
 Lauren Hong, Ting Wang <br>
 ArXiv e-prints, 2023
 
-*  [ReMasker: Imputing Tabular Data with Masked Autoencoding](https://arxiv.org/pdf/2309.13793.pdf) [[code](https://github.com/tydusky/remasker)] <br>
-Tianyu Du, Luca Melis, Ting Wang <br>
-ArXiv e-prints, 2023
-
 * [Differentially Private Releasing via Deep Generative Models](https://arxiv.org/abs/1801.01594) [[code](https://github.com/alps-lab/dpgan)] <br>
 Xinyang Zhang, Shouling Ji, Ting Wang<br>
 ArXiv e-prints, 2018
+
+<hr>
+
+#### 2024
+
+* [On the Difficulty of Defending Contrastive Learning against Backdoor Attacks](https://arxiv.org/pdf/2312.09057.pdf) <br>
+Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang <br>
+USENIX Security Symposium (Security'24)
+
+* [Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention](https://arxiv.org/pdf/2311.17400.pdf) <br>
+Lujia Shen, Yuwen Pu, Shouling Ji, Changjiang Li, Xuhong Zhang, Chunpeng Ge, Ting Wang <br>
+Network and Distributed System Security Symposium (NDSS'24)
+
+* [Generative AI in the Wild: Prospects, Challenges, and Strategies]() <br>
+Yuan Sun, Eunchae Jang, Fenglong Ma, Ting Wang <br>
+ACM CHI Conference on Human Factors in Computing Systems (CHI'24)
+
+*  [ReMasker: Imputing Tabular Data with Masked Autoencoding](https://arxiv.org/pdf/2309.13793.pdf) [[code](https://github.com/tydusky/remasker)] <br>
+Tianyu Du, Luca Melis, Ting Wang <br>
+International Conference on Learning Representations (ICLR'24)
+
+* [Backdoor Contrastive Learning via Bi-level Trigger Optimization](https://openreview.net/pdf?id=oxjeePpgSP) <br>
+Weiyu Sun, Xinyu Zhang, Hao Lu, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin <br>
+International Conference on Learning Representations (ICLR'24)
+
+* [VQAttack: Transferable Adversarial Attacks on Visual Question Answering via Pre-trained Models]() <br>
+Ziyi Yin, Muchao Ye, Tianrong Zhang, Jiaqi Wang, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma <br>
+AAAI Conference on Artificial Intelligence  (AAAI'24)
+
+* [Inspecting Prediction Confidence for Detecting Black-box Backdoor Attacks]() <br>
+Tong Wang, Yuan Yao, Feng Xu, Miao Xu, Shengwei An, Ting Wang <br>
+AAAI Conference on Artificial Intelligence  (AAAI'24)
 
 <hr>
 
