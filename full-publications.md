@@ -27,6 +27,10 @@ USENIX Security Symposium (Security'24)
 Lujia Shen, Yuwen Pu, Shouling Ji, Changjiang Li, Xuhong Zhang, Chunpeng Ge, Ting Wang <br>
 Network and Distributed System Security Symposium (NDSS'24)
 
+* [Model Extraction Attacks Revisited]() <br>
+Jiacheng Liang, Ren Pang, Changjiang Li, Ting Wang <br>
+ACM ASIA Conference on Computer and Communications Security (ASIACCS'24)
+
 * [Generative AI in the Wild: Prospects, Challenges, and Strategies]() <br>
 Yuan Sun, Eunchae Jang, Fenglong Ma, Ting Wang <br>
 ACM CHI Conference on Human Factors in Computing Systems (CHI'24)
@@ -38,6 +42,10 @@ International Conference on Learning Representations (ICLR'24)
 * [Backdoor Contrastive Learning via Bi-level Trigger Optimization](https://openreview.net/pdf?id=oxjeePpgSP) <br>
 Weiyu Sun, Xinyu Zhang, Hao Lu, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin <br>
 International Conference on Learning Representations (ICLR'24)
+
+* [PromptFix: Few-shot Backdoor Removal via Adversarial Prompt Tuning]() <br>
+Tianrong Zhang, Zhaohan Xi, Prasenjit Mitra, Ting Wang, Jinghui Chen <br> 
+Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'24)
 
 * [VQAttack: Transferable Adversarial Attacks on Visual Question Answering via Pre-trained Models]() <br>
 Ziyi Yin, Muchao Ye, Tianrong Zhang, Jiaqi Wang, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma <br>
