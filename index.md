@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Associate Professor and Empire Innovation Scholar in the Department of Computer Science at Stony Brook University. I conduct research at the interface of machine learning, privacy, and security, and aim to develop safe and trustworthy artificial intelligence (AI) technologies. Specifically, my recent work focuses on improving AI methods and systems along three major thrusts:
+I am Associate Professor and Empire Innovation Scholar in the Department of Computer Science at Stony Brook University. I conduct research at the interface of machine learning, privacy and security, and aim to develop safe and trustworthy artificial intelligence (AI) technologies. Specifically, my recent work focuses on improving AI methods and systems along three major thrusts:
 
 * Security Assurance -- resilient against malicious manipulations
 * Privacy Preservation -- respectful for individual privacy
