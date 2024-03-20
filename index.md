@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Associate Professor and Empire Innovation Scholar in the Department of Computer Science at Stony Brook University. I conduct research at the interface of machine learning, privacy, and security. My overarching goal is to amplify the real-world impact of artificial intelligence (AI) by bridging technological advances with transformative applications. To this end, my recent work focuses on improving AI technologies along three major thrusts:
+I am Associate Professor and Empire Innovation Scholar in the Department of Computer Science at Stony Brook University. I conduct research at the interface of machine learning, privacy, and security. I aim to develop safe and trustworthy artificial intelligence (AI) technologies. Specifically, my recent work focuses on improving AI methods and systems along three major thrusts:
 
 * Security Assurance -- resilient against malicious manipulations
 * Privacy Preservation -- respectful for individual privacy
@@ -25,10 +25,10 @@ Before joining Stony Brook, I was Associate Professor in the College of IST at P
 
 I lead the <ins>A</ins>lgorithmic <ins>L</ins>earning, <ins>P</ins>rivacy, and <ins>S</ins>ecurity (ALPS) lab, where I am privileged to work alongside a team of exceptional talents, both in the past and present:
 
-**Current Members --** [Ren Pang](https://ain-soph.github.io/), [Changjiang Li](https://ist.psu.edu/directory/cbl5583), [Zhaohan Xi](https://ist.psu.edu/directory/zxx5113), [Jiacheng Liang](https://ist.psu.edu/directory/jkl6486), [Tanqiu Jiang](https://tanqiujiang.github.io/), [Ziyi Yin](https://ist.psu.edu/directory/zmy5171) (co-supervised with Fenglong Ma), [Lauren Hong]()
+**Current Members --** [Ren Pang](https://ain-soph.github.io/), [Changjiang Li](https://ist.psu.edu/directory/cbl5583), [Jiacheng Liang](https://ist.psu.edu/directory/jkl6486), [Tanqiu Jiang](https://tanqiujiang.github.io/), [Ziyi Yin](https://ist.psu.edu/directory/zmy5171) (co-supervised with Fenglong Ma), [Zian Wang](), [Lauren Hong]()
 
 
-**Alumni --** [Tianyu Du](https://tydusky.github.io/) (>> Assistant Professor@Zhejiang University), [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) (>> Research Scientist@Adobe), [Tinghao Xie](https://tinghaoxie.com/) (>> Ph.D.@Princeton), [Zheng Zhang](https://secantzhang.github.io) (>> Ph.D.@Northwestern), [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) (>> Ph.D.@UC Irvine), [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) (>> Software Engineer@Amazon), [Sam Nguyen](https://www.linkedin.com/in/chanhnp) (>> Machine Learning Engineer@LLNL), [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (>> Software Engineer@Bloomberg)
+**Alumni --** [Tianyu Du](https://tydusky.github.io/) (>> Assistant Professor@Zhejiang University), [Zhaohan Xi](https://zhaohan-xi.github.io/) (>> Assistant Professor@Binghamton University), [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) (>> Senior Engineer@Google), [Tinghao Xie](https://tinghaoxie.com/) (>> Ph.D.@Princeton), [Zheng Zhang](https://secantzhang.github.io) (>> Ph.D.@Northwestern), [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) (>> Ph.D.@UC Irvine), [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) (>> Software Engineer@Amazon), [Sam Nguyen](https://www.linkedin.com/in/chanhnp) (>> Machine Learning Engineer@LLNL), [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (>> Software Engineer@Bloomberg)
 
 
 **Join Us! --**  We are ALWAYS looking for motivated and bright (under)grad students and postdocs. If you know how to build/hack AI systems, we should talk! Please email me your resume and set up a time to discuss your potential fit to our team.
