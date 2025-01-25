@@ -25,7 +25,7 @@ Before joining Stony Brook, I was Associate Professor in the College of IST at P
 
 I lead the <ins>A</ins>lgorithmic <ins>L</ins>earning, <ins>P</ins>rivacy, and <ins>S</ins>ecurity (ALPS) lab, where I am privileged to work alongside a team of exceptional talents, both in the past and present:
 
-**Current Members --** , [Changjiang Li](https://ist.psu.edu/directory/cbl5583), [Jiacheng Liang](https://ist.psu.edu/directory/jkl6486), [Tanqiu Jiang](https://tanqiujiang.github.io/), [Ziyi Yin](https://ist.psu.edu/directory/zmy5171) (co-supervised with Fenglong Ma), [Zian Wang](), [Lauren Hong]()
+**Current Members --** [Changjiang Li](https://ist.psu.edu/directory/cbl5583), [Jiacheng Liang](https://ist.psu.edu/directory/jkl6486), [Tanqiu Jiang](https://tanqiujiang.github.io/), [Yuhui Wang](https://scholar.google.com/citations?user=eJgbw-oAAAAJ&hl=en), [Rongyi Zhu](https://scholar.google.com/citations?user=MA1MmFAAAAAJ&hl=zh-CN), [Ziyi Yin](https://ist.psu.edu/directory/zmy5171) (co-supervised with Fenglong Ma), [Zian Wang](https://zianwang.com/) 
 
 
 **Alumni --** [Ren Pang](https://ain-soph.github.io/) (>> Amazon), [Tianyu Du](https://tydusky.github.io/) (>> Zhejiang University), [Zhaohan Xi](https://zhaohan-xi.github.io/) (>> Binghamton University), [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) (>> Amazon), [Tinghao Xie](https://tinghaoxie.com/) (>> Princeton), [Zheng Zhang](https://secantzhang.github.io) (>> Northwestern), [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) (>> Meta), [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) (>> Amazon), [Sam Nguyen](https://www.linkedin.com/in/chanhnp) (>> Google), [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (>> Bloomberg)
