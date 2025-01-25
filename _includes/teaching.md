@@ -2,7 +2,7 @@
 
 <h4 style="margin:0 10px 0;">Stony Brook</h4>
 
-* [Adversarial Machine Learning]({{ site.baseurl }}/teaching/cse590) (Spring 2024)
+* Adversarial Machine Learning ([Spring 2024]({{ site.baseurl }}/teaching/cse590-2024), [Spring 2025]({{ site.baseurl }}/teaching/cse590-2025))
 
 <h4 style="margin:0 10px 0;">Penn State</h4>
 

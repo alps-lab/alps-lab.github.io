@@ -17,6 +17,25 @@ ArXiv e-prints, 2018
 
 <hr>
 
+#### 2025 
+
+* [Watch the Watchers! On the Security Risks of Robustness-Enhancing Diffusion Models](https://arxiv.org/pdf/2406.09669) <br>
+Changjiang Li, Ren Pang, Bochuan Cao, Jinghui Chen, Fenglong Ma, Shouling Ji, Ting Wang <br>
+USENIX Security Symposium (USENIX'25)
+
+* [RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://openreview.net/pdf?id=L5godAOC2z)
+Tanqiu Jiang, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang <br>
+International Conference on Learning Representations (ICLR'25)
+
+* [RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models](https://openreview.net/pdf?id=txZVQRc2ab)
+Tanqiu Jiang, Changjiang Li, Fenglong Ma, Ting Wang <br>
+International Conference on Learning Representations (ICLR'25)
+
+* [SongBsAb: A Dual Prevention Approach against Singing Voice Conversion based Illegal Song Covers](https://arxiv.org/pdf/2401.17133) <br>
+Guangke Chen, Yedi Zhang, Fu Song, Ting Wang, Xiaoning Du, Yang Liu <br>
+Network and Distributed System Security Symposium (NDSS'25)
+
+
 #### 2024
 
 * [On the Difficulty of Defending Contrastive Learning against Backdoor Attacks](https://arxiv.org/pdf/2312.09057.pdf) <br>
@@ -27,11 +46,11 @@ USENIX Security Symposium (Security'24)
 Lujia Shen, Yuwen Pu, Shouling Ji, Changjiang Li, Xuhong Zhang, Chunpeng Ge, Ting Wang <br>
 Network and Distributed System Security Symposium (NDSS'24)
 
-* [Model Extraction Attacks Revisited]() <br>
+* [Model Extraction Attacks Revisited](https://arxiv.org/pdf/2312.05386) <br>
 Jiacheng Liang, Ren Pang, Changjiang Li, Ting Wang <br>
 ACM ASIA Conference on Computer and Communications Security (ASIACCS'24)
 
-* [Generative AI in the Wild: Prospects, Challenges, and Strategies]() <br>
+* [Generative AI in the Wild: Prospects, Challenges, and Strategies](https://arxiv.org/pdf/2404.04101) <br>
 Yuan Sun, Eunchae Jang, Fenglong Ma, Ting Wang <br>
 ACM CHI Conference on Human Factors in Computing Systems (CHI'24)
 
@@ -43,15 +62,19 @@ International Conference on Learning Representations (ICLR'24)
 Weiyu Sun, Xinyu Zhang, Hao Lu, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin <br>
 International Conference on Learning Representations (ICLR'24)
 
-* [PromptFix: Few-shot Backdoor Removal via Adversarial Prompt Tuning]() <br>
+* [BIPEFT: Budget-Guided Iterative Search for Parameter Efficient Fine-Tuning of Large Pretrained Language Models](https://arxiv.org/pdf/2410.09079) <br>
+Aofei Chang, Jiaqi Wang, Han Liu, Parminder Bhatia, Cao Xiao, Ting Wang, Fenglong Ma <br>
+Conference on Empirical Methods in Natural Language Processing (EMNLP'24)
+
+* [PromptFix: Few-shot Backdoor Removal via Adversarial Prompt Tuning](https://arxiv.org/pdf/2406.04478) <br>
 Tianrong Zhang, Zhaohan Xi, Prasenjit Mitra, Ting Wang, Jinghui Chen <br> 
 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'24)
 
-* [VQAttack: Transferable Adversarial Attacks on Visual Question Answering via Pre-trained Models]() <br>
+* [VQAttack: Transferable Adversarial Attacks on Visual Question Answering via Pre-trained Models](https://arxiv.org/pdf/2402.11083) <br>
 Ziyi Yin, Muchao Ye, Tianrong Zhang, Jiaqi Wang, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma <br>
 AAAI Conference on Artificial Intelligence  (AAAI'24)
 
-* [Inspecting Prediction Confidence for Detecting Black-box Backdoor Attacks]() <br>
+* [Inspecting Prediction Confidence for Detecting Black-box Backdoor Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/27780/27597) <br>
 Tong Wang, Yuan Yao, Feng Xu, Miao Xu, Shengwei An, Ting Wang <br>
 AAAI Conference on Artificial Intelligence  (AAAI'24)
 

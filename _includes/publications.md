@@ -55,39 +55,19 @@
 </div> -->
 
 
-* [On the Difficulty of Defending Contrastive Learning against Backdoor Attacks](https://arxiv.org/pdf/2312.09057.pdf) <br>
-Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang <br>
-USENIX Security Symposium (USENIX'24)
+* [Watch the Watchers! On the Security Risks of Robustness-Enhancing Diffusion Models](https://arxiv.org/pdf/2406.09669) <br>
+Changjiang Li, Ren Pang, Bochuan Cao, Jinghui Chen, Fenglong Ma, Shouling Ji, Ting Wang <br>
+USENIX Security Symposium (USENIX'25)
 
-* [Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention](https://arxiv.org/pdf/2311.17400.pdf) <br>
-Lujia Shen, Yuwen Pu, Shouling Ji, Changjiang Li, Xuhong Zhang, Chunpeng Ge, Ting Wang <br>
-Network and Distributed System Security Symposium (NDSS'24)
+* [RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://openreview.net/pdf?id=L5godAOC2z)
+Tanqiu Jiang, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang <br>
+International Conference on Learning Representations (ICLR'25)
 
-* [Model Extraction Attacks Revisited]() <br>
-Jiacheng Liang, Ren Pang, Changjiang Li, Ting Wang <br>
-ACM ASIA Conference on Computer and Communications Security (ASIACCS'24)
+* [RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models](https://openreview.net/pdf?id=txZVQRc2ab)
+Tanqiu Jiang, Changjiang Li, Fenglong Ma, Ting Wang <br>
+International Conference on Learning Representations (ICLR'25)
 
-* [Generative AI in the Wild: Prospects, Challenges, and Strategies]() <br>
-Yuan Sun, Eunchae Jang, Fenglong Ma, Ting Wang <br>
-ACM CHI Conference on Human Factors in Computing Systems (CHI'24)
-
-*  [ReMasker: Imputing Tabular Data with Masked Autoencoding](https://arxiv.org/pdf/2309.13793.pdf) [[code](https://github.com/tydusky/remasker)] <br>
-Tianyu Du, Luca Melis, Ting Wang <br>
-International Conference on Learning Representations (ICLR'24)
-
-* [Backdoor Contrastive Learning via Bi-level Trigger Optimization](https://openreview.net/pdf?id=oxjeePpgSP) <br>
-Weiyu Sun, Xinyu Zhang, Hao Lu, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin <br>
-International Conference on Learning Representations (ICLR'24)
-
-* [PromptFix: Few-shot Backdoor Removal via Adversarial Prompt Tuning]() <br>
-Tianrong Zhang, Zhaohan Xi, Prasenjit Mitra, Ting Wang, Jinghui Chen <br> 
-Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'24)
-
-* [VQAttack: Transferable Adversarial Attacks on Visual Question Answering via Pre-trained Models]() <br>
-Ziyi Yin, Muchao Ye, Tianrong Zhang, Jiaqi Wang, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma <br>
-AAAI Conference on Artificial Intelligence  (AAAI'24)
-
-* [Inspecting Prediction Confidence for Detecting Black-box Backdoor Attacks]() <br>
-Tong Wang, Yuan Yao, Feng Xu, Miao Xu, Shengwei An, Ting Wang <br>
-AAAI Conference on Artificial Intelligence  (AAAI'24)
+* [SongBsAb: A Dual Prevention Approach against Singing Voice Conversion based Illegal Song Covers](https://arxiv.org/pdf/2401.17133) <br>
+Guangke Chen, Yedi Zhang, Fu Song, Ting Wang, Xiaoning Du, Yang Liu <br>
+Network and Distributed System Security Symposium (NDSS'25)
 
