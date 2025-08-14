@@ -23,6 +23,10 @@ ArXiv e-prints, 2018
 Changjiang Li, Ren Pang, Bochuan Cao, Jinghui Chen, Fenglong Ma, Shouling Ji, Ting Wang <br>
 USENIX Security Symposium (USENIX'25)
 
+* [You Can't Steal Nothing: Mitigating Prompt Leakages in LLMs via System Vectors]() <br>
+Bochuan Cao, Yuanpu Cao, Changjiang Li, Yameng Ge, Ting Wang, Jinghui Chen <br>
+ACM Conference on Computer and Communications Security (CCS'25)
+
 * [RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://openreview.net/pdf?id=L5godAOC2z) <br>
 Tanqiu Jiang, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang <br>
 International Conference on Learning Representations (ICLR'25)
@@ -34,6 +38,11 @@ International Conference on Learning Representations (ICLR'25)
 * [SongBsAb: A Dual Prevention Approach against Singing Voice Conversion based Illegal Song Covers](https://arxiv.org/pdf/2401.17133) <br>
 Guangke Chen, Yedi Zhang, Fu Song, Ting Wang, Xiaoning Du, Yang Liu <br>
 Network and Distributed System Security Symposium (NDSS'25)
+
+* [Shadow-Activated Backdoor Attacks on Multimodal Large Language Models](https://openreview.net/pdf?id=bAtGYzxccD) <br>
+Ziyi Yin, Muchao Ye, Yuanpu Cao, Jiaqi Wang, Aofei Chang, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma <br>
+Annual Meeting of the Association for Computational Linguistics (ACL'25)
+
 
 <hr>
 

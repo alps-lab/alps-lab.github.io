@@ -59,6 +59,10 @@
 Changjiang Li, Ren Pang, Bochuan Cao, Jinghui Chen, Fenglong Ma, Shouling Ji, Ting Wang <br>
 USENIX Security Symposium (USENIX'25)
 
+* [You Can't Steal Nothing: Mitigating Prompt Leakages in LLMs via System Vectors]() <br>
+Bochuan Cao, Yuanpu Cao, Changjiang Li, Yameng Ge, Ting Wang, Jinghui Chen <br>
+ACM Conference on Computer and Communications Security (CCS'25)
+
 * [RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://openreview.net/pdf?id=L5godAOC2z) <br>
 Tanqiu Jiang, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang <br>
 International Conference on Learning Representations (ICLR'25)
