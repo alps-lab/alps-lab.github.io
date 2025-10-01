@@ -19,6 +19,11 @@ ArXiv e-prints, 2018
 
 #### 2025 
 
+* [GraphRAG under Fire!](https://arxiv.org/pdf/2501.14050) <br>
+Jiacheng Liang, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang <br>
+IEEE Symposium on Security and Privacy (S&P'26)
+
+
 * [Watch the Watchers! On the Security Risks of Robustness-Enhancing Diffusion Models](https://arxiv.org/pdf/2406.09669) <br>
 Changjiang Li, Ren Pang, Bochuan Cao, Jinghui Chen, Fenglong Ma, Shouling Ji, Ting Wang <br>
 USENIX Security Symposium (USENIX'25)
@@ -38,6 +43,10 @@ International Conference on Learning Representations (ICLR'25)
 * [SongBsAb: A Dual Prevention Approach against Singing Voice Conversion based Illegal Song Covers](https://arxiv.org/pdf/2401.17133) <br>
 Guangke Chen, Yedi Zhang, Fu Song, Ting Wang, Xiaoning Du, Yang Liu <br>
 Network and Distributed System Security Symposium (NDSS'25)
+
+* [Waterpark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org/pdf/2411.13425) <br>
+Jiacheng Liang, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang <br>
+The Conference on Empirical Methods in Natural Language Processing (EMNLP'25)
 
 * [Shadow-Activated Backdoor Attacks on Multimodal Large Language Models](https://openreview.net/pdf?id=bAtGYzxccD) <br>
 Ziyi Yin, Muchao Ye, Yuanpu Cao, Jiaqi Wang, Aofei Chang, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma <br>
