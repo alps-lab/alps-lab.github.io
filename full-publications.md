@@ -39,6 +39,7 @@ ACM CHI conference on Human Factors in Computing Systems (CHI'26)
 Aofei Chang, Ting Wang, Fenglong Ma <br>
 Annual AAAI Conference on Artificial Intelligence (AAAI'26)
 
+<hr>
 
 #### 2025 
 
@@ -50,6 +51,11 @@ USENIX Security Symposium (USENIX'25)
 Bochuan Cao, Yuanpu Cao, Changjiang Li, Yameng Ge, Ting Wang, Jinghui Chen <br>
 ACM Conference on Computer and Communications Security (CCS'25)
 
+
+* [SongBsAb: A Dual Prevention Approach against Singing Voice Conversion based Illegal Song Covers](https://arxiv.org/pdf/2401.17133) <br>
+Guangke Chen, Yedi Zhang, Fu Song, Ting Wang, Xiaoning Du, Yang Liu <br>
+Network and Distributed System Security Symposium (NDSS'25)
+
 * [RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://openreview.net/pdf?id=L5godAOC2z) <br>
 Tanqiu Jiang, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang <br>
 International Conference on Learning Representations (ICLR'25)
@@ -57,10 +63,6 @@ International Conference on Learning Representations (ICLR'25)
 * [RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models](https://openreview.net/pdf?id=txZVQRc2ab) <br>
 Tanqiu Jiang, Changjiang Li, Fenglong Ma, Ting Wang <br>
 International Conference on Learning Representations (ICLR'25)
-
-* [SongBsAb: A Dual Prevention Approach against Singing Voice Conversion based Illegal Song Covers](https://arxiv.org/pdf/2401.17133) <br>
-Guangke Chen, Yedi Zhang, Fu Song, Ting Wang, Xiaoning Du, Yang Liu <br>
-Network and Distributed System Security Symposium (NDSS'25)
 
 * [Waterpark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org/pdf/2411.13425) <br>
 Jiacheng Liang, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang <br>
