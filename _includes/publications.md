@@ -59,27 +59,20 @@
 Jiacheng Liang, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang <br>
 IEEE Symposium on Security and Privacy (S&P'26)
 
-* [Watch the Watchers! On the Security Risks of Robustness-Enhancing Diffusion Models](https://arxiv.org/pdf/2406.09669) <br>
-Changjiang Li, Ren Pang, Bochuan Cao, Jinghui Chen, Fenglong Ma, Shouling Ji, Ting Wang <br>
-USENIX Security Symposium (USENIX'25)
+* [Self-Destructive Language Models](https://arxiv.org/abs/2505.12186) <br>
+Yuhui Wang, Rongyi Zhu, Ting Wang <br>
+International Conference on Learning Representations (ICLR'26)
 
-* [You Can't Steal Nothing: Mitigating Prompt Leakages in LLMs via System Vectors]() <br>
-Bochuan Cao, Yuanpu Cao, Changjiang Li, Yameng Ge, Ting Wang, Jinghui Chen <br>
-ACM Conference on Computer and Communications Security (CCS'25)
+* [Reasoning or Retrieval? A Study of Answer Attribution on Large Reasoning Models](https://arxiv.org/abs/2509.24156) <br>
+Yuhui Wang, Changjiang Li, Guangke Chen, Jiacheng Liang, Ting Wang <br>
+International Conference on Learning Representations (ICLR'26)
 
-* [RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://openreview.net/pdf?id=L5godAOC2z) <br>
-Tanqiu Jiang, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang <br>
-International Conference on Learning Representations (ICLR'25)
+* [Be Friendly, Not Friends: How LLM Sycophancy Shapes User Trust](https://arxiv.org/abs/2502.10844) <br>
+Yuan Sun, Ting Wang <br>
+ACM CHI conference on Human Factors in Computing Systems (CHI'26)
 
-* [RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models](https://openreview.net/pdf?id=txZVQRc2ab) <br>
-Tanqiu Jiang, Changjiang Li, Fenglong Ma, Ting Wang <br>
-International Conference on Learning Representations (ICLR'25)
+* [Enhancing Medical Large Vision-Language Models via Alignment Distillation](https://arxiv.org/abs/2512.18554) <br>
+Aofei Chang, Ting Wang, Fenglong Ma <br>
+Annual AAAI Conference on Artificial Intelligence (AAAI'26)
 
-* [SongBsAb: A Dual Prevention Approach against Singing Voice Conversion based Illegal Song Covers](https://arxiv.org/pdf/2401.17133) <br>
-Guangke Chen, Yedi Zhang, Fu Song, Ting Wang, Xiaoning Du, Yang Liu <br>
-Network and Distributed System Security Symposium (NDSS'25)
-
-* [Waterpark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org/pdf/2411.13425) <br>
-Jiacheng Liang, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang <br>
-The Conference on Empirical Methods in Natural Language Processing (EMNLP'25)
 

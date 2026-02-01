@@ -17,12 +17,30 @@ ArXiv e-prints, 2018
 
 <hr>
 
-#### 2025 
+#### 2026
 
 * [GraphRAG under Fire!](https://arxiv.org/pdf/2501.14050) <br>
 Jiacheng Liang, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang <br>
 IEEE Symposium on Security and Privacy (S&P'26)
 
+* [Self-Destructive Language Models](https://arxiv.org/abs/2505.12186) <br>
+Yuhui Wang, Rongyi Zhu, Ting Wang <br>
+International Conference on Learning Representations (ICLR'26)
+
+* [Reasoning or Retrieval? A Study of Answer Attribution on Large Reasoning Models](https://arxiv.org/abs/2509.24156) <br>
+Yuhui Wang, Changjiang Li, Guangke Chen, Jiacheng Liang, Ting Wang <br>
+International Conference on Learning Representations (ICLR'26)
+
+* [Be Friendly, Not Friends: How LLM Sycophancy Shapes User Trust](https://arxiv.org/abs/2502.10844) <br>
+Yuan Sun, Ting Wang <br>
+ACM CHI conference on Human Factors in Computing Systems (CHI'26)
+
+* [Enhancing Medical Large Vision-Language Models via Alignment Distillation](https://arxiv.org/abs/2512.18554) <br>
+Aofei Chang, Ting Wang, Fenglong Ma <br>
+Annual AAAI Conference on Artificial Intelligence (AAAI'26)
+
+
+#### 2025 
 
 * [Watch the Watchers! On the Security Risks of Robustness-Enhancing Diffusion Models](https://arxiv.org/pdf/2406.09669) <br>
 Changjiang Li, Ren Pang, Bochuan Cao, Jinghui Chen, Fenglong Ma, Shouling Ji, Ting Wang <br>
