@@ -71,8 +71,11 @@ International Conference on Learning Representations (ICLR'26)
 Yuan Sun, Ting Wang <br>
 ACM CHI conference on Human Factors in Computing Systems (CHI'26)
 
-* [Enhancing Medical Large Vision-Language Models via Alignment Distillation](https://arxiv.org/abs/2512.18554) <br>
-Aofei Chang, Ting Wang, Fenglong Ma <br>
-Annual AAAI Conference on Artificial Intelligence (AAAI'26)
+* [Dynamic Token Reweighting for Robust Vision-Language Models](https://arxiv.org/pdf/2505.17132) <br>
+Tanqiu Jiang, Jiacheng Liang, Rongyi Zhu, Jiawei Zhou, Fenglong Ma, Ting Wang<br>
+International Conference on Learning Representations (CVPR'26)
 
+* [Towards Robust Multimodal Large Language Models Against Jailbreak Attacks](https://arxiv.org/pdf/2502.00653) <br>
+Ziyi Yin, Yuanpu Cao, Han Liu, Ting Wang, Jinghui Chen, Fenglong Ma <br>
+International Conference on Learning Representations (CVPR'26)
 

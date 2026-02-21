@@ -31,6 +31,14 @@ International Conference on Learning Representations (ICLR'26)
 Yuhui Wang, Changjiang Li, Guangke Chen, Jiacheng Liang, Ting Wang <br>
 International Conference on Learning Representations (ICLR'26)
 
+* [Dynamic Token Reweighting for Robust Vision-Language Models](https://arxiv.org/pdf/2505.17132) <br>
+Tanqiu Jiang, Jiacheng Liang, Rongyi Zhu, Jiawei Zhou, Fenglong Ma, Ting Wang<br>
+International Conference on Learning Representations (CVPR'26)
+
+* [Towards Robust Multimodal Large Language Models Against Jailbreak Attacks](https://arxiv.org/pdf/2502.00653) <br>
+Ziyi Yin, Yuanpu Cao, Han Liu, Ting Wang, Jinghui Chen, Fenglong Ma <br>
+International Conference on Learning Representations (CVPR'26)
+
 * [Be Friendly, Not Friends: How LLM Sycophancy Shapes User Trust](https://arxiv.org/abs/2502.10844) <br>
 Yuan Sun, Ting Wang <br>
 ACM CHI conference on Human Factors in Computing Systems (CHI'26)
