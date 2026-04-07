@@ -75,7 +75,11 @@ ACM CHI conference on Human Factors in Computing Systems (CHI'26)
 Tanqiu Jiang, Jiacheng Liang, Rongyi Zhu, Jiawei Zhou, Fenglong Ma, Ting Wang<br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)
 
-* [Automated Hijacking of Safety Reasoning in Large Reasoning Models](https://arxiv.org/pdf/2505.10846) <br>
+* [Towards Robust Multimodal Large Language Models Against Jailbreak Attacks](https://arxiv.org/pdf/2502.00653) <br>
+Ziyi Yin, Yuanpu Cao, Han Liu, Ting Wang, Jinghui Chen, Fenglong Ma <br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)
+
+* [Automated Hijacking of Safety Reasoning in Large Reasoning Models](https://arxiv.org/pdf/2502.00653) <br>
 Jiacheng Liang, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang <br>
 Annual Meeting of the Association for Computational Linguistics (ACL'26)
 
