@@ -1,6 +1,6 @@
 <!-- <h2 id="publications" style="margin: 2px 0px -15px;">Recent Publications ([Full List](site._includes.full-publications.md))</h2> -->
 
-## Recent Publications ([Full List]({{ site.baseurl }}/full-publications))
+## Recent Publications ([Full List](https://scholar.google.com/citations?user=cwcBTegAAAAJ&hl=en))
 
 <!-- 
 <div class="publications">
@@ -73,9 +73,9 @@ ACM CHI conference on Human Factors in Computing Systems (CHI'26)
 
 * [Dynamic Token Reweighting for Robust Vision-Language Models](https://arxiv.org/pdf/2505.17132) <br>
 Tanqiu Jiang, Jiacheng Liang, Rongyi Zhu, Jiawei Zhou, Fenglong Ma, Ting Wang<br>
-International Conference on Learning Representations (CVPR'26)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)
 
-* [Towards Robust Multimodal Large Language Models Against Jailbreak Attacks](https://arxiv.org/pdf/2502.00653) <br>
-Ziyi Yin, Yuanpu Cao, Han Liu, Ting Wang, Jinghui Chen, Fenglong Ma <br>
-International Conference on Learning Representations (CVPR'26)
+* [Automated Hijacking of Safety Reasoning in Large Reasoning Models](https://arxiv.org/pdf/2505.10846) <br>
+Jiacheng Liang, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang <br>
+Annual Meeting of the Association for Computational Linguistics (ACL'26)
 
