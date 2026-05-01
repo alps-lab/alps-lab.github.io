@@ -55,7 +55,7 @@
 </div> -->
 
 
-* [Agent](https://arxiv.org/pdf/2602.16901) <br>
+* [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](https://arxiv.org/pdf/2602.16901) <br>
 Tanqiu Jiang, Yuhui Wang, Jiacheng Liang, Ting Wang <br>
 International Conference on Machine Learning (ICML'26)
 
