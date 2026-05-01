@@ -55,9 +55,9 @@
 </div> -->
 
 
-* [GraphRAG under Fire!](https://arxiv.org/pdf/2501.14050) <br>
-Jiacheng Liang, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang <br>
-IEEE Symposium on Security and Privacy (S&P'26)
+* [Agent](https://arxiv.org/pdf/2602.16901) <br>
+Tanqiu Jiang, Yuhui Wang, Jiacheng Liang, Ting Wang <br>
+International Conference on Machine Learning (ICML'26)
 
 * [Self-Destructive Language Models](https://arxiv.org/abs/2505.12186) <br>
 Yuhui Wang, Rongyi Zhu, Ting Wang <br>
@@ -66,6 +66,10 @@ International Conference on Learning Representations (ICLR'26)
 * [Reasoning or Retrieval? A Study of Answer Attribution on Large Reasoning Models](https://arxiv.org/abs/2509.24156) <br>
 Yuhui Wang, Changjiang Li, Guangke Chen, Jiacheng Liang, Ting Wang <br>
 International Conference on Learning Representations (ICLR'26)
+
+* [GraphRAG under Fire!](https://arxiv.org/pdf/2501.14050) <br>
+Jiacheng Liang, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang <br>
+IEEE Symposium on Security and Privacy (S&P'26)
 
 * [Be Friendly, Not Friends: How LLM Sycophancy Shapes User Trust](https://arxiv.org/abs/2502.10844) <br>
 Yuan Sun, Ting Wang <br>
@@ -79,7 +83,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)
 Ziyi Yin, Yuanpu Cao, Han Liu, Ting Wang, Jinghui Chen, Fenglong Ma <br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)
 
-* [Automated Hijacking of Safety Reasoning in Large Reasoning Models](https://arxiv.org/pdf/2502.00653) <br>
+* [Automated Hijacking of Safety Reasoning in Large Reasoning Models](https://arxiv.org/pdf/2505.10846) <br>
 Jiacheng Liang, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang <br>
 Annual Meeting of the Association for Computational Linguistics (ACL'26)
 
