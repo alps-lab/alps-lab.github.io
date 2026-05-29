@@ -2,15 +2,15 @@
 layout: homepage
 ---
 
-## About Me
+### About Me
 
-I am Associate Professor and Empire Innovation Scholar in the Department of Computer Science at Stony Brook University. I conduct research at the intersection of security & privacy,  machine learning, and human-computer interaction, aiming to build <u>a rigorous security foundation for artificial intelligence (AI)-powered agentic systems</u>. My recent work focuses on improving AI systems along three major thrusts:
+I am Associate Professor and Empire Innovation Scholar in the Department of Computer Science at Stony Brook University. I conduct research at the intersection of security,  machine learning, and human-AI interaction, aiming to build <u> rigorous security foundations for emerging AI technologies</u>. My recent work focuses on improving agentic AI systems along three major thrusts:
 
-* Security Assurance -- resilient against malicious manipulations
-* Privacy Preservation -- respectful for individual privacy
-* Decision-Making Transparency -- interpretable to human perception
+* Security Assurance -- resilient against adversarial manipulations
+* Privacy Preservation -- respectful of individual privacy
+* Decision Transparency -- accountable to human understanding
 
-Before joining Stony Brook, I was Associate Professor in the College of IST at Penn State. I finished my Ph.D. at Georgia Tech and my undergrad study at Zhejiang University.
+Before joining Stony Brook, I was Associate Professor at Penn State. I received my Ph.D. from Georgia Tech and my B.E. from Zhejiang University.
 
 <!-- ## News
 
@@ -21,8 +21,7 @@ Before joining Stony Brook, I was Associate Professor in the College of IST at P
 - <label class="fund_label_style">Grant</label> NSF award to support our research on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212323">the Security Risks of AutoML</a>. Thank you, NSF!
 - <label class="info_label_style">Award</label> [Android App Analysis](https://dl.acm.org/doi/10.1145/3533767.3534410) received the ACM SIGSOFT Distinguished Paper award! -->
 
-## Team
-
+### Team
 I lead the <ins>A</ins>lgorithmic <ins>L</ins>earning, <ins>P</ins>rivacy, and <ins>S</ins>ecurity (ALPS) lab, where I am privileged to work alongside a team of exceptional talents, both in the past and present:
 
 **Current Members --** [Tanqiu Jiang](https://tanqiujiang.github.io/), [Jiacheng Liang](https://jackpurcell.github.io/), [Yuhui Wang](https://scholar.google.com/citations?user=eJgbw-oAAAAJ&hl=en), [Rongyi Zhu](https://scholar.google.com/citations?user=MA1MmFAAAAAJ&hl=zh-CN), [Ziyi Yin](https://ist.psu.edu/directory/zmy5171) (co-supervised with [Fenglong Ma](https://fenglong-ma.github.io/))
@@ -37,5 +36,7 @@ I lead the <ins>A</ins>lgorithmic <ins>L</ins>earning, <ins>P</ins>rivacy, and <
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/teaching.md %}
+
+{% include_relative _includes/sponsors.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
