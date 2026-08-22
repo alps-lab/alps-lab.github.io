@@ -2,8 +2,10 @@
 
 <h4 style="margin:0 10px 0;">Stony Brook</h4>
 
-* Computer System Security ([Fall 2025]({{ site.baseurl }}/teaching/cse509-2025))
-* Adversarial Machine Learning ([Spring 2024]({{ site.baseurl }}/teaching/cse590-2024), [Spring 2025]({{ site.baseurl }}/teaching/cse590-2025))
+* CSE360 Software Security ([Fall 2026]({{ site.baseurl }}/teaching/cse360-2026))
+* CSE509 Computer System Security (Fall 2025, [Fall 2026]({{ site.baseurl }}/teaching/cse509-2026))
+* CSE590 Adversarial Machine Learning (Spring 2024, Spring 2025)
+
 
 <h4 style="margin:0 10px 0;">Penn State</h4>
 

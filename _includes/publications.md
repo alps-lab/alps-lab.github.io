@@ -55,6 +55,7 @@
 </div> -->
 
 
+
 * [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](https://arxiv.org/pdf/2602.16901) <br>
 Tanqiu Jiang, Yuhui Wang, Jiacheng Liang, Ting Wang <br>
 International Conference on Machine Learning (ICML'26)
@@ -87,3 +88,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)
 Jiacheng Liang, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang <br>
 Annual Meeting of the Association for Computational Linguistics (ACL'26)
 
+* [Routing-Aware Safety Alignment for Mixture-of-Experts Models](https://arxiv.org/pdf/2602.04448) <br>
+Jiacheng Liang, Yuhui Wang, Tanqiu Jiang, Ting Wang <br>
+International Conference on Empirical Methods in Natural Language Processing (EMNLP'26)
