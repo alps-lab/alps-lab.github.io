@@ -56,6 +56,10 @@
 
 
 
+* [Safeguarding LLM Agents against Long-horizon Threats via Shadow Memory](https://arxiv.org/pdf/2605.03228) <br>
+Yuhui Wang, Tanqiu Jiang, Jiacheng Liang, Charles Fleming, Ting Wang <br>
+ACM Conference on Computer and Communications Security (CCS'26)
+
 * [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](https://arxiv.org/pdf/2602.16901) <br>
 Tanqiu Jiang, Yuhui Wang, Jiacheng Liang, Ting Wang <br>
 International Conference on Machine Learning (ICML'26)
