@@ -55,6 +55,9 @@
 </div> -->
 
 
+* [LaCache: Robust Semantic Caching for LLM Serving](https://arxiv.org/pdf/2608.01718) <br>
+Jiacheng Liang, Yuhui Wang, Tanqiu Jiang, Ting Wang <br>
+Annual Conference on Neural Information Processing Systems (NeurIPS'26)
 
 * [Safeguarding LLM Agents against Long-horizon Threats via Shadow Memory](https://arxiv.org/pdf/2605.03228) <br>
 Yuhui Wang, Tanqiu Jiang, Jiacheng Liang, Charles Fleming, Ting Wang <br>
