@@ -22,12 +22,9 @@ Before joining Stony Brook, I was Associate Professor at Penn State. I received 
 - <label class="info_label_style">Award</label> [Android App Analysis](https://dl.acm.org/doi/10.1145/3533767.3534410) received the ACM SIGSOFT Distinguished Paper award! -->
 
 ### Team
-I lead the <ins>A</ins>lgorithmic <ins>L</ins>earning, <ins>P</ins>rivacy, and <ins>S</ins>ecurity (ALPS) lab, where I am privileged to work alongside a team of exceptional talents, both in the past and present:
+I lead the <ins>A</ins>lgorithmic <ins>L</ins>earning, <ins>P</ins>rivacy, and <ins>S</ins>ecurity (ALPS) lab, where I am privileged to work alongside a team of exceptional talents, both in the [past]({{ site.baseurl }}/teaching/alumni) and present:
 
-**Current Members --** [Tanqiu Jiang](https://tanqiujiang.github.io/), [Jiacheng Liang](https://jackpurcell.github.io/), [Yuhui Wang](https://scholar.google.com/citations?user=eJgbw-oAAAAJ&hl=en), [Rongyi Zhu](https://scholar.google.com/citations?user=MA1MmFAAAAAJ&hl=zh-CN), [Ziyi Yin](https://ist.psu.edu/directory/zmy5171) (co-supervised with [Fenglong Ma](https://fenglong-ma.github.io/))
-
-
-**Alumni --** [Guangke Chen](https://guangkechen.site/) (>> Whuan University) [Changjiang Li](https://meet-cjli.github.io/) (>> Palo Alto Networks) [Ren Pang](https://ain-soph.github.io/) (>> Amazon), [Tianyu Du](https://tydusky.github.io/) (>> Zhejiang University), [Zhaohan Xi](https://zhaohan-xi.github.io/) (>> Binghamton), [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) (>> Amazon), [Tinghao Xie](https://tinghaoxie.com/) (>> Princeton), [Zheng Zhang](https://secantzhang.github.io) (>> Northwestern), [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) (>> Meta), [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) (>> Amazon), [Sam Nguyen](https://www.linkedin.com/in/chanhnp) (>> Google), [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (>> Bloomberg)
+**Current Members --** [Tanqiu Jiang](https://tanqiujiang.github.io/), [Jiacheng Liang](https://jackpurcell.github.io/), [Yuhui Wang](https://zjuwyh.github.io/), [Rongyi Zhu](https://scholar.google.com/citations?user=MA1MmFAAAAAJ&hl=zh-CN), [Ziyi Yin](https://ericyinyzy.github.io/) (co-supervised with [Fenglong Ma](https://fenglong-ma.github.io/))
 
 
 **Join Us! --**  We are ALWAYS looking for motivated and bright (under)grad students and postdocs. If you know how to build/hack AI systems, we should talk! Please email me your resume and set up a time to discuss your potential fit to our team.
