@@ -1,5 +1,8 @@
-### Alumni of ALPS Lab
+---
+layout: homepage
+---
 
+### Alumni of ALPS Lab
 
 - [Guangke Chen](https://guangkechen.site/) (Postdoc 2025 >> Assistant Professor at Whuan University) 
 - [Changjiang Li](https://meet-cjli.github.io/) (Ph.D. 2025 >> Research Scientist at Palo Alto Networks) 
